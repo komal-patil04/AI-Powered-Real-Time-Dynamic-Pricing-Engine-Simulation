@@ -1,0 +1,501 @@
+product_id,product_name,department,cost_price,current_price,price_elasticity,price_sensitivity,stock_urgency,recommended_price,price_change_pct,predicted_weekly_demand,predicted_weekly_revenue,predicted_weekly_profit,current_weekly_profit,profit_uplift,profit_uplift_pct,optimization_reason,optimization_date
+33627,Mix Popcorn,snacks,3.13,5.31,-4.04,High,LOW,4.07,-23.4,875.6,3563.58,823.04,628.73,194.31,30.9,"Elasticity -4.04, Stock:LOW",2024-06-28
+18193,Tangerine Lime Drink Tabs,missing,6.41,11.51,-5.0,High,LOW,8.49,-26.2,400.7,3402.15,833.51,429.6,403.91,94.0,"Elasticity -5.0, Stock:LOW",2024-06-28
+47100,Fire Roasted Diced Tomatoes With Seasonings,canned goods,2.01,3.93,-3.075,High,NORMAL,2.74,-30.3,354.1,970.21,258.49,218.76,39.73,18.2,"Elasticity -3.075, Stock:NORMAL",2024-06-28
+48184,Soy Curls,snacks,4.28,6.99,-1.0,Low,NORMAL,10.48,49.9,219.8,2303.21,1362.58,870.92,491.66,56.5,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+22198,"4X Ultra Concentrated Natural Laundry Detergent, Free & Clear",household,2.09,3.56,-2.43,High,LOW,3.77,5.9,238.7,899.99,401.06,386.88,14.18,3.7,"Elasticity -2.43, Stock:LOW",2024-06-28
+31574,Chocolate Deluxe Bars,snacks,1.77,3.67,-2.465,High,CRITICAL,3.38,-7.9,380.0,1284.34,611.77,571.82,39.95,7.0,"Elasticity -2.465, Stock:CRITICAL",2024-06-28
+45363,Stewed Mexican Recipe Sliced Tomatoes,canned goods,0.78,1.23,-1.0,Low,LOW,1.84,49.6,217.3,399.75,230.29,140.0,90.29,64.5,"Elasticity -1.0, Stock:LOW",2024-06-28
+14132,Chili Con Carne,frozen,8.23,13.39,-1.0,Low,LOW,20.08,50.0,125.3,2515.98,1484.78,925.09,559.69,60.5,"Elasticity -1.0, Stock:LOW",2024-06-28
+26904,Fruit Squish'ems Apple Strawberry,canned goods,2.18,3.4,-2.43,High,LOW,3.69,8.5,46.9,173.0,70.79,67.85,2.94,4.3,"Elasticity -2.43, Stock:LOW",2024-06-28
+39418,Sparkling Spruce Timeless Joy Holiday Candle,missing,5.4,9.08,-1.0,Low,CRITICAL,14.98,65.0,187.4,2807.54,1795.47,1098.86,696.61,63.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+28086,Pineapple Orange Strawberry 100% Juice,beverages,1.02,1.78,-1.0,Low,CRITICAL,2.94,65.2,202.0,593.81,387.79,246.37,141.42,57.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+200,Radiant Pantiliners Regular Wrapped Unscented,personal care,6.24,11.7,-1.105,Medium,LOW,17.55,50.0,162.8,2856.9,1841.12,1343.61,497.51,37.0,"Elasticity -1.105, Stock:LOW",2024-06-28
+36124,Culture Club Cabernet Grape Kombucha,beverages,8.11,12.74,-1.085,Medium,CRITICAL,21.02,65.0,24.6,517.67,317.94,189.19,128.75,68.1,"Elasticity -1.085, Stock:CRITICAL",2024-06-28
+21936,Vegetarian Refried Beans,canned goods,1.15,1.85,-1.0,Low,NORMAL,2.78,50.3,192.3,534.65,313.48,198.95,114.53,57.6,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+15135,"Wraps, Multi-Grain",bakery,1.23,2.68,-1.0,Low,CRITICAL,4.42,64.9,200.3,885.47,639.06,468.61,170.45,36.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+44563,Pumpkin Corn Tortilla Chips,snacks,1.77,3.88,-0.515,Low,NORMAL,5.82,50.0,255.6,1487.81,1035.33,642.56,392.77,61.1,"Elasticity -0.515, Stock:NORMAL",2024-06-28
+38122,24oz Heat & Eat Container,household,2.65,5.04,-1.65,High,NORMAL,6.76,34.1,182.5,1233.89,750.19,678.7,71.49,10.5,"Elasticity -1.65, Stock:NORMAL",2024-06-28
+28397,Blueberry Cobbler,breakfast,4.44,7.25,-0.54,Low,CRITICAL,11.96,65.0,243.7,2915.24,1832.99,857.48,975.51,113.8,"Elasticity -0.54, Stock:CRITICAL",2024-06-28
+34375,Salt Free Garam Masala Blend,pantry,4.09,6.32,-3.97,High,CRITICAL,5.67,-10.3,100.6,570.54,158.99,141.08,17.91,12.7,"Elasticity -3.97, Stock:CRITICAL",2024-06-28
+32359,Water Softening Pellets,household,2.36,4.91,-1.33,Medium,LOW,7.36,49.9,148.1,1090.34,740.72,626.48,114.24,18.2,"Elasticity -1.33, Stock:LOW",2024-06-28
+18238,Condensed Cream Of Onion Soup,canned goods,1.96,3.45,-3.485,High,NORMAL,2.58,-25.2,673.7,1738.04,417.67,349.63,68.04,19.5,"Elasticity -3.485, Stock:NORMAL",2024-06-28
+29286,Vegetarian DHA Softgels,personal care,1.78,3.39,-0.31,Low,CRITICAL,5.59,64.9,188.5,1053.65,718.14,338.05,380.09,112.4,"Elasticity -0.31, Stock:CRITICAL",2024-06-28
+38841,"Slow Cooker Sauces, Apple Bourbon Pulled Pork",pantry,3.17,4.92,-1.0,Low,CRITICAL,8.12,65.0,193.2,1568.5,956.16,527.63,428.53,81.2,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+24179,"Real Vegetable Chips, Sweets & Beets",snacks,3.25,5.25,-1.0,Low,LOW,7.88,50.1,208.1,1640.1,963.66,609.58,354.08,58.1,"Elasticity -1.0, Stock:LOW",2024-06-28
+34572,Forest Body Wash,personal care,4.05,6.56,-3.92,High,LOW,5.18,-21.0,489.4,2535.12,553.03,460.78,92.25,20.0,"Elasticity -3.92, Stock:LOW",2024-06-28
+26966,Chocolate Covered Ring Jells,international,5.36,9.85,-1.0,Low,NORMAL,14.77,49.9,199.7,2949.09,1878.87,1320.99,557.88,42.2,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+148,Nectarines,produce,1.49,2.8,-1.0,Low,LOW,4.2,50.0,213.9,898.24,579.58,412.01,167.57,40.7,"Elasticity -1.0, Stock:LOW",2024-06-28
+44666,Original Nooks & Crannies Cinnamon Raisin English Muffins,bakery,2.44,4.84,-1.97,High,NORMAL,4.91,1.4,302.4,1484.9,746.98,719.6,27.38,3.8,"Elasticity -1.97, Stock:NORMAL",2024-06-28
+8640,Invisible Solid Spring Breeze Antiperspirant/Deodorant 2.6 oz AP/DO & Body Spray,personal care,3.65,7.92,-1.0,Low,LOW,11.88,50.0,217.5,2583.5,1789.75,1363.56,426.19,31.3,"Elasticity -1.0, Stock:LOW",2024-06-28
+32056,Organic Super Tampons Wth Applicator,personal care,1.53,2.46,-1.0,Low,CRITICAL,4.06,65.0,205.6,834.92,520.29,306.24,214.05,69.9,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+43237,Freeze Off Wart Removal System,personal care,4.95,8.08,-2.09,High,CRITICAL,10.79,33.5,90.5,976.24,528.38,496.51,31.87,6.4,"Elasticity -2.09, Stock:CRITICAL",2024-06-28
+41511,Plastic 16 oz. Cups,household,2.41,3.71,-1.0,Low,CRITICAL,6.12,65.0,166.9,1021.36,619.16,345.72,273.44,79.1,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+37343,"Kefir, Nonfat, with FOS, Organic, Vanilla",dairy eggs,1.72,2.65,-1.0,Low,CRITICAL,4.37,64.9,209.4,915.04,554.89,311.33,243.56,78.2,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+35594,Organic Hemp Plus Granola Cereal,breakfast,6.45,11.49,-0.185,Low,CRITICAL,18.96,65.0,216.9,4113.15,2713.9,1161.99,1551.91,133.6,"Elasticity -0.185, Stock:CRITICAL",2024-06-28
+19923,Blueberry B Monster,beverages,8.78,14.54,-0.23,Low,LOW,21.81,50.0,302.8,6604.13,3945.52,1858.53,2086.99,112.3,"Elasticity -0.23, Stock:LOW",2024-06-28
+2211,Triple Enzyme Formula Spray Laundry Stain Remover,household,6.44,10.08,-0.735,Low,LOW,15.12,50.0,174.6,2639.75,1515.41,820.79,694.62,84.6,"Elasticity -0.735, Stock:LOW",2024-06-28
+31493,Soft Toothbrush Powered By Yogurt Cups,personal care,3.13,5.05,-1.0,Low,NORMAL,7.57,49.9,208.4,1577.62,925.31,585.31,340.0,58.1,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+3932,Wasabi,international,1.49,2.98,-3.35,High,LOW,2.05,-31.2,541.0,1109.0,302.95,224.54,78.41,34.9,"Elasticity -3.35, Stock:LOW",2024-06-28
+37161,Blueberry Acai Yogurt,dairy eggs,4.77,8.84,-3.3,High,HIGH,6.38,-27.8,318.0,2028.78,511.96,427.34,84.62,19.8,"Elasticity -3.3, Stock:HIGH",2024-06-28
+7095,Vanilla Bean Tea Bags,beverages,3.54,7.44,-1.225,Medium,CRITICAL,12.28,65.1,87.0,1068.13,760.21,605.79,154.42,25.5,"Elasticity -1.225, Stock:CRITICAL",2024-06-28
+3594,Milk Whole,dairy eggs,2.06,3.22,-3.66,High,LOW,3.05,-5.3,411.6,1255.42,407.5,377.23,30.27,8.0,"Elasticity -3.66, Stock:LOW",2024-06-28
+41233,Riced Cauliflower,missing,3.97,6.95,-1.0,Low,LOW,10.42,49.9,187.1,1949.48,1206.73,813.99,392.74,48.2,"Elasticity -1.0, Stock:LOW",2024-06-28
+16913,"Licorice, Soft",snacks,1.37,2.76,-1.08,Medium,CRITICAL,4.55,64.9,199.1,905.86,633.1,462.78,170.32,36.8,"Elasticity -1.08, Stock:CRITICAL",2024-06-28
+39365,French Vanilla Syrup,pantry,6.48,11.09,-1.0,Low,LOW,16.63,50.0,212.2,3528.84,2153.8,1415.56,738.24,52.2,"Elasticity -1.0, Stock:LOW",2024-06-28
+10982,Organic Nectarine & Plum Conserve,produce,1.82,3.18,-0.51,Low,CRITICAL,5.25,65.1,197.9,1039.15,678.91,330.72,348.19,105.3,"Elasticity -0.51, Stock:CRITICAL",2024-06-28
+35976,Sweet Cream Whipped Butter Salted,dairy eggs,4.5,8.63,-2.15,High,LOW,8.84,2.4,263.0,2325.32,1141.62,1105.53,36.09,3.3,"Elasticity -2.15, Stock:LOW",2024-06-28
+39370,Honey Peanut Butter Hot Oatmeal Bowl,breakfast,2.42,5.12,-1.0,Low,CRITICAL,8.45,65.0,34.8,293.89,209.72,149.54,60.18,40.2,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+31235,Velveeta Reduced Fat 2% Milk Shells Cheese,dry goods pasta,4.21,7.2,-4.13,High,NORMAL,5.48,-23.9,1004.1,5502.38,1275.19,937.99,337.2,35.9,"Elasticity -4.13, Stock:NORMAL",2024-06-28
+27873,Gourmet Spicy Barbecue Sauce,pantry,4.14,7.47,-0.295,Low,CRITICAL,12.33,65.1,278.6,3435.27,2281.82,1055.14,1226.68,116.3,"Elasticity -0.295, Stock:CRITICAL",2024-06-28
+32901,Organic Half & Half Guayusa Lemonade Tea,beverages,2.42,4.0,-2.74,High,CRITICAL,4.06,1.5,264.2,1072.65,433.29,423.84,9.45,2.2,"Elasticity -2.74, Stock:CRITICAL",2024-06-28
+29869,New Zealand Artesian Water,beverages,8.08,14.59,-1.0,Low,NORMAL,21.88,50.0,109.7,2400.06,1513.75,1039.87,473.88,45.6,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+5046,Vanilla Chocolate Peanut Butter Ice Cream Bars Multi-Pack,frozen,7.63,12.3,-2.99,High,LOW,11.49,-6.6,226.3,2600.23,873.53,817.79,55.74,6.8,"Elasticity -2.99, Stock:LOW",2024-06-28
+2323,Rich Chocolate Flavored Milk Mix,beverages,7.95,14.18,-1.0,Low,LOW,21.27,50.0,93.1,1979.53,1239.65,838.77,400.88,47.8,"Elasticity -1.0, Stock:LOW",2024-06-28
+42970,Lite Honey Mustard Dressing Topping & Spread,pantry,6.16,10.95,-1.0,Low,LOW,16.42,50.0,227.1,3728.48,2329.73,1587.52,742.21,46.8,"Elasticity -1.0, Stock:LOW",2024-06-28
+2768,Lip Care Stick,personal care,4.99,7.98,-1.0,Low,CRITICAL,13.17,65.0,117.3,1544.93,959.57,568.76,390.81,68.7,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+48727,Garlic & Herb Pasta Sauce,dry goods pasta,5.95,11.22,-1.0,Low,CRITICAL,18.51,65.0,119.0,2203.61,1495.26,1013.71,481.55,47.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+20443,"Pita Bites, Original Sea Salt",snacks,1.51,3.16,-1.21,Medium,CRITICAL,5.21,64.9,180.3,939.43,667.15,528.22,138.93,26.3,"Elasticity -1.21, Stock:CRITICAL",2024-06-28
+45355,Deep Clean Cream Cleanser,personal care,1.8,3.96,-1.47,Medium,CRITICAL,6.53,64.9,93.8,612.31,443.53,410.0,33.53,8.2,"Elasticity -1.47, Stock:CRITICAL",2024-06-28
+31966,Angel Hair Pasta With Herbs,dry goods pasta,1.47,2.45,-1.0,Low,CRITICAL,4.04,64.9,92.5,373.87,237.83,144.54,93.29,64.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+41380,Country Style Pork Ribs,meat seafood,6.22,10.83,-2.31,High,CRITICAL,12.53,15.7,232.3,2910.45,1465.68,1441.77,23.91,1.7,"Elasticity -2.31, Stock:CRITICAL",2024-06-28
+43281,Organic Lemon Perfume Oil,household,3.48,5.89,-2.35,High,CRITICAL,6.87,16.6,116.6,801.0,395.26,392.42,2.84,0.7,"Elasticity -2.35, Stock:CRITICAL",2024-06-28
+15171,Reclosable Sandwich Extra Large Bags,household,2.32,4.71,-1.215,Medium,LOW,7.06,49.9,115.5,815.57,547.56,442.89,104.67,23.6,"Elasticity -1.215, Stock:LOW",2024-06-28
+9721,Steamfresh Protein Italian Style,frozen,6.18,12.94,-1.0,Low,CRITICAL,21.35,65.0,186.6,3984.23,2830.95,2029.32,801.63,39.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+28158,Farmer Cheese,dairy eggs,2.52,5.57,-0.605,Low,CRITICAL,9.19,65.0,223.0,2049.35,1487.39,902.16,585.23,64.9,"Elasticity -0.605, Stock:CRITICAL",2024-06-28
+21927,Organic Boneless Skinless Chicken Breast,meat seafood,5.15,9.9,-0.2,Low,NORMAL,14.85,50.0,288.8,4288.74,2801.4,1454.2,1347.2,92.6,"Elasticity -0.2, Stock:NORMAL",2024-06-28
+16064,"Bread Crumbs, Panko, Seasoned Italian Style",pantry,4.22,7.43,-2.29,High,LOW,7.79,4.8,87.4,680.83,312.01,301.22,10.79,3.6,"Elasticity -2.29, Stock:LOW",2024-06-28
+34864,Pet Waste Bags,pets,1.8,3.41,-0.21,Low,NORMAL,5.12,50.1,75.3,385.49,249.97,127.11,122.86,96.7,"Elasticity -0.21, Stock:NORMAL",2024-06-28
+48383,Whole Wheat Flour,pantry,5.39,10.02,-1.0,Low,NORMAL,15.03,50.0,218.9,3290.57,2110.52,1491.52,619.0,41.5,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+20636,Pure Sport Body Wash,personal care,1.73,2.75,-1.0,Low,LOW,4.12,49.8,183.8,757.35,439.34,270.16,169.18,62.6,"Elasticity -1.0, Stock:LOW",2024-06-28
+6180,Fit Popcorn Extra Virgin Olive Oil,snacks,5.14,9.9,-1.0,Low,CRITICAL,16.34,65.1,209.9,3430.35,2351.28,1606.21,745.07,46.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+42636,Organic Microwave Popcorn No Salt or Oil,snacks,4.58,8.29,-5.0,High,LOW,6.08,-26.7,418.5,2544.32,627.71,319.17,308.54,96.7,"Elasticity -5.0, Stock:LOW",2024-06-28
+45816,Fresh Collection Fiji Antiperpirant & Deodorant,personal care,2.42,3.99,-1.0,Low,CRITICAL,6.58,64.9,39.9,262.54,165.98,100.35,65.63,65.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+31873,Unscented Regular Pantiliners,personal care,1.09,2.06,-1.0,Low,CRITICAL,3.4,65.0,207.3,704.93,478.94,325.24,153.7,47.3,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+7991,Smoth & Creamy Low Fat Vanilla Frozen Yogurt,frozen,7.35,12.79,-3.09,High,NORMAL,11.54,-9.8,272.3,3142.85,1141.12,1043.86,97.26,9.3,"Elasticity -3.09, Stock:NORMAL",2024-06-28
+38531,Organic Sweet Potato Multigrain Tortilla Chips,snacks,4.86,7.8,-5.0,High,LOW,6.2,-20.5,684.8,4245.86,917.65,612.63,305.02,49.8,"Elasticity -5.0, Stock:LOW",2024-06-28
+6577,Sense & Spray Str Clean Linen Scent Air Freshener,household,5.94,9.29,-2.335,High,LOW,10.09,8.6,57.1,576.57,237.14,225.56,11.58,5.1,"Elasticity -2.335, Stock:LOW",2024-06-28
+31250,Apples Honeycrisp,missing,4.66,9.71,-1.0,Low,NORMAL,14.57,50.1,204.2,2975.14,2023.59,1518.86,504.73,33.2,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+10521,Carb Balance Small Fajita Whole Wheat Tortillas,bakery,1.26,1.98,-1.0,Low,CRITICAL,3.27,65.2,44.6,145.73,89.58,49.92,39.66,79.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+44203,Crystal Pacifier,babies,3.06,5.58,-1.82,High,LOW,6.65,19.2,229.6,1526.55,824.11,773.71,50.4,6.5,"Elasticity -1.82, Stock:LOW",2024-06-28
+6949,Creamy Broth with Mackerel & Vegetables Cat Food,pets,1.59,3.16,-2.035,High,CRITICAL,3.53,11.7,212.2,748.98,411.62,409.75,1.87,0.5,"Elasticity -2.035, Stock:CRITICAL",2024-06-28
+4829,Life Wheat + Protein Bread,missing,5.76,10.63,-1.0,Low,CRITICAL,17.54,65.0,182.9,3208.13,2154.61,1442.72,711.89,49.3,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+36362,"Baked Crackers, Cheddar Cheese",breakfast,5.32,8.23,-1.0,Low,NORMAL,12.34,49.9,215.4,2657.47,1511.78,907.73,604.05,66.5,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+4470,Cherry Liquid Drink Mix,beverages,3.27,5.97,-0.9,Medium,CRITICAL,9.85,65.0,143.1,1409.08,941.3,591.94,349.36,59.0,"Elasticity -0.9, Stock:CRITICAL",2024-06-28
+11800,Italian Castelvetrano Whole Green Olives,pantry,1.36,2.64,-3.84,High,CRITICAL,2.04,-22.7,93.4,190.52,63.51,43.48,20.03,46.1,"Elasticity -3.84, Stock:CRITICAL",2024-06-28
+315,Creamy Italian Dressing Marinade,pantry,2.95,5.11,-3.05,High,LOW,4.62,-9.6,59.0,272.68,98.57,89.16,9.41,10.6,"Elasticity -3.05, Stock:LOW",2024-06-28
+20677,Homestyle Creamy Chicken & Herb Dumplings Soup,canned goods,1.15,2.3,-1.0,Low,NORMAL,3.45,50.0,213.0,734.85,489.9,359.37,130.53,36.3,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+18393,Mango Baby Breakfast Stage 2,babies,4.33,9.3,-1.0,Low,CRITICAL,15.35,65.1,191.1,2934.15,2106.47,1532.47,574.0,37.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+31317,Mandarin Oranges in Light Syrup Fruit Cups,canned goods,1.69,3.55,-1.0,Low,LOW,5.32,49.9,130.3,693.32,473.07,354.26,118.81,33.5,"Elasticity -1.0, Stock:LOW",2024-06-28
+19892,Classic Basil Pesto Sauce,dry goods pasta,5.17,10.87,-1.0,Low,LOW,16.3,50.0,215.7,3515.36,2400.36,1801.18,599.18,33.3,"Elasticity -1.0, Stock:LOW",2024-06-28
+18628,Organic Volcano Rice Ready To Eat Bowl,dry goods pasta,3.23,6.72,-1.0,Low,LOW,10.08,50.0,227.7,2295.55,1559.97,1168.57,391.4,33.5,"Elasticity -1.0, Stock:LOW",2024-06-28
+5583,Kentucky Whisky,alcohol,1.53,3.2,-1.0,Low,CRITICAL,5.28,65.0,187.9,992.32,704.77,505.55,199.22,39.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+34747,The Hulk Banana Coconut Spirulina Paleo Muffins,bakery,3.55,6.14,-1.0,Low,CRITICAL,10.13,65.0,175.4,1776.3,1153.81,728.06,425.75,58.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+35087,Blemish Clearing Serum,personal care,4.67,9.61,-3.48,High,CRITICAL,7.14,-25.7,906.9,6474.94,2239.93,1558.23,681.7,43.7,"Elasticity -3.48, Stock:CRITICAL",2024-06-28
+18766,Canola Vegetable Oil Blend,pantry,3.95,7.61,-4.075,High,LOW,5.36,-29.6,1329.1,7123.71,1873.96,1140.23,733.73,64.3,"Elasticity -4.075, Stock:LOW",2024-06-28
+32343,Bianco D'oro Italian Dry Salame,deli,6.11,9.71,-3.59,High,CRITICAL,10.05,3.5,262.3,2636.15,1033.48,1032.78,0.7,0.1,"Elasticity -3.59, Stock:CRITICAL",2024-06-28
+38625,Tomato Sauce With Basil,dry goods pasta,3.78,6.94,-1.0,Low,CRITICAL,11.45,65.0,161.0,1843.26,1234.75,815.97,418.78,51.3,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+7599,Sensor 2 Plus Disposable Razors,personal care,4.22,7.23,-1.0,Low,CRITICAL,11.93,65.0,159.3,1900.04,1227.94,755.12,472.82,62.6,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+4730,Original Toothbrush Soft Right,personal care,3.04,6.28,-1.0,Low,CRITICAL,10.36,65.0,103.8,1075.14,759.65,535.96,223.69,41.7,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+29960,"Acini di Pepe, No. 78",dry goods pasta,1.1,2.25,-1.0,Low,CRITICAL,3.71,64.9,211.1,783.23,551.0,391.76,159.24,40.6,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+7515,Spinach And Ricotta Ravioli,dairy eggs,1.41,3.08,-1.0,Low,CRITICAL,5.08,64.9,139.7,709.63,512.67,371.68,140.99,37.9,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+42849,Ice Cream Cones,snacks,1.33,2.74,-0.55,Low,LOW,4.11,50.0,162.0,665.91,450.42,276.88,173.54,62.7,"Elasticity -0.55, Stock:LOW",2024-06-28
+15556,Original Sliced Grand Cru Cheese,dairy eggs,4.23,8.36,-1.0,Low,LOW,12.54,50.0,206.6,2590.76,1716.85,1241.53,475.32,38.3,"Elasticity -1.0, Stock:LOW",2024-06-28
+38094,Sriracha Ketchup,pantry,2.49,5.14,-1.0,Low,LOW,7.71,50.0,140.5,1083.51,733.58,546.59,186.99,34.2,"Elasticity -1.0, Stock:LOW",2024-06-28
+21957,Bittersweet Sea Salt Chocolate Bar,snacks,2.95,6.31,-5.0,High,CRITICAL,4.57,-27.6,1320.3,6033.97,2138.96,864.57,1274.39,147.4,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+42796,Broccoli Pot Pie With Cheddar Cheese Sauce,frozen,6.59,13.89,-1.0,Low,LOW,20.84,50.0,210.3,4382.3,2996.53,2237.77,758.76,33.9,"Elasticity -1.0, Stock:LOW",2024-06-28
+42805,Sliced Jalapenos,pantry,2.43,4.49,-1.0,Low,CRITICAL,7.41,65.0,118.2,876.0,588.73,393.56,195.17,49.6,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+20571,Cashew Butter + Bourbon Vanilla Chocolate Bar,snacks,2.74,5.58,-1.0,Low,CRITICAL,9.21,65.1,158.2,1456.94,1023.49,716.73,306.76,42.8,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+1591,Redness Relief Cooling Eye Drops,personal care,5.0,9.56,-5.0,High,LOW,6.76,-29.3,366.5,2477.87,645.12,284.73,360.39,126.6,"Elasticity -5.0, Stock:LOW",2024-06-28
+22272,Gluten Free Matzo Ball & Soup Mix,international,2.36,4.29,-1.435,Medium,CRITICAL,7.08,65.0,148.5,1051.54,701.03,572.09,128.94,22.5,"Elasticity -1.435, Stock:CRITICAL",2024-06-28
+1031,Cold Remedy Orange Cream Ultra RapidMelt,personal care,1.63,2.77,-3.67,High,LOW,2.12,-23.5,758.1,1607.15,371.46,313.32,58.14,18.6,"Elasticity -3.67, Stock:LOW",2024-06-28
+24466,Moroccan Red Clay and Argan Stem Cell Pore Minimizing Facial Scrub,personal care,2.24,4.9,-1.0,Low,LOW,7.35,50.0,188.9,1388.66,965.45,735.99,229.46,31.2,"Elasticity -1.0, Stock:LOW",2024-06-28
+20076,RRRuffles Have Ridges Reduced Fat Potato Chips,snacks,2.26,3.71,-5.0,High,CRITICAL,3.2,-13.7,667.8,2136.92,627.72,443.66,184.06,41.5,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+9593,Grilled Salmon Feast in Gravy Cat Food,pets,6.5,11.3,-0.88,Medium,CRITICAL,18.65,65.0,199.1,3712.88,2418.85,1444.54,974.31,67.4,"Elasticity -0.88, Stock:CRITICAL",2024-06-28
+39051,Organic Tropical Fruit Blend,frozen,5.92,12.7,-1.87,High,NORMAL,12.63,-0.6,313.7,3962.36,2105.1,2052.58,52.52,2.6,"Elasticity -1.87, Stock:NORMAL",2024-06-28
+41006,Organic Onion Powder,pantry,5.2,8.33,-5.0,High,EXCESS,5.64,-32.3,2157.6,12168.78,949.34,927.62,21.72,2.3,"Elasticity -5.0, Stock:EXCESS",2024-06-28
+36552,Gourmet Popping Corn Original,snacks,5.73,9.04,-1.0,Low,CRITICAL,14.92,65.0,200.6,2992.24,1843.08,1065.86,777.22,72.9,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+19792,L-Glutamine Dietary Supplement,personal care,4.64,10.04,-1.0,Low,LOW,15.06,50.0,229.2,3451.75,2388.26,1812.05,576.21,31.8,"Elasticity -1.0, Stock:LOW",2024-06-28
+33055,Organic Golden Delicious Apple,produce,1.37,2.71,-0.845,Medium,LOW,4.06,49.8,225.9,917.21,607.71,409.44,198.27,48.4,"Elasticity -0.845, Stock:LOW",2024-06-28
+1705,Disney Frozen Fruit Flavored Snacks,snacks,5.62,9.19,-4.57,High,CRITICAL,7.94,-13.6,603.5,4791.96,1400.17,1066.71,333.46,31.3,"Elasticity -4.57, Stock:CRITICAL",2024-06-28
+6751,"Drink Tabs, Strawberry Lemonade",beverages,5.26,8.78,-1.0,Low,NORMAL,13.17,50.0,172.7,2274.9,1366.32,882.34,483.98,54.9,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+13657,Coleslaw Dressing Calorie Free,pantry,4.9,10.07,-1.42,Medium,CRITICAL,16.62,65.0,44.0,731.86,516.09,451.44,64.65,14.3,"Elasticity -1.42, Stock:CRITICAL",2024-06-28
+9268,Organic Fruit Spread Wild Blueberry,pantry,5.39,10.96,-1.0,Low,LOW,16.44,50.0,200.4,3294.58,2214.42,1625.26,589.16,36.3,"Elasticity -1.0, Stock:LOW",2024-06-28
+14204,Organic White Meat Chicken Pie,frozen,3.57,6.82,-1.0,Low,NORMAL,10.23,50.0,185.3,1895.28,1233.88,884.36,349.52,39.5,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+35006,Glycerin Hand Soap Rosemary,personal care,1.7,3.1,-1.08,Medium,CRITICAL,5.12,65.2,138.7,709.96,474.23,325.08,149.15,45.9,"Elasticity -1.08, Stock:CRITICAL",2024-06-28
+34830,Tini Twists Pretzels,snacks,2.42,4.21,-4.39,High,CRITICAL,3.49,-17.1,467.3,1630.74,499.97,357.22,142.75,40.0,"Elasticity -4.39, Stock:CRITICAL",2024-06-28
+16228,Pad Thai Noodle Bowl,international,3.28,6.27,-0.9,Medium,LOW,9.4,49.9,237.3,2230.34,1452.09,987.63,464.46,47.0,"Elasticity -0.9, Stock:LOW",2024-06-28
+8995,"Oatmeal, Instant, Banana Maple with Flax",breakfast,5.52,10.18,-5.0,High,LOW,7.37,-27.6,1597.4,11772.97,2955.22,1425.28,1529.94,107.3,"Elasticity -5.0, Stock:LOW",2024-06-28
+22782,Original Key Lime Pie Yogurt,dairy eggs,6.36,10.61,-2.49,High,CRITICAL,12.43,17.2,165.3,2054.06,1003.07,1010.34,-7.27,-0.7,"Elasticity -2.49, Stock:CRITICAL",2024-06-28
+3919,Hearty Grains 100% Whole Wheat English Muffins,bakery,0.71,1.55,-1.11,Medium,LOW,2.33,50.3,216.5,504.34,350.66,280.59,70.07,25.0,"Elasticity -1.11, Stock:LOW",2024-06-28
+11221,Rotini Pasta With Three Cheese Sauce,dry goods pasta,3.56,7.11,-1.0,Low,CRITICAL,11.73,65.0,181.9,2133.71,1486.14,1035.02,451.12,43.6,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+22412,HE Turbo Clean Ultra Stain Release Liquid Laundry Detergent,household,3.66,6.17,-0.405,Low,NORMAL,9.25,49.9,135.5,1253.0,757.22,386.29,370.93,96.0,"Elasticity -0.405, Stock:NORMAL",2024-06-28
+16704,Bag Pink Lady Apples,produce,1.85,2.94,-1.4,Medium,LOW,4.41,50.0,33.2,146.24,84.89,61.5,23.39,38.0,"Elasticity -1.4, Stock:LOW",2024-06-28
+13390,Deli Deluxe 2% Milk American Cheese Slices,dairy eggs,1.77,3.2,-0.43,Low,LOW,4.8,50.0,272.7,1308.79,826.17,450.83,375.34,83.3,"Elasticity -0.43, Stock:LOW",2024-06-28
+9027,Drink Original Unsweetened,dairy eggs,2.99,5.38,-0.92,Medium,CRITICAL,8.88,65.1,200.0,1776.34,1178.23,729.07,449.16,61.6,"Elasticity -0.92, Stock:CRITICAL",2024-06-28
+3212,"Vinegar, Red Wine",pantry,5.39,11.43,-0.54,Low,CRITICAL,18.86,65.0,100.3,1892.43,1351.59,765.0,586.59,76.7,"Elasticity -0.54, Stock:CRITICAL",2024-06-28
+6677,Organic Whole Mushrooms,produce,1.94,3.6,-1.0,Low,LOW,5.4,50.0,224.1,1210.32,775.5,544.83,230.67,42.3,"Elasticity -1.0, Stock:LOW",2024-06-28
+8649,Variety Snaps With Real Beef/Chicken/Liver & Lamb Flavors,pets,4.0,7.19,-0.83,Medium,CRITICAL,11.86,65.0,224.8,2666.39,1767.1,1058.18,708.92,67.0,"Elasticity -0.83, Stock:CRITICAL",2024-06-28
+34457,100% Organic Unbleached White Whole Wheat Flour,pantry,4.5,9.03,-1.0,Low,HIGH,13.54,49.9,219.7,2974.48,1985.92,1453.94,531.98,36.6,"Elasticity -1.0, Stock:HIGH",2024-06-28
+42355,ProActive Health MiniChunks Adult Dog Food,pets,2.84,5.64,-1.0,Low,LOW,8.46,50.0,220.6,1866.28,1239.77,897.85,341.92,38.1,"Elasticity -1.0, Stock:LOW",2024-06-28
+16356,Turkey & Brown Rice Dog Food,pets,6.16,11.72,-1.0,Low,CRITICAL,19.34,65.0,148.2,2865.54,1952.83,1306.76,646.07,49.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+33819,Original French Vanilla Yogurt,dairy eggs,5.28,11.62,-1.46,Medium,CRITICAL,19.17,65.0,121.6,2330.54,1688.64,1559.78,128.86,8.3,"Elasticity -1.46, Stock:CRITICAL",2024-06-28
+46381,Tricolor Pearl Couscous,dry goods pasta,2.33,4.52,-1.0,Low,CRITICAL,7.46,65.0,71.4,532.91,366.46,251.66,114.8,45.6,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+13905,Shabbos Candles,international,3.43,6.97,-1.0,Low,CRITICAL,11.5,65.0,198.0,2277.1,1597.93,1129.8,468.13,41.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+30801,Classic Original Mint Mouthwash,personal care,2.58,5.01,-1.0,Low,CRITICAL,8.27,65.1,172.6,1427.35,982.06,676.01,306.05,45.3,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+21623,ZzzQuil Nighttime Liquid Sleep-Aid Twin Pack,personal care,2.3,4.85,-5.0,High,LOW,3.22,-33.6,2655.9,8552.1,2443.46,859.01,1584.45,184.5,"Elasticity -5.0, Stock:LOW",2024-06-28
+7290,Peas Baby 2nd Foods,babies,1.49,2.37,-1.66,High,LOW,3.56,50.2,60.9,216.88,126.11,100.91,25.2,25.0,"Elasticity -1.66, Stock:LOW",2024-06-28
+40396,Guacamole,deli,4.61,8.1,-2.49,High,CRITICAL,8.0,-1.2,209.8,1678.32,711.19,679.49,31.7,4.7,"Elasticity -2.49, Stock:CRITICAL",2024-06-28
+48126,Braunschweiger Lunchmeat,meat seafood,8.53,14.56,-1.0,Low,LOW,21.84,50.0,218.3,4766.94,2905.13,1928.11,977.02,50.7,"Elasticity -1.0, Stock:LOW",2024-06-28
+18674,Spaghetti Tangy Italian Dinner,dry goods pasta,1.53,2.51,-1.365,Medium,LOW,3.76,49.8,192.2,722.72,428.63,313.79,114.84,36.6,"Elasticity -1.365, Stock:LOW",2024-06-28
+18811,Organic Apple Juice,beverages,2.89,5.26,-1.0,Low,LOW,7.89,50.0,160.9,1269.24,804.33,557.95,246.38,44.2,"Elasticity -1.0, Stock:LOW",2024-06-28
+3503,Gentle Glide 360° Fresh Scent Regular/Super Absorbency Multi-Pack Tampons,personal care,5.18,11.08,-1.0,Low,NORMAL,16.62,50.0,77.2,1283.06,883.17,665.33,217.84,32.7,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+25357,Homestyle Harvest Tomato with Basil Soup,canned goods,1.09,1.96,-0.285,Low,CRITICAL,3.23,64.8,193.4,624.71,413.89,187.19,226.7,121.1,"Elasticity -0.285, Stock:CRITICAL",2024-06-28
+11025,Mighty Pacs,household,1.96,3.45,-2.925,High,CRITICAL,3.41,-1.2,222.3,757.88,322.27,308.52,13.75,4.5,"Elasticity -2.925, Stock:CRITICAL",2024-06-28
+15036,Allergy 24 Hour 10mg Tablets,personal care,4.13,6.89,-1.0,Low,NORMAL,10.34,50.1,218.8,2262.68,1358.92,875.62,483.3,55.2,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+4244,MSM Sulfur Capsules,personal care,6.36,11.86,-1.0,Low,NORMAL,17.79,50.0,114.7,2041.11,1311.4,916.91,394.49,43.0,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+46110,Triple Zero Cherry Greek Yogurt,missing,2.1,4.42,-1.3,Medium,NORMAL,6.63,50.0,94.0,623.07,425.72,358.88,66.84,18.6,"Elasticity -1.3, Stock:NORMAL",2024-06-28
+41763,Turkey Gravy Mix,pantry,4.42,8.72,-1.0,Low,LOW,13.08,50.0,149.2,1951.54,1292.07,928.53,363.54,39.2,"Elasticity -1.0, Stock:LOW",2024-06-28
+40125,"Face Scrub, Original",personal care,5.03,9.62,-3.37,High,CRITICAL,7.49,-22.1,740.5,5546.56,1821.7,1408.9,412.8,29.3,"Elasticity -3.37, Stock:CRITICAL",2024-06-28
+20439,All Natural Almond Slices,snacks,2.48,4.28,-2.0,High,LOW,5.15,20.3,213.8,1101.24,570.93,539.37,31.56,5.9,"Elasticity -2.0, Stock:LOW",2024-06-28
+41383,Family Size Hearts of Romaine,produce,3.51,6.23,-4.48,High,LOW,4.63,-25.7,1252.3,5798.37,1402.63,874.56,528.07,60.4,"Elasticity -4.48, Stock:LOW",2024-06-28
+4029,"Organic Corn Thins, Original",snacks,2.74,5.26,-3.67,High,CRITICAL,4.08,-22.4,854.1,3484.6,1144.45,823.35,321.1,39.0,"Elasticity -3.67, Stock:CRITICAL",2024-06-28
+47593,Tots Yogurt Mish Mash Berry Banana Beet,babies,5.39,8.32,-1.0,Low,CRITICAL,13.73,65.0,171.7,2357.89,1432.25,817.1,615.15,75.3,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+3781,Sheer Moisture Lip Tint - Adorn,personal care,4.76,8.34,-1.82,High,LOW,10.01,20.0,222.5,2227.45,1168.24,1084.92,83.32,7.7,"Elasticity -1.82, Stock:LOW",2024-06-28
+17228,Sriracha Chicken Breast,meat seafood,7.59,15.25,-0.23,Low,CRITICAL,25.16,65.0,244.8,6159.68,4301.49,2039.37,2262.12,110.9,"Elasticity -0.23, Stock:CRITICAL",2024-06-28
+48716,Meyer Lemon Miracle Tart,bakery,0.98,2.09,-5.0,High,LOW,1.38,-34.0,2502.7,3453.69,1001.07,341.58,659.49,193.1,"Elasticity -5.0, Stock:LOW",2024-06-28
+31192,Free & Clear  Natural Dish Liquid,household,4.97,10.35,-1.0,Low,CRITICAL,17.08,65.0,177.4,3030.48,2148.66,1533.5,615.16,40.1,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+4460,Non Gmo Snickerdoodle Protein Bar,snacks,2.45,4.91,-1.0,Low,LOW,7.36,49.9,204.2,1502.95,1002.65,738.5,264.15,35.8,"Elasticity -1.0, Stock:LOW",2024-06-28
+42698,Hot Pork Sausage,frozen,2.53,5.24,-2.595,High,LOW,4.39,-16.2,382.4,1678.92,711.34,633.27,78.07,12.3,"Elasticity -2.595, Stock:LOW",2024-06-28
+28093,Pork Potsticker,frozen,1.7,3.49,-1.21,Medium,NORMAL,5.24,50.1,51.9,271.74,183.58,146.67,36.91,25.2,"Elasticity -1.21, Stock:NORMAL",2024-06-28
+30856,Whole Grain White Hamburger Buns,bakery,2.71,5.34,-0.26,Low,CRITICAL,8.81,65.0,288.9,2545.49,1762.48,847.05,915.43,108.1,"Elasticity -0.26, Stock:CRITICAL",2024-06-28
+20377,"Water Chestnuts, Sliced, No Salt Added",international,4.26,8.78,-1.215,Medium,CRITICAL,14.49,65.0,39.7,575.49,406.3,319.4,86.9,27.2,"Elasticity -1.215, Stock:CRITICAL",2024-06-28
+18330,Click Gel Automatic Citrus Scent Toilet Bowl Cleaner,household,1.37,2.17,-0.74,Low,HIGH,3.26,50.2,212.3,692.07,401.23,221.21,180.02,81.4,"Elasticity -0.74, Stock:HIGH",2024-06-28
+27457,100 Grand Fun Size Bars,snacks,2.95,6.34,-1.81,High,LOW,6.3,-0.6,306.1,1928.34,1025.39,1014.47,10.92,1.1,"Elasticity -1.81, Stock:LOW",2024-06-28
+16471,Chocolate Decorating Decors,pantry,2.36,4.26,-1.0,Low,NORMAL,6.39,50.0,198.9,1270.76,801.43,544.98,256.45,47.1,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+11709,Milk Chocolate Coconut & Almonds Bar,snacks,3.91,7.34,-0.47,Low,NORMAL,11.01,50.0,29.2,321.22,207.14,117.87,89.27,75.7,"Elasticity -0.47, Stock:NORMAL",2024-06-28
+10531,Easy Quinoa Mushroom & Vegetable Medley,dry goods pasta,2.42,3.74,-5.0,High,NORMAL,3.05,-18.4,912.1,2781.98,574.64,422.11,152.53,36.1,"Elasticity -5.0, Stock:NORMAL",2024-06-28
+49193,SmartBlend Chicken & Rice Formula Adult Dry Dog Food,pets,4.21,8.91,-1.0,Low,NORMAL,13.36,49.9,238.0,3179.09,2177.29,1626.63,550.66,33.9,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+1793,"Citrus Beverage, Sparkling, with Natural Pulp",beverages,3.56,6.72,-1.0,Low,CRITICAL,11.09,65.0,120.0,1330.56,903.44,612.89,290.55,47.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+42459,Sinus-Max Pressure & Pain Relief,personal care,7.32,11.37,-1.0,Low,CRITICAL,18.76,65.0,205.9,3862.39,2355.32,1324.26,1031.06,77.9,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+9061,Italian Sausage & Rigatoni Pasta,frozen,2.9,4.65,-1.0,Low,CRITICAL,7.67,64.9,198.1,1519.16,944.77,548.83,395.94,72.1,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+16099,Heart Healthy Italian Style White Bean & Chicken Sausage,canned goods,1.45,2.36,-1.0,Low,CRITICAL,3.89,64.8,194.7,757.56,475.18,282.9,192.28,68.0,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+46744,Organic ZFruit Rope Fruit Punch Flavor,snacks,1.68,3.35,-0.815,Medium,LOW,5.03,50.1,112.2,564.13,375.72,252.53,123.19,48.8,"Elasticity -0.815, Stock:LOW",2024-06-28
+36131,Elderberry Syrup,personal care,5.45,11.25,-0.585,Low,LOW,16.88,50.0,95.0,1602.91,1085.39,678.07,407.32,60.1,"Elasticity -0.585, Stock:LOW",2024-06-28
+32947,Organic Pita,bakery,4.2,7.2,-3.66,High,LOW,5.48,-23.9,753.6,4129.94,964.66,806.58,158.08,19.6,"Elasticity -3.66, Stock:LOW",2024-06-28
+263,Red Food Color,pantry,2.91,4.58,-0.48,Low,NORMAL,6.87,50.0,215.7,1481.61,854.03,418.71,435.32,104.0,"Elasticity -0.48, Stock:NORMAL",2024-06-28
+37228,Mango Lowfat Kefir,dairy eggs,4.83,8.6,-1.665,High,CRITICAL,12.75,48.3,26.1,332.92,206.8,182.55,24.25,13.3,"Elasticity -1.665, Stock:CRITICAL",2024-06-28
+39702,Low Fat Milk,dairy eggs,5.74,10.17,-1.49,Medium,NORMAL,15.26,50.0,69.6,1062.03,662.55,545.32,117.23,21.5,"Elasticity -1.49, Stock:NORMAL",2024-06-28
+13357,Pomegranate Berry Sparkling Water with Juice,beverages,4.55,9.0,-1.0,Low,NORMAL,13.5,50.0,223.2,3013.2,1997.64,1462.49,535.15,36.6,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+26089,Broccoli Squash Carrots Onion Red Pepper Steamables,frozen,5.65,9.36,-3.865,High,CRITICAL,8.01,-14.4,266.4,2133.68,628.65,521.43,107.22,20.6,"Elasticity -3.865, Stock:CRITICAL",2024-06-28
+44490,Organic BBQ Sauce Original,pantry,2.15,4.42,-1.87,High,CRITICAL,4.89,10.6,102.2,499.93,280.12,271.22,8.9,3.3,"Elasticity -1.87, Stock:CRITICAL",2024-06-28
+14304,Maxi Super Pads,personal care,1.51,2.93,-1.0,Low,CRITICAL,4.83,64.8,92.6,447.41,307.54,209.98,97.56,46.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+3155,Foaming Scrub Pink Grapefruit Oil-Free Acne Wash,personal care,5.87,10.97,-5.0,High,CRITICAL,8.67,-21.0,959.6,8319.59,2686.83,1482.51,1204.32,81.2,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+42711,Jumbo Crinkle Cut French Fries,frozen,7.62,13.81,-1.26,Medium,LOW,20.72,50.0,192.9,3997.92,2527.64,1940.06,587.58,30.3,"Elasticity -1.26, Stock:LOW",2024-06-28
+24464,Crunchy Apple Chips Cinnamon,snacks,3.61,7.25,-5.0,High,LOW,4.97,-31.4,2203.6,10951.93,2996.91,1187.78,1809.13,152.3,"Elasticity -5.0, Stock:LOW",2024-06-28
+20816,"Lasagna, Whole Wheat/Whole Grain",dry goods pasta,2.55,5.39,-4.8,High,CRITICAL,3.94,-26.9,1353.7,5333.57,1881.64,828.63,1053.01,127.1,"Elasticity -4.8, Stock:CRITICAL",2024-06-28
+28439,Grape Fruit Ice Bars,frozen,4.11,7.19,-0.365,Low,LOW,10.78,49.9,155.6,1677.47,1037.92,535.84,502.08,93.7,"Elasticity -0.365, Stock:LOW",2024-06-28
+42516,Organic Grass Fed Ghee,pantry,4.7,9.26,-2.19,High,LOW,9.41,1.6,63.3,595.95,298.29,288.47,9.82,3.4,"Elasticity -2.19, Stock:LOW",2024-06-28
+33318,Sea Salt Soiree Intense Dark Chocolate Squares,snacks,5.23,9.23,-1.0,Low,NORMAL,13.84,49.9,55.3,765.17,476.02,324.06,151.96,46.9,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+15421,Double Bergamot Earl Grey,beverages,6.48,13.48,-1.0,Low,CRITICAL,22.24,65.0,204.7,4553.54,3226.79,2292.49,934.3,40.8,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+29963,Moroccan Argan Oil Renewing Shampoo,personal care,5.35,9.8,-0.595,Low,NORMAL,14.7,50.0,257.7,3788.06,2409.41,1399.92,1009.49,72.1,"Elasticity -0.595, Stock:NORMAL",2024-06-28
+26352,Chicken Caesar Salad,deli,4.69,8.42,-1.165,Medium,CRITICAL,13.89,65.0,68.1,946.58,626.97,441.89,185.08,41.9,"Elasticity -1.165, Stock:CRITICAL",2024-06-28
+35628,Organic Strawberry Smoothie,dairy eggs,1.31,2.84,-1.0,Low,CRITICAL,4.69,65.1,176.3,827.01,596.01,435.94,160.07,36.7,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+16948,Clean Burst Liquid Laundry Detergent,household,1.87,3.62,-4.13,High,LOW,2.54,-29.8,1411.8,3586.07,945.93,559.57,386.36,69.0,"Elasticity -4.13, Stock:LOW",2024-06-28
+1123,Fruit Vegetable Mango Fruit Square,canned goods,2.19,4.59,-1.19,Medium,LOW,6.88,49.9,76.2,524.48,357.53,287.92,69.61,24.2,"Elasticity -1.19, Stock:LOW",2024-06-28
+31265,Chunky Turkey Feast Cat Food,pets,3.73,8.06,-1.91,High,CRITICAL,8.8,9.2,284.3,2501.6,1441.26,1412.47,28.79,2.0,"Elasticity -1.91, Stock:CRITICAL",2024-06-28
+46710,Graduates Waffle Wheels Banana Cream,babies,1.35,2.09,-1.0,Low,CRITICAL,3.45,65.1,191.7,661.28,402.52,225.18,177.34,78.8,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+17412,Mini Lemon Bites,bakery,1.11,2.16,-3.87,High,LOW,1.51,-30.1,692.2,1045.25,276.89,176.11,100.78,57.2,"Elasticity -3.87, Stock:LOW",2024-06-28
+33787,Total 2% Lowfat Greek Strained Yogurt with Peach,dairy eggs,5.29,8.64,-0.475,Low,LOW,12.96,50.0,238.4,3089.3,1828.31,937.56,890.75,95.0,"Elasticity -0.475, Stock:LOW",2024-06-28
+30377,Fat Free Chocolate Milk,dairy eggs,1.03,2.05,-1.0,Low,CRITICAL,3.38,64.9,209.4,707.66,492.01,343.16,148.85,43.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+9469,33 Gal with Flap Closure Black Extra Large Trash Bags,household,2.12,3.61,-4.825,High,LOW,2.76,-23.5,568.7,1569.58,363.96,222.45,141.51,63.6,"Elasticity -4.825, Stock:LOW",2024-06-28
+24011,2nd Foods - Beef & Beef Gravy,babies,4.51,7.49,-1.525,High,CRITICAL,12.36,65.0,140.5,1736.05,1102.59,858.22,244.37,28.5,"Elasticity -1.525, Stock:CRITICAL",2024-06-28
+851,Chile Con Queso Potato Crisps,snacks,4.38,7.69,-5.0,High,LOW,5.76,-25.1,1374.2,7915.65,1896.46,1047.67,848.79,81.0,"Elasticity -5.0, Stock:LOW",2024-06-28
+12981,Strawberry Nonfat Yogurt,missing,4.64,8.52,-1.42,Medium,LOW,12.78,50.0,78.6,1003.87,639.4,522.56,116.84,22.4,"Elasticity -1.42, Stock:LOW",2024-06-28
+40770,Sweet Peas Valley Fresh Steamers,frozen,3.03,5.69,-1.69,High,CRITICAL,8.41,47.8,124.2,1044.64,668.27,619.07,49.2,7.9,"Elasticity -1.69, Stock:CRITICAL",2024-06-28
+20413,Berry Pomegranate Chia Energy Bar,snacks,4.08,7.84,-3.52,High,LOW,5.53,-29.5,573.3,3170.42,831.3,610.83,220.47,36.1,"Elasticity -3.52, Stock:LOW",2024-06-28
+23893,Original Perky's Crunchy Rice Cereal,breakfast,2.78,4.37,-4.845,High,NORMAL,3.52,-19.5,768.9,2706.42,568.96,413.43,155.53,37.6,"Elasticity -4.845, Stock:NORMAL",2024-06-28
+11633,Sweet & Tangy Glaze and Dipping Sauce,international,3.23,5.25,-0.32,Low,LOW,7.88,50.1,247.8,1952.75,1152.32,548.45,603.87,110.1,"Elasticity -0.32, Stock:LOW",2024-06-28
+10821,Reduced Fat Colby Jack Cheese Sticks,dairy eggs,6.08,9.46,-1.0,Low,LOW,14.19,50.0,138.1,1960.11,1120.26,670.74,449.52,67.0,"Elasticity -1.0, Stock:LOW",2024-06-28
+16733,"Polish, Silver, Bottle",household,4.04,8.5,-1.0,Low,NORMAL,12.75,50.0,70.5,899.3,614.35,460.74,153.61,33.3,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+36803,Macro Greens,frozen,7.86,13.19,-1.0,Low,LOW,19.78,50.0,59.6,1179.19,710.61,453.71,256.9,56.6,"Elasticity -1.0, Stock:LOW",2024-06-28
+10594,Christmas Crunch,breakfast,5.47,8.58,-3.61,High,LOW,8.12,-5.4,113.1,918.39,299.72,273.63,26.09,9.5,"Elasticity -3.61, Stock:LOW",2024-06-28
+4614,Burrata alla Panna,dairy eggs,3.73,7.68,-1.275,Medium,LOW,11.52,50.0,191.9,2210.66,1494.88,1219.82,275.06,22.5,"Elasticity -1.275, Stock:LOW",2024-06-28
+23095,Flame Grilled Beef Patty,frozen,1.91,4.12,-1.0,Low,CRITICAL,6.8,65.0,172.8,1175.02,844.98,615.76,229.22,37.2,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+40074,Quenching + Coconut Curls Shampoo,personal care,3.4,5.68,-1.0,Low,CRITICAL,9.37,65.0,206.5,1935.18,1232.98,751.66,481.32,64.0,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+4316,Cheese Trio Quiche,frozen,3.49,6.18,-5.0,High,CRITICAL,5.06,-18.1,261.7,1324.24,410.88,251.15,159.73,63.6,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+6425,Everyone's Favorite Chocolate Chip Cookie Mix,pantry,2.75,4.44,-1.0,Low,NORMAL,6.66,50.0,154.7,1030.52,605.01,380.91,224.1,58.8,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+10744,Chicken Noodle R&W Condensed Soup Family Size,canned goods,2.34,4.89,-1.16,Medium,NORMAL,7.33,49.9,148.7,1089.92,741.98,584.29,157.69,27.0,"Elasticity -1.16, Stock:NORMAL",2024-06-28
+3264,"Muesli, Bircher (Unsweetened)",breakfast,3.61,5.93,-1.0,Low,LOW,8.9,50.1,195.0,1735.71,1031.68,648.84,382.84,59.0,"Elasticity -1.0, Stock:LOW",2024-06-28
+26780,Superfood Pesto Sauce,dry goods pasta,5.35,10.92,-1.0,Low,NORMAL,16.38,50.0,219.5,3595.96,2421.45,1791.12,630.33,35.2,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+45080,Body Bar Soap Milk & Honey Complexion,personal care,4.01,8.31,-2.73,High,CRITICAL,7.66,-7.8,408.8,3131.42,1492.12,1363.36,128.76,9.4,"Elasticity -2.73, Stock:CRITICAL",2024-06-28
+29661,"Chardonnay, Premium Dealcoholized Wine, 2011",alcohol,4.8,9.95,-1.36,Medium,HIGH,14.92,49.9,136.0,2029.53,1376.6,1175.78,200.82,17.1,"Elasticity -1.36, Stock:HIGH",2024-06-28
+30822,Thirst Quencher Lemon-Lime/Fruit Punch/Orange Variety Pack Sports Drink,beverages,5.08,8.29,-4.79,High,LOW,6.52,-21.4,594.0,3872.89,855.36,581.16,274.2,47.2,"Elasticity -4.79, Stock:LOW",2024-06-28
+23790,Total Moisture Aloe Fresh Hydrating Lotion,personal care,4.53,7.77,-2.91,High,CRITICAL,7.76,-0.1,179.2,1390.36,578.72,556.9,21.82,3.9,"Elasticity -2.91, Stock:CRITICAL",2024-06-28
+19388,Mushroom Steak Sauce,missing,3.84,6.93,-4.8,High,CRITICAL,5.6,-19.2,529.8,2966.88,932.45,562.01,370.44,65.9,"Elasticity -4.8, Stock:CRITICAL",2024-06-28
+28080,Sugar Free Italian Sweet Creme Coffee Creamer,dairy eggs,2.06,3.95,-3.825,High,CRITICAL,3.07,-22.3,503.7,1546.48,508.78,348.56,160.22,46.0,"Elasticity -3.825, Stock:CRITICAL",2024-06-28
+28147,Farmer Cheese No Salt Added,dairy eggs,5.77,9.22,-2.28,High,CRITICAL,10.94,18.7,83.7,915.51,432.65,400.95,31.7,7.9,"Elasticity -2.28, Stock:CRITICAL",2024-06-28
+20980,Spinach Mountain Bread,bakery,1.76,3.33,-1.96,High,LOW,3.42,2.7,315.6,1079.24,523.84,506.81,17.03,3.4,"Elasticity -1.96, Stock:LOW",2024-06-28
+12093,Rubber Bands,other,1.37,2.24,-3.6,High,LOW,1.76,-21.4,677.6,1192.59,264.27,238.94,25.33,10.6,"Elasticity -3.6, Stock:LOW",2024-06-28
+48100,Classic Caramel Flavoring Syrup,pantry,4.54,8.45,-1.96,High,NORMAL,8.72,3.2,48.0,418.13,200.43,192.34,8.09,4.2,"Elasticity -1.96, Stock:NORMAL",2024-06-28
+13915,Wet Skin Broad Spectrum SPF 30 Sunscreen Spray,personal care,1.98,3.77,-1.295,Medium,NORMAL,5.66,50.1,64.0,362.5,235.69,187.99,47.7,25.4,"Elasticity -1.295, Stock:NORMAL",2024-06-28
+39127,Classic Crust Pepperoni Pizza,frozen,7.75,14.29,-1.0,Low,CRITICAL,23.58,65.0,68.8,1621.91,1088.84,720.8,368.04,51.1,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+47978,Sugar Cookie Dough,pantry,5.89,11.54,-1.0,Low,CRITICAL,19.04,65.0,158.6,3020.02,2085.78,1446.37,639.41,44.2,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+40579,Whole Kosher Dills,pantry,6.68,11.15,-1.0,Low,CRITICAL,18.4,65.0,183.4,3373.99,2149.08,1298.25,850.83,65.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+36547,Aloe Vera Juice Whole Leaf,personal care,3.14,5.7,-2.54,High,NORMAL,5.05,-11.4,130.6,659.36,249.38,237.77,11.61,4.9,"Elasticity -2.54, Stock:NORMAL",2024-06-28
+10908,Brown Sugar Cubes,pantry,1.07,2.15,-1.0,Low,CRITICAL,3.55,65.1,199.2,707.13,494.0,346.37,147.63,42.6,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+14937,Re-Fresh Body Spray Fiji with Palm Tree,personal care,7.11,11.28,-1.0,Low,CRITICAL,18.61,65.0,193.5,3600.58,2224.97,1259.13,965.84,76.7,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+16512,Pressed Lime Lemonade,pantry,3.31,6.28,-0.46,Low,CRITICAL,10.36,65.0,261.6,2710.69,1844.63,942.77,901.86,95.7,"Elasticity -0.46, Stock:CRITICAL",2024-06-28
+17923,Crinkle Cut Fries,frozen,8.16,14.6,-2.325,High,CRITICAL,16.76,14.8,243.0,4072.61,2089.76,2111.97,-22.21,-1.1,"Elasticity -2.325, Stock:CRITICAL",2024-06-28
+38533,Creamy Deluxe Macaroni Dinner Elbows & Four Cheese Sauce,dry goods pasta,7.35,11.64,-1.0,Low,CRITICAL,19.21,65.0,174.5,3352.32,2069.68,1184.6,885.08,74.7,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+35617,Disinfecting Wipes Citrus Scent,household,6.05,10.53,-3.545,High,NORMAL,7.93,-24.7,857.2,6797.87,1611.6,1361.71,249.89,18.4,"Elasticity -3.545, Stock:NORMAL",2024-06-28
+8791,Lundberg 9.5 Oz,snacks,2.23,4.71,-1.0,Low,NORMAL,7.06,49.9,224.4,1584.44,1083.98,824.95,259.03,31.4,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+42761,"Sweet Dreams Magickal Mineral Bath Salt Jasmine,Sandalwood & Vanilla",personal care,3.73,5.85,-1.33,Medium,NORMAL,8.77,49.9,203.0,1780.15,1023.03,712.01,311.02,43.7,"Elasticity -1.33, Stock:NORMAL",2024-06-28
+27698,Garlic Bread Pepperoni Pizza,frozen,7.6,13.21,-1.0,Low,CRITICAL,21.8,65.0,99.4,2167.76,1412.03,896.28,515.75,57.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+22724,Family Size Macaroni & Cheese,frozen,3.52,6.8,-1.0,Low,NORMAL,10.2,50.0,59.3,605.2,396.35,277.66,118.69,42.7,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+42150,"Pull-Ups Learning Designs Training Pantsfor Girls, Size 3T-4T",babies,1.76,3.69,-0.125,Low,CRITICAL,6.09,65.0,322.5,1963.78,1396.25,635.8,760.45,119.6,"Elasticity -0.125, Stock:CRITICAL",2024-06-28
+43003,Organic Lemon Agave Vinaigrette,pantry,4.61,7.57,-5.0,High,CRITICAL,6.52,-13.9,758.1,4942.49,1447.88,1030.63,417.25,40.5,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+10566,Blue Plus Bleach,household,6.52,11.36,-1.74,High,LOW,15.34,35.0,126.1,1933.8,1111.87,1000.35,111.52,11.1,"Elasticity -1.74, Stock:LOW",2024-06-28
+6809,Berry Bunnies Cereal Organic,breakfast,4.99,8.96,-1.0,Low,LOW,13.44,50.0,108.8,1462.27,919.36,620.63,298.73,48.1,"Elasticity -1.0, Stock:LOW",2024-06-28
+28788,Vermont Cheddar Mac & Cheese,missing,4.84,7.7,-0.4,Low,NORMAL,11.55,50.0,174.6,2017.19,1171.89,567.11,604.78,106.6,"Elasticity -0.4, Stock:NORMAL",2024-06-28
+22284,Sweet & Salty Popped Snack Mix,snacks,1.96,3.23,-3.21,High,CRITICAL,3.29,1.9,288.6,949.6,383.88,376.29,7.59,2.0,"Elasticity -3.21, Stock:CRITICAL",2024-06-28
+9929,"6\"" Organic Chocolate Cake",bakery,2.64,5.5,-1.0,Low,NORMAL,8.25,50.0,219.2,1808.4,1229.71,925.71,304.0,32.8,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+4806,Oat Milk Soap,personal care,6.1,11.9,-1.0,Low,NORMAL,17.85,50.0,194.1,3465.28,2281.07,1636.92,644.15,39.4,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+27818,Liquid Eggs Whites,dairy eggs,1.7,3.4,-1.0,Low,LOW,5.1,50.0,194.7,993.14,662.09,481.9,180.19,37.4,"Elasticity -1.0, Stock:LOW",2024-06-28
+20832,"Potato Chips, Original Lightly Salted",snacks,3.83,6.39,-1.0,Low,NORMAL,9.58,49.9,75.4,722.71,433.78,283.33,150.45,53.1,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+25653,Organic Plain Yogurt,dairy eggs,4.92,10.77,-5.0,High,LOW,7.0,-35.0,956.1,6692.95,1988.76,639.35,1349.41,211.1,"Elasticity -5.0, Stock:LOW",2024-06-28
+36343,"9\"" Pie Shell",frozen,6.71,11.89,-1.0,Low,LOW,17.84,50.0,108.3,1932.12,1205.41,810.79,394.62,48.7,"Elasticity -1.0, Stock:LOW",2024-06-28
+33899,Red Wine Blend,alcohol,5.4,8.97,-1.0,Low,LOW,13.46,50.1,210.9,2839.0,1700.03,1083.24,616.79,56.9,"Elasticity -1.0, Stock:LOW",2024-06-28
+29131,Color Revitalize Protection for Color Treated Hair Conditioner,personal care,5.64,9.02,-1.48,Medium,LOW,13.53,50.0,162.2,2194.02,1279.44,964.38,315.06,32.7,"Elasticity -1.48, Stock:LOW",2024-06-28
+293,Prime Filets Chicken & Tuna Dinner in Gravy Cat Food,pets,2.9,5.59,-1.0,Low,CRITICAL,9.22,64.9,69.5,640.61,439.12,300.68,138.44,46.0,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+23821,Organic Chili Spicy,canned goods,1.33,2.17,-4.18,High,NORMAL,1.71,-21.2,796.1,1361.35,302.52,236.13,66.39,28.1,"Elasticity -4.18, Stock:NORMAL",2024-06-28
+43747,Sport Anti Perspirant & Deodorant Gel,personal care,4.76,10.09,-2.03,High,LOW,10.07,-0.2,122.8,1236.53,652.03,631.17,20.86,3.3,"Elasticity -2.03, Stock:LOW",2024-06-28
+5523,"Super C, 1000 mg, Tablets",personal care,6.25,10.1,-1.0,Low,LOW,15.15,50.0,206.1,3122.92,1834.59,1150.34,684.25,59.5,"Elasticity -1.0, Stock:LOW",2024-06-28
+43010,Tomato Juice From Concentrate,beverages,6.28,13.21,-1.0,Low,CRITICAL,21.8,65.0,198.9,4335.52,3086.57,2244.6,841.97,37.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+1600,Mediterranean Orzo Salad,deli,5.89,11.13,-1.0,Low,NORMAL,16.7,50.0,228.1,3808.69,2465.38,1752.43,712.95,40.7,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+35130,French Chocolate Fat Free Ice Cream,frozen,5.57,9.14,-0.53,Low,LOW,13.71,50.0,223.1,3058.87,1816.14,955.41,860.73,90.1,"Elasticity -0.53, Stock:LOW",2024-06-28
+28660,Silhouette for Women S/M Briefs,other,3.37,7.02,-1.0,Low,LOW,10.53,50.0,207.8,2188.13,1487.85,1104.17,383.68,34.7,"Elasticity -1.0, Stock:LOW",2024-06-28
+3031,100% Colombian Medium Roast K-Cup Packs Arabica Coffee,beverages,6.09,12.28,-1.66,High,LOW,14.41,17.3,254.2,3662.98,2114.92,1977.77,137.15,6.9,"Elasticity -1.66, Stock:LOW",2024-06-28
+32375,Tamarind Soda,beverages,6.11,10.27,-4.985,High,EXCESS,6.73,-34.5,2672.4,17985.48,1656.91,1305.68,351.23,26.9,"Elasticity -4.985, Stock:EXCESS",2024-06-28
+12378,Organic Toilet Bowl Cleaner,household,5.36,9.02,-1.0,Low,NORMAL,13.53,50.0,136.0,1840.08,1111.12,717.73,393.39,54.8,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+17817,Pimiento Stuffed Spanish Green Olives,pantry,5.76,9.96,-1.0,Low,LOW,14.94,50.0,192.3,2873.46,1765.62,1174.31,591.31,50.4,"Elasticity -1.0, Stock:LOW",2024-06-28
+19461,Swanson Premium Chicken Breast Chunks,canned goods,2.68,4.56,-1.74,High,LOW,6.17,35.3,49.0,302.23,170.96,150.84,20.12,13.3,"Elasticity -1.74, Stock:LOW",2024-06-28
+6269,Brisling Sardines In Water,canned goods,1.31,2.35,-3.59,High,CRITICAL,1.91,-18.7,699.9,1336.75,419.92,333.47,86.45,25.9,"Elasticity -3.59, Stock:CRITICAL",2024-06-28
+20483,Cherry Flavored Allergy,personal care,2.88,5.76,-2.385,High,CRITICAL,5.39,-6.4,335.4,1807.92,841.91,801.57,40.34,5.0,"Elasticity -2.385, Stock:CRITICAL",2024-06-28
+47504,Blueberry Breakfast Biscuits,breakfast,1.53,2.94,-0.78,Low,CRITICAL,4.85,65.0,109.4,530.74,363.31,220.63,142.68,64.7,"Elasticity -0.78, Stock:CRITICAL",2024-06-28
+18050,Gluten free Spaghetti,dry goods pasta,3.78,7.78,-4.05,High,LOW,5.25,-32.5,878.9,4614.3,1292.0,690.94,601.06,87.0,"Elasticity -4.05, Stock:LOW",2024-06-28
+26132,Spreadable Light Butter & Canola Oil Blend,dairy eggs,1.49,2.36,-3.81,High,NORMAL,1.89,-19.9,709.9,1341.74,283.97,259.62,24.35,9.4,"Elasticity -3.81, Stock:NORMAL",2024-06-28
+13506,Magic Shell Chocolate Fudge,snacks,3.39,5.99,-2.03,High,CRITICAL,6.9,15.2,130.3,898.9,457.27,436.13,21.14,4.8,"Elasticity -2.03, Stock:CRITICAL",2024-06-28
+46028,Korean Style Barbecue Bulgogl Sauce,pantry,3.94,7.43,-5.0,High,LOW,5.31,-28.5,1487.9,7900.82,2038.44,933.82,1104.62,118.3,"Elasticity -5.0, Stock:LOW",2024-06-28
+24987,Kettle Corn Seasoning,snacks,2.52,4.65,-1.0,Low,NORMAL,6.98,50.1,73.1,510.11,325.94,227.7,98.24,43.1,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+27771,Eggplant,produce,3.41,5.34,-2.4,High,LOW,5.8,8.6,188.6,1094.03,450.81,424.79,26.02,6.1,"Elasticity -2.4, Stock:LOW",2024-06-28
+9502,Menthol Nasal Swab,personal care,1.11,2.31,-2.29,High,CRITICAL,2.13,-7.8,352.5,750.73,359.51,342.28,17.23,5.0,"Elasticity -2.29, Stock:CRITICAL",2024-06-28
+28128,French Roast Dark Coffee,beverages,1.13,2.0,-1.0,Low,CRITICAL,3.3,65.0,199.1,657.0,432.03,276.37,155.66,56.3,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+22133,Lindor Assorted Chocolate Truffles,snacks,4.78,8.67,-2.15,High,CRITICAL,9.91,14.3,73.9,732.31,379.08,370.76,8.32,2.2,"Elasticity -2.15, Stock:CRITICAL",2024-06-28
+629,Probiotics Women 50 & Wiser Vegetarian Capsules,personal care,3.2,5.6,-5.0,High,CRITICAL,4.62,-17.5,843.1,3894.91,1197.14,735.31,461.83,62.8,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+49625,Golden Wheat Deep Cleanse Shampoo,personal care,1.48,3.27,-1.0,Low,LOW,4.9,49.8,225.4,1104.28,770.74,592.58,178.16,30.1,"Elasticity -1.0, Stock:LOW",2024-06-28
+29672,Lactose Free Low Fat Vanilla Yogurt,dairy eggs,4.51,7.22,-5.0,High,LOW,5.75,-20.4,915.2,5262.34,1134.83,774.59,360.24,46.5,"Elasticity -5.0, Stock:LOW",2024-06-28
+12760,Organic Hojicha Green Tea,beverages,7.57,11.89,-2.01,High,CRITICAL,15.99,34.5,89.1,1425.41,750.59,670.72,79.87,11.9,"Elasticity -2.01, Stock:CRITICAL",2024-06-28
+45837,"Truffles, Organic, Coconut Karma",snacks,2.32,4.12,-1.0,Low,CRITICAL,6.8,65.0,185.1,1258.66,829.23,531.52,297.71,56.0,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+31902,Urinary Health Extra Strength Liquid Cranberry,personal care,4.85,8.23,-5.0,High,CRITICAL,6.93,-15.8,818.8,5674.07,1703.04,1142.01,561.03,49.1,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+41844,Honey Nut Cheerios,breakfast,1.81,2.85,-1.0,Low,CRITICAL,4.7,64.9,198.4,932.52,573.4,324.99,248.41,76.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+38008,Beyond Grain Free Chicken & Sweet Potato Recipe Pate Cat Food,pets,1.49,2.52,-2.65,High,LOW,2.3,-8.7,148.2,340.75,120.0,115.5,4.5,3.9,"Elasticity -2.65, Stock:LOW",2024-06-28
+12131,Non-lotion White Facial Tissue,household,3.51,7.31,-1.0,Low,CRITICAL,12.06,65.0,137.0,1652.06,1171.24,838.08,333.16,39.8,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+29210,Texas Toast,bakery,2.83,5.01,-2.8,High,NORMAL,4.49,-10.4,101.5,455.85,168.53,156.74,11.79,7.5,"Elasticity -2.8, Stock:NORMAL",2024-06-28
+24129,Natural Fresh Goat Cheese,dairy eggs,4.78,8.37,-3.48,High,LOW,6.28,-25.0,600.0,3768.29,900.07,758.71,141.36,18.6,"Elasticity -3.48, Stock:LOW",2024-06-28
+3940,Nonfat Cottage Cheese,dairy eggs,4.95,9.26,-3.4,High,LOW,6.65,-28.2,1043.1,6936.43,1773.22,1401.82,371.4,26.5,"Elasticity -3.4, Stock:LOW",2024-06-28
+35315,Premium Green Tea,beverages,8.76,14.67,-1.0,Low,LOW,22.0,50.0,165.8,3646.96,2194.81,1418.6,776.21,54.7,"Elasticity -1.0, Stock:LOW",2024-06-28
+40172,Deli Shaved Honey Ham,deli,4.56,7.16,-0.84,Medium,HIGH,10.74,50.0,88.1,945.82,544.24,304.43,239.81,78.8,"Elasticity -0.84, Stock:HIGH",2024-06-28
+2214,Power & Free Multi-Purpose Cleaner,household,3.32,5.23,-1.0,Low,NORMAL,7.85,50.1,203.9,1600.9,923.83,551.79,372.04,67.4,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+39861,Flax Plus Hot Oatmeal,breakfast,5.37,9.95,-0.265,Low,LOW,14.92,49.9,111.2,1659.07,1061.94,547.31,514.63,94.0,"Elasticity -0.265, Stock:LOW",2024-06-28
+12576,Kiwi Sandia Sparkling Water,beverages,2.44,5.16,-3.135,High,NORMAL,3.42,-33.7,1185.8,4055.34,1162.06,868.12,293.94,33.9,"Elasticity -3.135, Stock:NORMAL",2024-06-28
+11898,Foods Gourmet Dry Salami Black Pepper,deli,4.13,6.39,-1.0,Low,CRITICAL,10.54,64.9,189.0,1991.76,1211.31,682.31,529.0,77.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+22956,Thin Crust Trio Bacon Pizza,frozen,2.43,3.94,-2.85,High,NORMAL,3.67,-6.9,107.1,393.13,132.83,125.67,7.16,5.7,"Elasticity -2.85, Stock:NORMAL",2024-06-28
+30913,Organic Green Tea,beverages,0.87,1.84,-0.975,Medium,CRITICAL,3.04,65.2,82.5,250.79,179.02,125.34,53.68,42.8,"Elasticity -0.975, Stock:CRITICAL",2024-06-28
+30196,Red Cooking Wine,pantry,7.38,11.63,-3.83,High,CRITICAL,10.3,-11.4,424.8,4375.49,1240.43,1110.75,129.68,11.7,"Elasticity -3.83, Stock:CRITICAL",2024-06-28
+673,Chicken Base,canned goods,2.71,4.34,-3.86,High,NORMAL,3.46,-20.3,533.3,1845.39,400.01,349.27,50.74,14.5,"Elasticity -3.86, Stock:NORMAL",2024-06-28
+26616,French Lavender Clarifying Shampoo,personal care,4.96,8.96,-1.0,Low,NORMAL,13.44,50.0,128.5,1727.49,1089.96,737.56,352.4,47.8,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+4505,Espresso Chocolate Creamer,missing,3.46,6.09,-3.67,High,NORMAL,4.55,-25.3,603.7,2746.85,658.04,524.14,133.9,25.5,"Elasticity -3.67, Stock:NORMAL",2024-06-28
+46545,82% Dark Chocolate Bar with Bourbon,snacks,2.01,3.8,-2.055,High,NORMAL,3.91,2.9,107.2,419.25,203.73,197.74,5.99,3.0,"Elasticity -2.055, Stock:NORMAL",2024-06-28
+33328,Season and Cooked Pulled Beef,meat seafood,3.36,7.29,-1.0,Low,LOW,10.94,50.1,207.4,2269.38,1572.38,1194.92,377.46,31.6,"Elasticity -1.0, Stock:LOW",2024-06-28
+43228,Hemp Nourishing Shampoo,personal care,2.33,4.5,-1.0,Low,LOW,6.75,50.0,211.9,1430.55,936.75,667.37,269.38,40.4,"Elasticity -1.0, Stock:LOW",2024-06-28
+15869,Sweet Hot Dog Buns,bakery,3.1,5.07,-1.335,Medium,LOW,7.6,49.9,29.8,226.66,134.21,96.51,37.7,39.1,"Elasticity -1.335, Stock:LOW",2024-06-28
+39448,Cold Brew Coffee Mocha,dairy eggs,4.13,9.15,-0.53,Low,CRITICAL,15.1,65.0,62.4,942.53,684.74,397.32,287.42,72.3,"Elasticity -0.53, Stock:CRITICAL",2024-06-28
+13427,Cranberry with Lime Juice Cocktail,beverages,5.38,10.41,-1.0,Low,CRITICAL,17.18,65.0,166.3,2856.5,1961.98,1334.0,627.98,47.1,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+42191,G Series Perform Frost Glacier Cherry Sports Drink,beverages,2.8,5.28,-2.17,High,NORMAL,5.43,2.8,48.1,261.11,126.47,122.77,3.7,3.0,"Elasticity -2.17, Stock:NORMAL",2024-06-28
+30568,Go Fresh Cool Essentials Anti-Perspirant Deodorant,personal care,6.44,11.55,-5.0,High,CRITICAL,9.37,-18.9,535.3,5015.8,1568.44,922.75,645.69,70.0,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+43459,Puffs Cheese Flavored Snacks,snacks,5.09,8.03,-1.0,Low,CRITICAL,13.25,65.0,190.8,2527.84,1556.77,899.73,657.04,73.0,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+26013,Organic Dried Papaya,snacks,3.46,6.66,-1.0,Low,CRITICAL,10.99,65.0,205.3,2255.74,1545.56,1054.28,491.28,46.6,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+23474,"Couscous, Israeli, Traditional",dry goods pasta,4.22,8.12,-0.52,Low,CRITICAL,13.4,65.0,73.6,986.24,675.65,360.95,314.7,87.2,"Elasticity -0.52, Stock:CRITICAL",2024-06-28
+34355,Spearmint Sugar-Free Gum,snacks,3.38,5.65,-1.0,Low,LOW,8.48,50.1,188.4,1597.26,960.61,613.26,347.35,56.6,"Elasticity -1.0, Stock:LOW",2024-06-28
+9977,Paws Xl,missing,2.42,4.48,-1.0,Low,LOW,6.72,50.0,28.9,194.43,124.41,85.95,38.46,44.8,"Elasticity -1.0, Stock:LOW",2024-06-28
+23150,Vegetable Classics 99% Fat Free Lentil Soup,canned goods,1.2,2.42,-2.45,High,LOW,2.05,-15.3,117.4,240.72,99.81,92.64,7.17,7.7,"Elasticity -2.45, Stock:LOW",2024-06-28
+10260,Zingz Queso Fundido Baked Snack Crackers,snacks,4.42,8.18,-1.0,Low,CRITICAL,13.5,65.0,177.7,2399.19,1613.68,1060.51,553.17,52.2,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+39175,Chunk White Albacore in Water,canned goods,0.51,1.06,-1.0,Low,CRITICAL,1.75,65.1,173.3,303.27,214.89,151.62,63.27,41.7,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+44617,Propolis Eucalyptus Manuka Honey Lozenge,missing,1.53,3.16,-2.65,High,LOW,2.65,-16.1,459.5,1217.61,514.61,459.66,54.95,12.0,"Elasticity -2.65, Stock:LOW",2024-06-28
+21229,"Brown, Red & Black Ready Rice",dry goods pasta,1.35,2.46,-1.84,High,LOW,2.93,19.1,202.0,591.96,319.21,301.91,17.3,5.7,"Elasticity -1.84, Stock:LOW",2024-06-28
+32123,Whole Ground Golden Flaxseed Meal,pantry,1.29,2.41,-1.0,Low,LOW,3.62,50.2,129.8,469.71,302.33,212.93,89.4,42.0,"Elasticity -1.0, Stock:LOW",2024-06-28
+22168,Whole Maine Cherrystone Clams,canned goods,2.8,4.42,-2.27,High,CRITICAL,5.26,19.0,165.1,868.21,406.04,382.28,23.76,6.2,"Elasticity -2.27, Stock:CRITICAL",2024-06-28
+47510,Designer Paper Plates 7 In,household,4.72,9.04,-0.28,Low,LOW,13.56,50.0,206.0,2793.77,1821.3,970.55,850.75,87.7,"Elasticity -0.28, Stock:LOW",2024-06-28
+20497,Original Antibiotic Ointment,personal care,3.82,6.74,-1.0,Low,CRITICAL,11.12,65.0,168.6,1874.39,1230.49,793.8,436.69,55.0,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+3883,Chicken Fingers,frozen,2.4,4.17,-1.0,Low,CRITICAL,6.88,65.0,192.0,1321.06,860.22,545.9,314.32,57.6,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+21028,Calcium and Fiber Supplement,personal care,3.13,6.92,-1.0,Low,NORMAL,10.38,50.0,168.8,1752.14,1223.8,938.66,285.14,30.4,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+46891,Way Better Snacks Sweet Potato Corn Tortilla Chips,snacks,3.53,6.05,-0.18,Low,LOW,9.07,49.9,157.7,1430.14,873.54,417.7,455.84,109.1,"Elasticity -0.18, Stock:LOW",2024-06-28
+726,Gluten-Free Boom Chicka Pop Sweet & Spicy Popcorn,snacks,1.85,3.8,-0.73,Low,CRITICAL,6.27,65.0,184.2,1154.96,814.19,501.86,312.33,62.2,"Elasticity -0.73, Stock:CRITICAL",2024-06-28
+48611,Milk Chocolate Candies Fun Size Bags,snacks,3.69,5.75,-5.0,High,CRITICAL,5.13,-10.8,327.3,1678.96,471.29,366.44,104.85,28.6,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+27928,Cotton Balls,personal care,2.87,5.99,-1.0,Low,CRITICAL,9.88,64.9,205.9,2034.2,1443.3,1030.47,412.83,40.1,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+509,Starting Solids Carrots Organic Baby Food,babies,4.35,8.16,-1.0,Low,CRITICAL,13.46,65.0,73.8,993.89,672.68,453.34,219.34,48.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+24514,Fig Newtons Fat Free Cookies,snacks,3.39,7.26,-0.915,Medium,CRITICAL,11.98,65.0,94.3,1130.3,810.46,554.03,256.43,46.3,"Elasticity -0.915, Stock:CRITICAL",2024-06-28
+32510,Steak Seasoning & Rub,pantry,1.59,2.45,-1.0,Low,NORMAL,3.68,50.2,220.9,812.91,461.68,280.32,181.36,64.7,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+4879,"Milk, Fat Free",dairy eggs,3.17,5.75,-1.0,Low,LOW,8.62,49.9,91.0,784.3,495.87,338.64,157.23,46.4,"Elasticity -1.0, Stock:LOW",2024-06-28
+24613,Sweet Potato Puffs Cereal Snack,babies,4.7,8.26,-3.78,High,NORMAL,6.18,-25.2,310.8,1920.59,459.95,356.58,103.37,29.0,"Elasticity -3.78, Stock:NORMAL",2024-06-28
+14418,Ezekiel 4:9 Sprouted Grain Pasta Penne,dry goods pasta,3.26,7.03,-2.575,High,LOW,5.8,-17.5,580.6,3367.2,1474.6,1302.43,172.17,13.2,"Elasticity -2.575, Stock:LOW",2024-06-28
+40138,Chocolate Chip Heart Thrive,bakery,4.24,7.07,-3.06,High,CRITICAL,7.15,1.1,42.1,301.19,122.58,118.71,3.87,3.3,"Elasticity -3.06, Stock:CRITICAL",2024-06-28
+36202,Organic Red Wagon Coffee K-Cups,beverages,5.11,10.39,-1.0,Low,NORMAL,15.58,50.0,220.5,3434.93,2308.33,1693.59,614.74,36.3,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+14565,Roadhouse with Bean Chili,canned goods,1.04,1.65,-2.875,High,NORMAL,1.55,-6.1,368.9,571.78,188.13,179.57,8.56,4.8,"Elasticity -2.875, Stock:NORMAL",2024-06-28
+39884,Calorie Free Pancake Syrup,pantry,1.33,2.71,-3.45,High,NORMAL,1.84,-32.1,1197.9,2204.2,610.95,422.65,188.3,44.6,"Elasticity -3.45, Stock:NORMAL",2024-06-28
+43947,Sausage & Mushroom Thin Pizza,frozen,5.23,10.71,-1.0,Low,NORMAL,16.07,50.0,222.3,3571.79,2409.34,1773.6,635.74,35.8,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+23389,Original Ultra Concentrated Dish Soap,household,1.04,2.27,-1.0,Low,LOW,3.4,49.8,127.3,432.89,300.48,229.27,71.21,31.1,"Elasticity -1.0, Stock:LOW",2024-06-28
+39367,Breakstones Cottage Doubles Strawberry,missing,4.28,7.86,-3.13,High,CRITICAL,7.62,-3.1,46.2,351.82,154.21,146.0,8.21,5.6,"Elasticity -3.13, Stock:CRITICAL",2024-06-28
+6393,Protein Plus Mango Protein Shake,beverages,7.99,14.19,-0.405,Low,CRITICAL,23.41,65.0,98.0,2293.65,1510.81,707.35,803.46,113.6,"Elasticity -0.405, Stock:CRITICAL",2024-06-28
+23350,Chow Mein Seasoning Mix,international,3.59,7.75,-1.0,Low,CRITICAL,12.79,65.0,200.3,2561.38,1842.43,1345.69,496.74,36.9,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+12053,Panama Peach Antioxidant Infusion,beverages,4.08,6.74,-2.565,High,LOW,7.2,6.8,288.7,2078.8,900.81,870.24,30.57,3.5,"Elasticity -2.565, Stock:LOW",2024-06-28
+15128,Apricot from Concentrate Nectar,beverages,5.5,10.18,-0.57,Low,CRITICAL,16.8,65.0,94.8,1592.26,1070.99,574.82,496.17,86.3,"Elasticity -0.57, Stock:CRITICAL",2024-06-28
+46439,Italian Sliced Bread,bakery,2.49,4.48,-4.495,High,CRITICAL,3.63,-19.0,485.8,1763.57,553.85,360.61,193.24,53.6,"Elasticity -4.495, Stock:CRITICAL",2024-06-28
+44484,Grain Free Naturals Dry Dog Food Chicken & Garden Pea Recipe,pets,4.01,7.46,-4.45,High,LOW,5.37,-28.0,1348.1,7239.51,1833.47,1050.25,783.22,74.6,"Elasticity -4.45, Stock:LOW",2024-06-28
+9621,Cornbread & Muffin Mix,pantry,6.05,11.41,-0.86,Medium,LOW,17.12,50.0,230.3,3943.11,2549.67,1717.17,832.5,48.5,"Elasticity -0.86, Stock:LOW",2024-06-28
+32583,"Adhesive Bandages, Flexible Fabric, Assorted Sizes, Bonus",personal care,3.29,5.86,-5.0,High,CRITICAL,4.78,-18.4,489.0,2337.58,728.66,440.32,288.34,65.5,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+6516,Ham & Swiss On Rye,deli,5.58,11.61,-2.77,High,NORMAL,9.71,-16.4,293.0,2845.04,1210.1,1036.08,174.02,16.8,"Elasticity -2.77, Stock:NORMAL",2024-06-28
+26224,Sparkling Lime Water,beverages,6.67,13.72,-2.395,High,LOW,11.53,-16.0,471.4,5434.91,2290.86,2135.22,155.64,7.3,"Elasticity -2.395, Stock:LOW",2024-06-28
+13421,Advanced Care Plaque Guard Frosted Mint Antiplaque Mouthwash,personal care,2.46,3.96,-1.0,Low,CRITICAL,6.53,64.9,210.5,1374.52,856.7,498.56,358.14,71.8,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+27047,Bloody Mary Cocktail Mix,other,1.72,2.69,-3.165,High,CRITICAL,2.8,4.1,119.4,334.2,128.91,124.52,4.39,3.5,"Elasticity -3.165, Stock:CRITICAL",2024-06-28
+30701,Sweet & Salty Nut Chocolate Pretzel Nut Granola Bars,breakfast,1.58,3.01,-0.71,Low,NORMAL,4.51,49.8,186.9,843.08,547.72,348.44,199.28,57.2,"Elasticity -0.71, Stock:NORMAL",2024-06-28
+34144,Whole Grain Buttermilk Pancake & Waffle Mix,breakfast,1.1,2.18,-1.0,Low,HIGH,3.27,50.0,67.3,219.96,145.97,106.44,39.53,37.1,"Elasticity -1.0, Stock:HIGH",2024-06-28
+6068,"Black Pepper, Fine Grind",pantry,1.7,2.94,-0.365,Low,LOW,4.41,50.0,70.7,311.87,191.65,97.01,94.64,97.6,"Elasticity -0.365, Stock:LOW",2024-06-28
+1571,Trading Company All Natural Black Bean Spicy Dip,pantry,4.7,8.83,-1.0,Low,LOW,13.24,49.9,173.7,2299.33,1483.1,1033.14,449.96,43.6,"Elasticity -1.0, Stock:LOW",2024-06-28
+38184,Poppy Bagels,frozen,1.75,3.85,-2.4,High,NORMAL,3.15,-18.2,83.0,261.57,116.25,104.66,11.59,11.1,"Elasticity -2.4, Stock:NORMAL",2024-06-28
+39585,Chinese Fried Rice Seasoning Mix,international,2.5,5.19,-1.0,Low,CRITICAL,8.56,64.9,192.7,1649.38,1167.67,829.12,338.55,40.8,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+46040,Ear Relief Ear Drops,personal care,6.2,10.45,-0.69,Low,CRITICAL,17.24,65.0,206.9,3567.35,2284.43,1202.91,1081.52,89.9,"Elasticity -0.69, Stock:CRITICAL",2024-06-28
+17966,Caffeine Free Diet Coke Mini Bottles,beverages,1.05,1.81,-2.67,High,CRITICAL,1.8,-0.6,277.9,500.18,208.41,202.7,5.71,2.8,"Elasticity -2.67, Stock:CRITICAL",2024-06-28
+3017,Travel Unscented Wipes,babies,4.62,10.14,-1.0,Low,LOW,15.21,50.0,212.3,3228.58,2247.9,1726.11,521.79,30.2,"Elasticity -1.0, Stock:LOW",2024-06-28
+26759,Solid Light Tuna In Olive Oil,canned goods,1.05,2.13,-1.955,High,NORMAL,2.15,0.9,241.3,518.9,265.48,256.51,8.97,3.5,"Elasticity -1.955, Stock:NORMAL",2024-06-28
+7917,Original Hazelnut Liqueur,alcohol,1.58,3.18,-1.0,Low,LOW,4.77,50.0,135.4,645.86,431.93,320.18,111.75,34.9,"Elasticity -1.0, Stock:LOW",2024-06-28
+7206,Cilantro Avocado Yogurt Dressing,pantry,5.24,8.97,-3.055,High,CRITICAL,8.97,0.0,323.3,2900.0,1205.91,1183.57,22.34,1.9,"Elasticity -3.055, Stock:CRITICAL",2024-06-28
+22326,Indian Vegetable Korma Entrée,frozen,4.79,10.55,-1.23,Medium,NORMAL,15.82,50.0,44.7,706.43,492.54,412.02,80.52,19.5,"Elasticity -1.23, Stock:NORMAL",2024-06-28
+33992,Organic Curly Parsley,produce,3.39,7.2,-4.96,High,LOW,4.77,-33.8,2380.9,11356.76,3285.6,1137.06,2148.54,189.0,"Elasticity -4.96, Stock:LOW",2024-06-28
+25783,Lemon Lime Thirst Quencher,beverages,6.97,11.42,-1.91,High,NORMAL,13.86,21.4,196.1,2717.38,1350.85,1209.29,141.56,11.7,"Elasticity -1.91, Stock:NORMAL",2024-06-28
+6803,Rose Lemonade,beverages,6.0,12.35,-3.99,High,CRITICAL,9.17,-25.7,1027.4,9420.82,3256.71,1934.75,1321.96,68.3,"Elasticity -3.99, Stock:CRITICAL",2024-06-28
+40800,Gluten Free Rice Bread,frozen,3.7,6.38,-0.67,Low,CRITICAL,10.53,65.0,106.7,1123.81,728.93,389.01,339.92,87.4,"Elasticity -0.67, Stock:CRITICAL",2024-06-28
+27099,"Peanuts, Caramel and Chewy Nougat Chocolate Candy Bar",snacks,1.91,3.83,-0.88,Medium,CRITICAL,6.32,65.0,27.9,176.52,123.17,80.88,42.29,52.3,"Elasticity -0.88, Stock:CRITICAL",2024-06-28
+17382,Catnip Mice Skitter Critters,pets,4.47,9.51,-1.03,Medium,NORMAL,14.26,49.9,28.1,400.23,274.77,209.86,64.91,30.9,"Elasticity -1.03, Stock:NORMAL",2024-06-28
+9958,Honey Smoked Turkey Breast,deli,5.02,10.07,-0.89,Medium,NORMAL,15.1,50.0,124.9,1885.73,1258.82,877.04,381.78,43.5,"Elasticity -0.89, Stock:NORMAL",2024-06-28
+25161,High Life Beer Cans,alcohol,7.08,11.91,-1.91,High,CRITICAL,15.83,32.9,135.3,2141.08,1183.48,1079.81,103.67,9.6,"Elasticity -1.91, Stock:CRITICAL",2024-06-28
+23429,Baby Corn Vegetable Trio,produce,2.6,4.18,-1.0,Low,LOW,6.27,50.0,53.3,334.4,195.73,122.28,73.45,60.1,"Elasticity -1.0, Stock:LOW",2024-06-28
+7235,Stevia Plus Powder,pantry,3.52,5.72,-1.0,Low,CRITICAL,9.44,65.0,205.5,1940.22,1216.75,731.8,484.95,66.3,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+42009,Body Powder Original Strength,personal care,5.17,9.76,-1.23,Medium,LOW,14.64,50.0,59.9,876.65,567.07,434.39,132.68,30.5,"Elasticity -1.23, Stock:LOW",2024-06-28
+44123,Colby Jack Cheese Sticks,dairy eggs,3.16,5.41,-4.17,High,CRITICAL,4.53,-16.3,696.9,3156.91,954.74,716.97,237.77,33.2,"Elasticity -4.17, Stock:CRITICAL",2024-06-28
+31878,Package Kiwi,produce,3.71,7.55,-0.41,Low,CRITICAL,12.46,65.0,254.7,3173.81,2228.8,1158.66,1070.14,92.4,"Elasticity -0.41, Stock:CRITICAL",2024-06-28
+11282,Indulgent Coconut Milk Body Wash,personal care,5.38,10.58,-1.0,Low,CRITICAL,17.46,65.0,124.2,2168.9,1500.59,1028.93,471.66,45.8,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+26389,"Multi-Purpose 8\"" Scissors",household,3.96,6.29,-2.865,High,LOW,5.92,-5.9,368.4,2181.2,722.15,697.01,25.14,3.6,"Elasticity -2.865, Stock:LOW",2024-06-28
+5349,Original Plus Vitamins & Minerals Cat Food,pets,4.3,9.51,-0.88,Medium,LOW,14.26,49.9,123.6,1762.13,1230.77,898.24,332.53,37.0,"Elasticity -0.88, Stock:LOW",2024-06-28
+16841,Soap Saver 2 Pack,household,4.46,9.55,-1.0,Low,NORMAL,14.32,49.9,154.5,2212.74,1523.57,1154.55,369.02,32.0,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+11098,Organic Sencha Green Tea,international,1.49,3.03,-0.285,Low,LOW,4.54,49.8,106.6,483.88,325.07,178.02,147.05,82.6,"Elasticity -0.285, Stock:LOW",2024-06-28
+1391,Town House Light & Buttery Original Oven Baked Crackers,snacks,4.22,9.27,-1.9,High,LOW,9.17,-1.1,304.7,2794.24,1508.34,1461.0,47.34,3.2,"Elasticity -1.9, Stock:LOW",2024-06-28
+8544,Ground Pepper Cayenne,pantry,3.43,7.05,-1.0,Low,LOW,10.58,50.1,240.5,2544.34,1719.48,1289.54,429.94,33.3,"Elasticity -1.0, Stock:LOW",2024-06-28
+37833,Soft Regular Pulsar Toothbrush,personal care,5.81,10.26,-2.31,High,CRITICAL,11.82,15.2,244.2,2886.08,1467.46,1473.52,-6.06,-0.4,"Elasticity -2.31, Stock:CRITICAL",2024-06-28
+41350,White Spearmint Sugar-Free Gum,snacks,2.62,4.9,-0.7,Low,LOW,7.35,50.0,215.7,1585.43,1020.29,639.5,380.79,59.5,"Elasticity -0.7, Stock:LOW",2024-06-28
+36984,Villa Toscana Wine,alcohol,6.89,10.96,-2.39,High,CRITICAL,13.02,18.8,169.4,2204.95,1038.12,995.15,42.97,4.3,"Elasticity -2.39, Stock:CRITICAL",2024-06-28
+29103,Zero Go-Go Mixed Berry Vitamin Water,beverages,4.14,6.75,-1.955,High,LOW,8.2,21.5,117.3,961.86,476.24,425.76,50.48,11.9,"Elasticity -1.955, Stock:LOW",2024-06-28
+28076,Fettucini Alfredo Savory Italian Recipes,frozen,1.62,3.13,-1.0,Low,CRITICAL,5.16,64.9,150.7,777.49,533.4,364.47,168.93,46.3,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+20814,Sensitive with Iron Infant Formula,babies,5.55,11.05,-2.46,High,CRITICAL,10.35,-6.3,69.4,718.53,333.23,315.39,17.84,5.7,"Elasticity -2.46, Stock:CRITICAL",2024-06-28
+17346,Acne Medication Rapid Treatment Face Wash Maximum Action,personal care,1.53,2.91,-1.0,Low,NORMAL,4.36,49.8,177.3,773.19,501.86,352.98,148.88,42.2,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+2111,Organic Cappuccino Protein Shake,beverages,3.3,5.81,-1.0,Low,NORMAL,8.72,50.1,167.0,1455.99,904.98,605.89,299.09,49.4,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+37774,Artesian Sparkling Water,beverages,7.22,14.33,-5.0,High,CRITICAL,10.89,-24.0,1287.0,14015.33,4723.26,2253.87,2469.39,109.6,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+32461,Spaghetti Cool Shapes Star Wars,canned goods,2.76,4.8,-0.845,Medium,LOW,7.2,50.0,166.6,1199.63,739.77,458.75,281.02,61.3,"Elasticity -0.845, Stock:LOW",2024-06-28
+27260,Cafe Latte Vanilla,beverages,4.91,9.24,-1.95,High,CRITICAL,10.46,13.2,87.6,916.58,486.33,471.57,14.76,3.1,"Elasticity -1.95, Stock:CRITICAL",2024-06-28
+8386,"4X Ultra Concentrated Natural Laundry Detergent, Geranium Blossoms & Vanilla",household,4.66,8.32,-0.305,Low,NORMAL,12.48,50.0,243.7,3041.59,1905.87,983.53,922.34,93.8,"Elasticity -0.305, Stock:NORMAL",2024-06-28
+11437,Gluten Free Blueberry Oat Muffin Tops,frozen,4.5,8.38,-1.36,Medium,LOW,12.57,50.0,98.2,1234.74,792.71,637.76,154.95,24.3,"Elasticity -1.36, Stock:LOW",2024-06-28
+7985,Gluten-Free Reduced Sodium Popcorn,snacks,2.39,4.7,-1.0,Low,NORMAL,7.05,50.0,185.9,1310.83,866.45,627.96,238.49,38.0,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+10601,My First Fluoride-Free Infant & Toddler Toothpaste Mild Fruit,personal care,3.38,5.29,-1.0,Low,LOW,7.94,50.1,119.3,947.44,544.12,331.34,212.78,64.2,"Elasticity -1.0, Stock:LOW",2024-06-28
+14669,"Italian Pasta Sauce Basilico Tomato, Basil & Garlic",dry goods pasta,5.26,8.73,-0.6,Low,CRITICAL,14.4,64.9,240.5,3462.87,2197.96,1079.91,1118.05,103.5,"Elasticity -0.6, Stock:CRITICAL",2024-06-28
+43043,"Tropical Fruit Salad, Organic, in Organic Pineapple & Passionfruit Fruit Juices",canned goods,1.92,4.01,-1.0,Low,NORMAL,6.02,50.1,176.5,1062.25,723.46,526.35,197.11,37.4,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+10709,Non Dairy Chunky Monkey,frozen,7.8,12.5,-1.72,High,LOW,18.75,50.0,170.7,3200.11,1868.87,1554.13,314.74,20.3,"Elasticity -1.72, Stock:LOW",2024-06-28
+32623,Natural Raspberry Soda,beverages,6.66,12.16,-1.0,Low,NORMAL,18.24,50.0,183.7,3351.3,2127.63,1473.49,654.14,44.4,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+13587,Vermont Maple & Sea Salt Microwave Popcorn,snacks,2.0,3.18,-1.0,Low,CRITICAL,5.25,65.1,193.6,1016.65,629.35,365.13,264.22,72.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+27056,Beef Mini Bagel Dogs,meat seafood,8.77,14.38,-1.0,Low,LOW,21.57,50.0,221.4,4775.6,2833.92,1797.18,1036.74,57.7,"Elasticity -1.0, Stock:LOW",2024-06-28
+45020,Arnica Oil,personal care,1.38,2.58,-5.0,High,CRITICAL,2.04,-20.9,981.7,2002.6,647.9,353.3,294.6,83.4,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+44838,Yucatan Sunshine Habanero Pepper Sauce,pantry,3.41,7.5,-1.0,Low,LOW,11.25,50.0,212.4,2389.5,1665.22,1261.92,403.3,32.0,"Elasticity -1.0, Stock:LOW",2024-06-28
+47550,Refreshing Breeze Mold & Mildew Remover,household,3.23,6.42,-0.355,Low,LOW,9.63,50.0,276.2,2660.14,1767.9,990.73,777.17,78.4,"Elasticity -0.355, Stock:LOW",2024-06-28
+5,Green Chile Anytime Sauce,pantry,6.07,10.88,-3.63,High,CRITICAL,8.83,-18.8,259.5,2290.97,716.09,568.79,147.3,25.9,"Elasticity -3.63, Stock:CRITICAL",2024-06-28
+12631,Discreet Incontinence Underwear Maximum Classic Cut Extra-Large,personal care,3.18,5.51,-1.0,Low,LOW,8.26,49.9,157.5,1300.91,800.08,539.2,260.88,48.4,"Elasticity -1.0, Stock:LOW",2024-06-28
+27004,Cherry Menthol Cough Suppressant Drops,personal care,1.59,3.17,-1.0,Low,CRITICAL,5.23,65.0,190.7,997.28,694.09,483.65,210.44,43.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+32588,Refillable Primordial Himalayan Sea Salt Grinder,pantry,1.64,3.43,-1.0,Low,NORMAL,5.14,49.9,82.1,422.23,287.51,212.53,74.98,35.3,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+7516,Gluten Free Rosemary Herb Lentil Crackers,snacks,5.07,8.21,-1.0,Low,LOW,12.32,50.1,160.1,1972.04,1160.5,719.5,441.0,61.3,"Elasticity -1.0, Stock:LOW",2024-06-28
+30926,Chocolate Fudge Stripe Layer Cake,frozen,6.74,10.42,-2.46,High,NORMAL,11.35,8.9,101.6,1153.34,468.45,445.89,22.56,5.1,"Elasticity -2.46, Stock:NORMAL",2024-06-28
+28625,Ultra Pasteurized Grade A Heavy Whipping Cream,dairy eggs,1.67,3.01,-2.17,High,NORMAL,3.13,4.0,61.5,192.37,89.73,86.91,2.82,3.2,"Elasticity -2.17, Stock:NORMAL",2024-06-28
+5646,Organic Turkey Bacon,meat seafood,2.79,5.77,-2.655,High,NORMAL,4.84,-16.1,376.6,1822.98,772.13,678.49,93.64,13.8,"Elasticity -2.655, Stock:NORMAL",2024-06-28
+30229,Extra Clean Medium Toothbrush,personal care,4.55,9.01,-1.745,High,LOW,10.6,17.6,124.9,1324.31,755.85,717.44,38.41,5.4,"Elasticity -1.745, Stock:LOW",2024-06-28
+11445,Bite Size Candies Tropical,missing,1.24,2.73,-2.49,High,CRITICAL,2.46,-9.9,457.4,1125.13,557.99,510.21,47.78,9.4,"Elasticity -2.49, Stock:CRITICAL",2024-06-28
+20022,Granulated White Cane Sugar,pantry,6.47,10.22,-0.73,Low,LOW,15.33,50.0,119.3,1828.94,1057.04,577.62,479.42,83.0,"Elasticity -0.73, Stock:LOW",2024-06-28
+19828,Red Delicious Apples,produce,2.88,6.09,-0.255,Low,CRITICAL,10.05,65.0,125.9,1265.7,902.99,446.51,456.48,102.2,"Elasticity -0.255, Stock:CRITICAL",2024-06-28
+1567,FreshMatic Ultra Fresh Waters Automatic  Spray Refill,household,1.59,2.81,-1.84,High,CRITICAL,3.7,31.7,67.7,250.67,142.95,131.71,11.24,8.5,"Elasticity -1.84, Stock:CRITICAL",2024-06-28
+46930,Sea Salt Caramel Popcorn,snacks,1.59,3.14,-1.0,Low,CRITICAL,5.18,65.0,173.7,899.61,623.47,430.07,193.4,45.0,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+28728,Organic Falafel,frozen,8.32,14.84,-0.86,Medium,CRITICAL,24.49,65.0,176.6,4324.95,2855.63,1734.23,1121.4,64.7,"Elasticity -0.86, Stock:CRITICAL",2024-06-28
+22534,Kashmiri Curry Mild Indian Simmer Sauce,international,3.33,5.74,-1.0,Low,LOW,8.61,50.0,181.1,1558.98,956.03,635.8,320.23,50.4,"Elasticity -1.0, Stock:LOW",2024-06-28
+15976,Diced Peaches in 100% Fruit Juice,canned goods,1.53,2.48,-1.0,Low,NORMAL,3.72,50.0,209.5,779.46,458.88,284.09,174.79,61.5,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+41727,Gluten Free Breaded Chicken Breast Strips,frozen,6.26,12.75,-1.15,Medium,HIGH,19.12,50.0,122.9,2350.43,1580.89,1229.36,351.53,28.6,"Elasticity -1.15, Stock:HIGH",2024-06-28
+24729,Cabinet Makers Wax,household,5.19,11.47,-1.0,Low,CRITICAL,18.93,65.0,48.5,918.75,666.86,490.23,176.63,36.0,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+45032,Bleu Cheese Salad Dressing And Dip,pantry,5.66,11.86,-1.0,Low,NORMAL,17.79,50.0,210.4,3743.02,2552.15,1916.68,635.47,33.2,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+4868,Caraway Seeds,pantry,6.0,9.53,-1.0,Low,CRITICAL,15.72,65.0,173.0,2719.86,1681.75,969.78,711.97,73.4,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+25115,Pizzeria Thin Crust Primo Pepperoni Pizza,frozen,4.7,7.52,-2.57,High,CRITICAL,8.92,18.6,64.2,572.88,271.03,268.92,2.11,0.8,"Elasticity -2.57, Stock:CRITICAL",2024-06-28
+3169,Brown & Serve Original Breakfast Sausage Links,frozen,2.28,4.0,-4.11,High,LOW,2.99,-25.2,857.6,2564.08,608.86,430.6,178.26,41.4,"Elasticity -4.11, Stock:LOW",2024-06-28
+35323,Greek Yogurt Blueberry,dairy eggs,5.57,9.77,-1.0,Low,LOW,14.66,50.1,217.7,3191.86,1979.13,1338.37,640.76,47.9,"Elasticity -1.0, Stock:LOW",2024-06-28
+23262,Unfrosted Strawberry Pop Tarts,breakfast,4.42,7.58,-1.0,Low,LOW,11.37,50.0,238.2,2708.33,1655.49,1095.55,559.94,51.1,"Elasticity -1.0, Stock:LOW",2024-06-28
+37032,Hawaiian Hazelnut Flavored Coffee,beverages,3.51,7.23,-1.0,Low,CRITICAL,11.93,65.0,196.1,2338.91,1650.76,1180.34,470.42,39.9,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+3376,Organic Whole Kernel Sweet Corn No Salt Added,canned goods,2.93,4.63,-1.0,Low,CRITICAL,7.64,65.0,82.1,627.36,386.77,218.91,167.86,76.7,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+14884,Almond Sea Salt 72% Cocoa Square,snacks,1.78,3.33,-1.935,High,CRITICAL,4.35,30.6,127.7,555.6,328.25,323.28,4.97,1.5,"Elasticity -1.935, Stock:CRITICAL",2024-06-28
+18399,Chicken & Cheese Burrito,frozen,4.69,8.91,-1.0,Low,NORMAL,13.36,49.9,100.6,1343.63,871.95,616.14,255.81,41.5,"Elasticity -1.0, Stock:NORMAL",2024-06-28
+22270,Organic Classic Marinara Pasta Sauce,dry goods pasta,1.17,2.11,-1.0,Low,LOW,3.16,49.8,221.3,699.46,440.49,301.25,139.24,46.2,"Elasticity -1.0, Stock:LOW",2024-06-28
+33671,100% Pineapple Juice,beverages,3.6,7.83,-0.435,Low,CRITICAL,12.92,65.0,221.1,2856.44,2060.52,1129.33,931.19,82.5,"Elasticity -0.435, Stock:CRITICAL",2024-06-28
+33073,King Size Corn Tortillas,bakery,0.9,1.87,-0.895,Medium,LOW,2.8,49.7,129.0,361.32,245.18,175.91,69.27,39.4,"Elasticity -0.895, Stock:LOW",2024-06-28
+3420,Raw Jack Style Cheese,dairy eggs,1.91,3.19,-5.0,High,CRITICAL,2.72,-14.7,504.1,1371.15,408.32,280.14,128.18,45.8,"Elasticity -5.0, Stock:CRITICAL",2024-06-28
+24840,Chocolate Kale Krunch,snacks,1.58,3.38,-3.64,High,CRITICAL,2.45,-27.5,1018.2,2494.57,885.83,553.69,332.14,60.0,"Elasticity -3.64, Stock:CRITICAL",2024-06-28
+32412,Garbanzo Beans No Salt Added,international,4.84,8.49,-2.305,High,NORMAL,8.91,4.9,312.2,2782.06,1270.82,1213.71,57.11,4.7,"Elasticity -2.305, Stock:NORMAL",2024-06-28
+3738,Calendula Baby Diaper Care,babies,4.72,9.46,-1.0,Low,LOW,14.19,50.0,176.3,2501.22,1669.25,1221.78,447.47,36.6,"Elasticity -1.0, Stock:LOW",2024-06-28
+47101,Greek Yogurt Black Cherry,dairy eggs,4.13,7.83,-1.59,High,NORMAL,11.74,49.9,122.8,1442.14,934.81,838.14,96.67,11.5,"Elasticity -1.59, Stock:NORMAL",2024-06-28
+26849,Age Defying Daily Facial Moisturizer,personal care,5.9,11.62,-1.0,Low,CRITICAL,19.17,65.0,164.0,3144.37,2176.62,1506.03,670.59,44.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+31396,French Vanilla Sugar Free Coffee Creamer,dairy eggs,3.0,5.75,-2.455,High,NORMAL,4.98,-13.4,156.0,776.83,308.86,293.53,15.33,5.2,"Elasticity -2.455, Stock:NORMAL",2024-06-28
+14846,Gluten Free Chocolate Almond Bar,snacks,2.76,4.64,-0.58,Low,LOW,6.96,50.0,256.0,1781.92,1075.29,591.03,484.26,81.9,"Elasticity -0.58, Stock:LOW",2024-06-28
+35704,Gluten Free Hamburger Buns,frozen,6.84,13.42,-1.0,Low,CRITICAL,22.14,65.0,167.8,3714.66,2567.04,1776.77,790.27,44.5,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+41535,Rice Pecan Bread,bakery,1.66,2.95,-3.975,High,LOW,2.19,-25.8,777.4,1702.61,412.05,295.52,116.53,39.4,"Elasticity -3.975, Stock:LOW",2024-06-28
+37187,Mangos Organic Baby Food,babies,6.34,11.63,-0.33,Low,CRITICAL,19.19,65.0,157.8,3028.87,2028.19,953.52,1074.67,112.7,"Elasticity -0.33, Stock:CRITICAL",2024-06-28
+41712,American Classic Creamy Peanut Butter,pantry,1.24,2.12,-1.955,High,LOW,2.55,20.3,206.4,526.23,270.34,250.4,19.94,8.0,"Elasticity -1.955, Stock:LOW",2024-06-28
+22648,Organic Power Grains,dry goods pasta,7.46,11.7,-0.915,Medium,NORMAL,17.55,50.0,44.2,775.06,445.6,259.95,185.65,71.4,"Elasticity -0.915, Stock:NORMAL",2024-06-28
+12297,Harpers Bazaar,household,1.45,2.43,-1.0,Low,CRITICAL,4.01,65.0,145.7,584.17,372.94,230.17,142.77,62.0,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+17310,Chocolate Chip Love Cookies,snacks,4.53,9.18,-3.45,High,NORMAL,6.26,-31.8,621.9,3893.21,1075.92,748.14,327.78,43.8,"Elasticity -3.45, Stock:NORMAL",2024-06-28
+14367,Cloves,other,3.32,7.28,-3.03,High,CRITICAL,5.2,-28.6,98.7,513.12,185.51,135.79,49.72,36.6,"Elasticity -3.03, Stock:CRITICAL",2024-06-28
+45312,Clear Tone Pink Rosa Antiperspirant Deodorant,personal care,5.99,11.93,-4.42,High,NORMAL,8.22,-31.1,1152.8,9476.18,2570.79,1284.09,1286.7,100.2,"Elasticity -4.42, Stock:NORMAL",2024-06-28
+31094,Spicy Spinach Blend,produce,1.13,1.98,-1.0,Low,LOW,2.97,50.0,214.5,636.97,394.62,261.87,132.75,50.7,"Elasticity -1.0, Stock:LOW",2024-06-28
+11108,Nestle Coffeemate French Vanilla Flavored Instant Coffee,beverages,4.13,8.98,-1.88,High,LOW,8.9,-0.9,89.7,798.3,427.85,415.12,12.73,3.1,"Elasticity -1.88, Stock:LOW",2024-06-28
+2976,High Protein Advanced Formula Cat Food,pets,6.42,11.69,-2.74,High,CRITICAL,11.37,-2.7,346.6,3940.62,1715.57,1648.0,67.57,4.1,"Elasticity -2.74, Stock:CRITICAL",2024-06-28
+16324,Peppermint Flavored Ultra 1000 Maximum Strength Antacid & Calcium Supplement Chewable Tablets,personal care,4.12,7.23,-1.0,Low,LOW,10.84,49.9,104.4,1132.22,701.89,473.74,228.15,48.2,"Elasticity -1.0, Stock:LOW",2024-06-28
+34220,Honey Lavender Stress Relief Tea,beverages,5.17,10.0,-1.0,Low,CRITICAL,16.5,65.0,177.9,2935.0,2015.37,1381.45,633.92,45.9,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+3759,Smoked Salt Caramels in Milk Chocolate,snacks,4.66,7.72,-1.255,Medium,LOW,11.58,50.0,197.4,2285.52,1365.79,966.47,399.32,41.3,"Elasticity -1.255, Stock:LOW",2024-06-28
+31248,White Potato,produce,2.1,4.45,-1.635,High,CRITICAL,5.7,28.1,162.1,924.05,583.61,555.5,28.11,5.1,"Elasticity -1.635, Stock:CRITICAL",2024-06-28
+26210,Almond Gold Bar,snacks,3.35,7.21,-0.915,Medium,CRITICAL,11.9,65.0,164.0,1951.65,1402.24,978.7,423.54,43.3,"Elasticity -0.915, Stock:CRITICAL",2024-06-28
+33879,Pore Refining Toner,personal care,4.67,7.84,-0.48,Low,NORMAL,11.76,50.0,268.3,3154.77,1901.98,991.16,910.82,91.9,"Elasticity -0.48, Stock:NORMAL",2024-06-28
+13481,Extra Noodle Soup Mix,canned goods,2.53,4.6,-1.41,Medium,LOW,6.9,50.0,110.7,763.51,483.56,393.3,90.26,22.9,"Elasticity -1.41, Stock:LOW",2024-06-28
+38746,1000 Roses Pearl Exfoliator for Sensitive Skin,personal care,1.44,2.45,-0.225,Low,LOW,3.68,50.2,248.4,914.08,556.39,264.08,292.31,110.7,"Elasticity -0.225, Stock:LOW",2024-06-28
+10428,Original Large Dog Biscuits,pets,2.58,4.81,-0.61,Low,LOW,7.22,50.1,82.8,597.93,384.27,226.54,157.73,69.6,"Elasticity -0.61, Stock:LOW",2024-06-28
+7169,Organic Yellow Potatoes,produce,3.83,7.68,-4.26,High,CRITICAL,5.8,-24.5,470.3,2727.49,926.41,533.53,392.88,73.6,"Elasticity -4.26, Stock:CRITICAL",2024-06-28
+43561,Exotic Thai Red Rice & Flaxseeds Rice Toast,snacks,5.63,9.18,-1.125,Medium,LOW,13.77,50.0,65.5,902.3,533.39,351.23,182.16,51.9,"Elasticity -1.125, Stock:LOW",2024-06-28
+9448,Original Liquid Fabric Softener,household,4.0,6.56,-1.48,Medium,NORMAL,9.84,50.0,53.2,523.24,310.54,239.2,71.34,29.8,"Elasticity -1.48, Stock:NORMAL",2024-06-28
+31931,Pure Fire Tonic Apple Cider Vinegar Drink,beverages,5.81,9.87,-1.0,Low,CRITICAL,16.29,65.0,177.4,2889.94,1859.21,1139.88,719.33,63.1,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+23658,Air Freshener Crisp Waters Spray,household,2.41,4.77,-2.58,High,LOW,4.07,-14.7,393.4,1601.0,652.99,600.48,52.51,8.7,"Elasticity -2.58, Stock:LOW",2024-06-28
+7135,"Cream Of Chicken, Family Size",canned goods,0.99,1.75,-5.0,High,NORMAL,1.3,-25.7,1359.3,1767.1,421.39,222.33,199.06,89.5,"Elasticity -5.0, Stock:NORMAL",2024-06-28
+43515,L-Lysine 500 mg Capsules,personal care,3.47,6.64,-1.18,Medium,LOW,9.96,50.0,191.8,1910.44,1244.85,953.79,291.06,30.5,"Elasticity -1.18, Stock:LOW",2024-06-28
+43780,Extra Cleansing Vinegar & Water Douche,personal care,2.59,5.53,-3.055,High,LOW,3.65,-34.0,1206.6,4403.94,1278.95,958.31,320.64,33.5,"Elasticity -3.055, Stock:LOW",2024-06-28
+17281,White with 30% Cacao Content Organic Chocolate,snacks,4.36,6.88,-2.76,High,LOW,6.49,-5.7,58.7,381.21,125.11,121.71,3.4,2.8,"Elasticity -2.76, Stock:LOW",2024-06-28
+19430,Rye Flour,other,1.33,2.78,-1.0,Low,CRITICAL,4.59,65.1,207.3,951.59,675.86,483.26,192.6,39.9,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+31444,Crystallized Ginger In Dark Chocolate  Bar,snacks,6.28,9.81,-1.0,Low,CRITICAL,16.19,65.0,210.7,3410.94,2087.86,1185.47,902.39,76.1,"Elasticity -1.0, Stock:CRITICAL",2024-06-28
+16159,Free & Gentle Liquid Laundry Detergent,household,6.39,11.86,-4.45,High,CRITICAL,9.41,-20.7,674.9,6350.53,2038.11,1292.05,746.06,57.7,"Elasticity -4.45, Stock:CRITICAL",2024-06-28
