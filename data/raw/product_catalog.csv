@@ -1,0 +1,501 @@
+product_id,product_name,aisle,department,base_price,cost_price,gross_margin_pct,shelf_life_days,is_perishable,store_id,created_date
+33627,Mix Popcorn,chips pretzels,snacks,5.31,3.13,41.1,120,0,1,2024-01-01
+18193,Tangerine Lime Drink Tabs,missing,missing,11.51,6.41,44.3,180,0,1,2024-01-01
+47100,Fire Roasted Diced Tomatoes With Seasonings,canned jarred vegetables,canned goods,3.93,2.01,48.9,730,0,1,2024-01-01
+48184,Soy Curls,chips pretzels,snacks,6.99,4.28,38.8,120,0,1,2024-01-01
+22198,"4X Ultra Concentrated Natural Laundry Detergent, Free & Clear",laundry,household,3.56,2.09,41.3,180,0,1,2024-01-01
+31574,Chocolate Deluxe Bars,energy granola bars,snacks,3.67,1.77,51.8,120,0,1,2024-01-01
+45363,Stewed Mexican Recipe Sliced Tomatoes,canned jarred vegetables,canned goods,1.23,0.78,36.6,730,0,1,2024-01-01
+14132,Chili Con Carne,frozen meals,frozen,13.39,8.23,38.5,365,0,1,2024-01-01
+26904,Fruit Squish'ems Apple Strawberry,canned fruit applesauce,canned goods,3.4,2.18,35.9,730,0,1,2024-01-01
+39418,Sparkling Spruce Timeless Joy Holiday Candle,missing,missing,9.08,5.4,40.5,180,0,1,2024-01-01
+28086,Pineapple Orange Strawberry 100% Juice,refrigerated,beverages,1.78,1.02,42.7,180,0,1,2024-01-01
+200,Radiant Pantiliners Regular Wrapped Unscented,feminine care,personal care,11.7,6.24,46.7,180,0,1,2024-01-01
+36124,Culture Club Cabernet Grape Kombucha,refrigerated,beverages,12.74,8.11,36.3,180,0,1,2024-01-01
+21936,Vegetarian Refried Beans,canned meals beans,canned goods,1.85,1.15,37.8,730,0,1,2024-01-01
+15135,"Wraps, Multi-Grain",tortillas flat bread,bakery,2.68,1.23,54.1,5,1,1,2024-01-01
+44563,Pumpkin Corn Tortilla Chips,chips pretzels,snacks,3.88,1.77,54.4,120,0,1,2024-01-01
+38122,24oz Heat & Eat Container,food storage,household,5.04,2.65,47.4,180,0,1,2024-01-01
+28397,Blueberry Cobbler,breakfast bars pastries,breakfast,7.25,4.44,38.8,180,0,1,2024-01-01
+34375,Salt Free Garam Masala Blend,spices seasonings,pantry,6.32,4.09,35.3,365,0,1,2024-01-01
+32359,Water Softening Pellets,more household,household,4.91,2.36,51.9,180,0,1,2024-01-01
+18238,Condensed Cream Of Onion Soup,soup broth bouillon,canned goods,3.45,1.96,43.2,730,0,1,2024-01-01
+29286,Vegetarian DHA Softgels,vitamins supplements,personal care,3.39,1.78,47.5,180,0,1,2024-01-01
+38841,"Slow Cooker Sauces, Apple Bourbon Pulled Pork",marinades meat preparation,pantry,4.92,3.17,35.6,365,0,1,2024-01-01
+24179,"Real Vegetable Chips, Sweets & Beets",chips pretzels,snacks,5.25,3.25,38.1,120,0,1,2024-01-01
+34572,Forest Body Wash,soap,personal care,6.56,4.05,38.3,180,0,1,2024-01-01
+26966,Chocolate Covered Ring Jells,kosher foods,international,9.85,5.36,45.6,180,0,1,2024-01-01
+148,Nectarines,fresh fruits,produce,2.8,1.49,46.8,7,1,1,2024-01-01
+44666,Original Nooks & Crannies Cinnamon Raisin English Muffins,breakfast bakery,bakery,4.84,2.44,49.6,5,1,1,2024-01-01
+8640,Invisible Solid Spring Breeze Antiperspirant/Deodorant 2.6 oz AP/DO & Body Spray,deodorants,personal care,7.92,3.65,53.9,180,0,1,2024-01-01
+32056,Organic Super Tampons Wth Applicator,feminine care,personal care,2.46,1.53,37.8,180,0,1,2024-01-01
+43237,Freeze Off Wart Removal System,first aid,personal care,8.08,4.95,38.7,180,0,1,2024-01-01
+41511,Plastic 16 oz. Cups,plates bowls cups flatware,household,3.71,2.41,35.0,180,0,1,2024-01-01
+37343,"Kefir, Nonfat, with FOS, Organic, Vanilla",yogurt,dairy eggs,2.65,1.72,35.1,14,1,1,2024-01-01
+35594,Organic Hemp Plus Granola Cereal,granola,breakfast,11.49,6.45,43.9,180,0,1,2024-01-01
+19923,Blueberry B Monster,refrigerated,beverages,14.54,8.78,39.6,180,0,1,2024-01-01
+2211,Triple Enzyme Formula Spray Laundry Stain Remover,laundry,household,10.08,6.44,36.1,180,0,1,2024-01-01
+31493,Soft Toothbrush Powered By Yogurt Cups,oral hygiene,personal care,5.05,3.13,38.0,180,0,1,2024-01-01
+3932,Wasabi,asian foods,international,2.98,1.49,50.0,180,0,1,2024-01-01
+37161,Blueberry Acai Yogurt,yogurt,dairy eggs,8.84,4.77,46.0,14,1,1,2024-01-01
+7095,Vanilla Bean Tea Bags,tea,beverages,7.44,3.54,52.4,180,0,1,2024-01-01
+3594,Milk Whole,milk,dairy eggs,3.22,2.06,36.0,14,1,1,2024-01-01
+41233,Riced Cauliflower,missing,missing,6.95,3.97,42.9,180,0,1,2024-01-01
+16913,"Licorice, Soft",candy chocolate,snacks,2.76,1.37,50.4,120,0,1,2024-01-01
+39365,French Vanilla Syrup,honeys syrups nectars,pantry,11.09,6.48,41.6,365,0,1,2024-01-01
+10982,Organic Nectarine & Plum Conserve,packaged vegetables fruits,produce,3.18,1.82,42.8,7,1,1,2024-01-01
+35976,Sweet Cream Whipped Butter Salted,butter,dairy eggs,8.63,4.5,47.9,14,1,1,2024-01-01
+39370,Honey Peanut Butter Hot Oatmeal Bowl,hot cereal pancake mixes,breakfast,5.12,2.42,52.7,180,0,1,2024-01-01
+31235,Velveeta Reduced Fat 2% Milk Shells Cheese,instant foods,dry goods pasta,7.2,4.21,41.5,365,0,1,2024-01-01
+27873,Gourmet Spicy Barbecue Sauce,marinades meat preparation,pantry,7.47,4.14,44.6,365,0,1,2024-01-01
+32901,Organic Half & Half Guayusa Lemonade Tea,tea,beverages,4.0,2.42,39.5,180,0,1,2024-01-01
+29869,New Zealand Artesian Water,water seltzer sparkling water,beverages,14.59,8.08,44.6,180,0,1,2024-01-01
+5046,Vanilla Chocolate Peanut Butter Ice Cream Bars Multi-Pack,ice cream ice,frozen,12.3,7.63,38.0,365,0,1,2024-01-01
+2323,Rich Chocolate Flavored Milk Mix,cocoa drink mixes,beverages,14.18,7.95,43.9,180,0,1,2024-01-01
+42970,Lite Honey Mustard Dressing Topping & Spread,salad dressing toppings,pantry,10.95,6.16,43.7,365,0,1,2024-01-01
+2768,Lip Care Stick,skin care,personal care,7.98,4.99,37.5,180,0,1,2024-01-01
+48727,Garlic & Herb Pasta Sauce,pasta sauce,dry goods pasta,11.22,5.95,47.0,365,0,1,2024-01-01
+20443,"Pita Bites, Original Sea Salt",crackers,snacks,3.16,1.51,52.2,120,0,1,2024-01-01
+45355,Deep Clean Cream Cleanser,facial care,personal care,3.96,1.8,54.5,180,0,1,2024-01-01
+31966,Angel Hair Pasta With Herbs,instant foods,dry goods pasta,2.45,1.47,40.0,365,0,1,2024-01-01
+41380,Country Style Pork Ribs,meat counter,meat seafood,10.83,6.22,42.6,5,1,1,2024-01-01
+43281,Organic Lemon Perfume Oil,air fresheners candles,household,5.89,3.48,40.9,180,0,1,2024-01-01
+15171,Reclosable Sandwich Extra Large Bags,food storage,household,4.71,2.32,50.7,180,0,1,2024-01-01
+9721,Steamfresh Protein Italian Style,frozen produce,frozen,12.94,6.18,52.2,365,0,1,2024-01-01
+28158,Farmer Cheese,other creams cheeses,dairy eggs,5.57,2.52,54.8,14,1,1,2024-01-01
+21927,Organic Boneless Skinless Chicken Breast,poultry counter,meat seafood,9.9,5.15,48.0,5,1,1,2024-01-01
+16064,"Bread Crumbs, Panko, Seasoned Italian Style",marinades meat preparation,pantry,7.43,4.22,43.2,365,0,1,2024-01-01
+34864,Pet Waste Bags,dog food care,pets,3.41,1.8,47.2,180,0,1,2024-01-01
+48383,Whole Wheat Flour,baking ingredients,pantry,10.02,5.39,46.2,365,0,1,2024-01-01
+20636,Pure Sport Body Wash,body lotions soap,personal care,2.75,1.73,37.1,180,0,1,2024-01-01
+6180,Fit Popcorn Extra Virgin Olive Oil,popcorn jerky,snacks,9.9,5.14,48.1,120,0,1,2024-01-01
+42636,Organic Microwave Popcorn No Salt or Oil,popcorn jerky,snacks,8.29,4.58,44.8,120,0,1,2024-01-01
+45816,Fresh Collection Fiji Antiperpirant & Deodorant,deodorants,personal care,3.99,2.42,39.3,180,0,1,2024-01-01
+31873,Unscented Regular Pantiliners,feminine care,personal care,2.06,1.09,47.1,180,0,1,2024-01-01
+7991,Smoth & Creamy Low Fat Vanilla Frozen Yogurt,ice cream ice,frozen,12.79,7.35,42.5,365,0,1,2024-01-01
+38531,Organic Sweet Potato Multigrain Tortilla Chips,chips pretzels,snacks,7.8,4.86,37.7,120,0,1,2024-01-01
+6577,Sense & Spray Str Clean Linen Scent Air Freshener,air fresheners candles,household,9.29,5.94,36.1,180,0,1,2024-01-01
+31250,Apples Honeycrisp,missing,missing,9.71,4.66,52.0,180,0,1,2024-01-01
+10521,Carb Balance Small Fajita Whole Wheat Tortillas,tortillas flat bread,bakery,1.98,1.26,36.4,5,1,1,2024-01-01
+44203,Crystal Pacifier,baby accessories,babies,5.58,3.06,45.2,180,0,1,2024-01-01
+6949,Creamy Broth with Mackerel & Vegetables Cat Food,cat food care,pets,3.16,1.59,49.7,180,0,1,2024-01-01
+4829,Life Wheat + Protein Bread,missing,missing,10.63,5.76,45.8,180,0,1,2024-01-01
+36362,"Baked Crackers, Cheddar Cheese",breakfast bars pastries,breakfast,8.23,5.32,35.4,180,0,1,2024-01-01
+4470,Cherry Liquid Drink Mix,cocoa drink mixes,beverages,5.97,3.27,45.2,180,0,1,2024-01-01
+11800,Italian Castelvetrano Whole Green Olives,pickled goods olives,pantry,2.64,1.36,48.5,365,0,1,2024-01-01
+315,Creamy Italian Dressing Marinade,salad dressing toppings,pantry,5.11,2.95,42.3,365,0,1,2024-01-01
+20677,Homestyle Creamy Chicken & Herb Dumplings Soup,soup broth bouillon,canned goods,2.3,1.15,50.0,730,0,1,2024-01-01
+18393,Mango Baby Breakfast Stage 2,baby food formula,babies,9.3,4.33,53.4,180,0,1,2024-01-01
+31317,Mandarin Oranges in Light Syrup Fruit Cups,canned fruit applesauce,canned goods,3.55,1.69,52.4,730,0,1,2024-01-01
+19892,Classic Basil Pesto Sauce,pasta sauce,dry goods pasta,10.87,5.17,52.4,365,0,1,2024-01-01
+18628,Organic Volcano Rice Ready To Eat Bowl,instant foods,dry goods pasta,6.72,3.23,51.9,365,0,1,2024-01-01
+5583,Kentucky Whisky,spirits,alcohol,3.2,1.53,52.2,180,0,1,2024-01-01
+34747,The Hulk Banana Coconut Spirulina Paleo Muffins,breakfast bakery,bakery,6.14,3.55,42.2,5,1,1,2024-01-01
+35087,Blemish Clearing Serum,facial care,personal care,9.61,4.67,51.4,180,0,1,2024-01-01
+18766,Canola Vegetable Oil Blend,oils vinegars,pantry,7.61,3.95,48.1,365,0,1,2024-01-01
+32343,Bianco D'oro Italian Dry Salame,lunch meat,deli,9.71,6.11,37.1,7,1,1,2024-01-01
+38625,Tomato Sauce With Basil,pasta sauce,dry goods pasta,6.94,3.78,45.5,365,0,1,2024-01-01
+7599,Sensor 2 Plus Disposable Razors,shave needs,personal care,7.23,4.22,41.6,180,0,1,2024-01-01
+4730,Original Toothbrush Soft Right,oral hygiene,personal care,6.28,3.04,51.6,180,0,1,2024-01-01
+29960,"Acini di Pepe, No. 78",dry pasta,dry goods pasta,2.25,1.1,51.1,365,0,1,2024-01-01
+7515,Spinach And Ricotta Ravioli,specialty cheeses,dairy eggs,3.08,1.41,54.2,14,1,1,2024-01-01
+42849,Ice Cream Cones,cookies cakes,snacks,2.74,1.33,51.5,120,0,1,2024-01-01
+15556,Original Sliced Grand Cru Cheese,packaged cheese,dairy eggs,8.36,4.23,49.4,14,1,1,2024-01-01
+38094,Sriracha Ketchup,condiments,pantry,5.14,2.49,51.6,365,0,1,2024-01-01
+21957,Bittersweet Sea Salt Chocolate Bar,candy chocolate,snacks,6.31,2.95,53.2,120,0,1,2024-01-01
+42796,Broccoli Pot Pie With Cheddar Cheese Sauce,frozen vegan vegetarian,frozen,13.89,6.59,52.6,365,0,1,2024-01-01
+42805,Sliced Jalapenos,pickled goods olives,pantry,4.49,2.43,45.9,365,0,1,2024-01-01
+20571,Cashew Butter + Bourbon Vanilla Chocolate Bar,candy chocolate,snacks,5.58,2.74,50.9,120,0,1,2024-01-01
+1591,Redness Relief Cooling Eye Drops,eye ear care,personal care,9.56,5.0,47.7,180,0,1,2024-01-01
+22272,Gluten Free Matzo Ball & Soup Mix,kosher foods,international,4.29,2.36,45.0,180,0,1,2024-01-01
+1031,Cold Remedy Orange Cream Ultra RapidMelt,cold flu allergy,personal care,2.77,1.63,41.2,180,0,1,2024-01-01
+24466,Moroccan Red Clay and Argan Stem Cell Pore Minimizing Facial Scrub,skin care,personal care,4.9,2.24,54.3,180,0,1,2024-01-01
+20076,RRRuffles Have Ridges Reduced Fat Potato Chips,chips pretzels,snacks,3.71,2.26,39.1,120,0,1,2024-01-01
+9593,Grilled Salmon Feast in Gravy Cat Food,cat food care,pets,11.3,6.5,42.5,180,0,1,2024-01-01
+39051,Organic Tropical Fruit Blend,frozen produce,frozen,12.7,5.92,53.4,365,0,1,2024-01-01
+41006,Organic Onion Powder,spices seasonings,pantry,8.33,5.2,37.6,365,0,1,2024-01-01
+36552,Gourmet Popping Corn Original,popcorn jerky,snacks,9.04,5.73,36.6,120,0,1,2024-01-01
+19792,L-Glutamine Dietary Supplement,vitamins supplements,personal care,10.04,4.64,53.8,180,0,1,2024-01-01
+33055,Organic Golden Delicious Apple,fresh fruits,produce,2.71,1.37,49.4,7,1,1,2024-01-01
+1705,Disney Frozen Fruit Flavored Snacks,fruit vegetable snacks,snacks,9.19,5.62,38.8,120,0,1,2024-01-01
+6751,"Drink Tabs, Strawberry Lemonade",energy sports drinks,beverages,8.78,5.26,40.1,180,0,1,2024-01-01
+13657,Coleslaw Dressing Calorie Free,salad dressing toppings,pantry,10.07,4.9,51.3,365,0,1,2024-01-01
+9268,Organic Fruit Spread Wild Blueberry,spreads,pantry,10.96,5.39,50.8,365,0,1,2024-01-01
+14204,Organic White Meat Chicken Pie,frozen meals,frozen,6.82,3.57,47.7,365,0,1,2024-01-01
+35006,Glycerin Hand Soap Rosemary,soap,personal care,3.1,1.7,45.2,180,0,1,2024-01-01
+34830,Tini Twists Pretzels,chips pretzels,snacks,4.21,2.42,42.5,120,0,1,2024-01-01
+16228,Pad Thai Noodle Bowl,asian foods,international,6.27,3.28,47.7,180,0,1,2024-01-01
+8995,"Oatmeal, Instant, Banana Maple with Flax",hot cereal pancake mixes,breakfast,10.18,5.52,45.8,180,0,1,2024-01-01
+22782,Original Key Lime Pie Yogurt,yogurt,dairy eggs,10.61,6.36,40.1,14,1,1,2024-01-01
+3919,Hearty Grains 100% Whole Wheat English Muffins,breakfast bakery,bakery,1.55,0.71,54.2,5,1,1,2024-01-01
+11221,Rotini Pasta With Three Cheese Sauce,instant foods,dry goods pasta,7.11,3.56,49.9,365,0,1,2024-01-01
+22412,HE Turbo Clean Ultra Stain Release Liquid Laundry Detergent,laundry,household,6.17,3.66,40.7,180,0,1,2024-01-01
+16704,Bag Pink Lady Apples,packaged vegetables fruits,produce,2.94,1.85,37.1,7,1,1,2024-01-01
+13390,Deli Deluxe 2% Milk American Cheese Slices,packaged cheese,dairy eggs,3.2,1.77,44.7,14,1,1,2024-01-01
+9027,Drink Original Unsweetened,soy lactosefree,dairy eggs,5.38,2.99,44.4,14,1,1,2024-01-01
+3212,"Vinegar, Red Wine",oils vinegars,pantry,11.43,5.39,52.8,365,0,1,2024-01-01
+6677,Organic Whole Mushrooms,packaged vegetables fruits,produce,3.6,1.94,46.1,7,1,1,2024-01-01
+8649,Variety Snaps With Real Beef/Chicken/Liver & Lamb Flavors,dog food care,pets,7.19,4.0,44.4,180,0,1,2024-01-01
+34457,100% Organic Unbleached White Whole Wheat Flour,baking ingredients,pantry,9.03,4.5,50.2,365,0,1,2024-01-01
+42355,ProActive Health MiniChunks Adult Dog Food,dog food care,pets,5.64,2.84,49.6,180,0,1,2024-01-01
+16356,Turkey & Brown Rice Dog Food,dog food care,pets,11.72,6.16,47.4,180,0,1,2024-01-01
+33819,Original French Vanilla Yogurt,yogurt,dairy eggs,11.62,5.28,54.6,14,1,1,2024-01-01
+46381,Tricolor Pearl Couscous,grains rice dried goods,dry goods pasta,4.52,2.33,48.5,365,0,1,2024-01-01
+13905,Shabbos Candles,kosher foods,international,6.97,3.43,50.8,180,0,1,2024-01-01
+30801,Classic Original Mint Mouthwash,oral hygiene,personal care,5.01,2.58,48.5,180,0,1,2024-01-01
+21623,ZzzQuil Nighttime Liquid Sleep-Aid Twin Pack,cold flu allergy,personal care,4.85,2.3,52.6,180,0,1,2024-01-01
+7290,Peas Baby 2nd Foods,baby food formula,babies,2.37,1.49,37.1,180,0,1,2024-01-01
+40396,Guacamole,fresh dips tapenades,deli,8.1,4.61,43.1,7,1,1,2024-01-01
+48126,Braunschweiger Lunchmeat,packaged meat,meat seafood,14.56,8.53,41.4,5,1,1,2024-01-01
+18674,Spaghetti Tangy Italian Dinner,instant foods,dry goods pasta,2.51,1.53,39.0,365,0,1,2024-01-01
+18811,Organic Apple Juice,juice nectars,beverages,5.26,2.89,45.1,180,0,1,2024-01-01
+3503,Gentle Glide 360° Fresh Scent Regular/Super Absorbency Multi-Pack Tampons,feminine care,personal care,11.08,5.18,53.2,180,0,1,2024-01-01
+25357,Homestyle Harvest Tomato with Basil Soup,soup broth bouillon,canned goods,1.96,1.09,44.4,730,0,1,2024-01-01
+11025,Mighty Pacs,laundry,household,3.45,1.96,43.2,180,0,1,2024-01-01
+15036,Allergy 24 Hour 10mg Tablets,cold flu allergy,personal care,6.89,4.13,40.1,180,0,1,2024-01-01
+4244,MSM Sulfur Capsules,vitamins supplements,personal care,11.86,6.36,46.4,180,0,1,2024-01-01
+46110,Triple Zero Cherry Greek Yogurt,missing,missing,4.42,2.1,52.5,180,0,1,2024-01-01
+41763,Turkey Gravy Mix,marinades meat preparation,pantry,8.72,4.42,49.3,365,0,1,2024-01-01
+40125,"Face Scrub, Original",skin care,personal care,9.62,5.03,47.7,180,0,1,2024-01-01
+20439,All Natural Almond Slices,nuts seeds dried fruit,snacks,4.28,2.48,42.1,120,0,1,2024-01-01
+41383,Family Size Hearts of Romaine,packaged vegetables fruits,produce,6.23,3.51,43.7,7,1,1,2024-01-01
+4029,"Organic Corn Thins, Original",chips pretzels,snacks,5.26,2.74,47.9,120,0,1,2024-01-01
+47593,Tots Yogurt Mish Mash Berry Banana Beet,baby food formula,babies,8.32,5.39,35.2,180,0,1,2024-01-01
+3781,Sheer Moisture Lip Tint - Adorn,beauty,personal care,8.34,4.76,42.9,180,0,1,2024-01-01
+17228,Sriracha Chicken Breast,poultry counter,meat seafood,15.25,7.59,50.2,5,1,1,2024-01-01
+48716,Meyer Lemon Miracle Tart,bakery desserts,bakery,2.09,0.98,53.1,5,1,1,2024-01-01
+31192,Free & Clear  Natural Dish Liquid,dish detergents,household,10.35,4.97,52.0,180,0,1,2024-01-01
+4460,Non Gmo Snickerdoodle Protein Bar,energy granola bars,snacks,4.91,2.45,50.1,120,0,1,2024-01-01
+42698,Hot Pork Sausage,frozen breakfast,frozen,5.24,2.53,51.7,365,0,1,2024-01-01
+28093,Pork Potsticker,frozen appetizers sides,frozen,3.49,1.7,51.3,365,0,1,2024-01-01
+30856,Whole Grain White Hamburger Buns,buns rolls,bakery,5.34,2.71,49.3,5,1,1,2024-01-01
+20377,"Water Chestnuts, Sliced, No Salt Added",asian foods,international,8.78,4.26,51.5,180,0,1,2024-01-01
+18330,Click Gel Automatic Citrus Scent Toilet Bowl Cleaner,cleaning products,household,2.17,1.37,36.9,180,0,1,2024-01-01
+27457,100 Grand Fun Size Bars,candy chocolate,snacks,6.34,2.95,53.5,120,0,1,2024-01-01
+16471,Chocolate Decorating Decors,baking supplies decor,pantry,4.26,2.36,44.6,365,0,1,2024-01-01
+11709,Milk Chocolate Coconut & Almonds Bar,candy chocolate,snacks,7.34,3.91,46.7,120,0,1,2024-01-01
+10531,Easy Quinoa Mushroom & Vegetable Medley,grains rice dried goods,dry goods pasta,3.74,2.42,35.3,365,0,1,2024-01-01
+49193,SmartBlend Chicken & Rice Formula Adult Dry Dog Food,dog food care,pets,8.91,4.21,52.7,180,0,1,2024-01-01
+1793,"Citrus Beverage, Sparkling, with Natural Pulp",soft drinks,beverages,6.72,3.56,47.0,180,0,1,2024-01-01
+42459,Sinus-Max Pressure & Pain Relief,cold flu allergy,personal care,11.37,7.32,35.6,180,0,1,2024-01-01
+9061,Italian Sausage & Rigatoni Pasta,frozen meals,frozen,4.65,2.9,37.6,365,0,1,2024-01-01
+16099,Heart Healthy Italian Style White Bean & Chicken Sausage,soup broth bouillon,canned goods,2.36,1.45,38.6,730,0,1,2024-01-01
+46744,Organic ZFruit Rope Fruit Punch Flavor,nuts seeds dried fruit,snacks,3.35,1.68,49.9,120,0,1,2024-01-01
+36131,Elderberry Syrup,vitamins supplements,personal care,11.25,5.45,51.6,180,0,1,2024-01-01
+32947,Organic Pita,tortillas flat bread,bakery,7.2,4.2,41.7,5,1,1,2024-01-01
+263,Red Food Color,baking supplies decor,pantry,4.58,2.91,36.5,365,0,1,2024-01-01
+37228,Mango Lowfat Kefir,yogurt,dairy eggs,8.6,4.83,43.8,14,1,1,2024-01-01
+39702,Low Fat Milk,milk,dairy eggs,10.17,5.74,43.6,14,1,1,2024-01-01
+13357,Pomegranate Berry Sparkling Water with Juice,water seltzer sparkling water,beverages,9.0,4.55,49.4,180,0,1,2024-01-01
+26089,Broccoli Squash Carrots Onion Red Pepper Steamables,frozen produce,frozen,9.36,5.65,39.6,365,0,1,2024-01-01
+44490,Organic BBQ Sauce Original,marinades meat preparation,pantry,4.42,2.15,51.4,365,0,1,2024-01-01
+14304,Maxi Super Pads,feminine care,personal care,2.93,1.51,48.5,180,0,1,2024-01-01
+3155,Foaming Scrub Pink Grapefruit Oil-Free Acne Wash,facial care,personal care,10.97,5.87,46.5,180,0,1,2024-01-01
+42711,Jumbo Crinkle Cut French Fries,frozen appetizers sides,frozen,13.81,7.62,44.8,365,0,1,2024-01-01
+24464,Crunchy Apple Chips Cinnamon,fruit vegetable snacks,snacks,7.25,3.61,50.2,120,0,1,2024-01-01
+20816,"Lasagna, Whole Wheat/Whole Grain",dry pasta,dry goods pasta,5.39,2.55,52.7,365,0,1,2024-01-01
+28439,Grape Fruit Ice Bars,ice cream ice,frozen,7.19,4.11,42.8,365,0,1,2024-01-01
+42516,Organic Grass Fed Ghee,oils vinegars,pantry,9.26,4.7,49.2,365,0,1,2024-01-01
+33318,Sea Salt Soiree Intense Dark Chocolate Squares,candy chocolate,snacks,9.23,5.23,43.3,120,0,1,2024-01-01
+15421,Double Bergamot Earl Grey,tea,beverages,13.48,6.48,51.9,180,0,1,2024-01-01
+29963,Moroccan Argan Oil Renewing Shampoo,hair care,personal care,9.8,5.35,45.4,180,0,1,2024-01-01
+26352,Chicken Caesar Salad,prepared soups salads,deli,8.42,4.69,44.3,7,1,1,2024-01-01
+35628,Organic Strawberry Smoothie,yogurt,dairy eggs,2.84,1.31,53.9,14,1,1,2024-01-01
+16948,Clean Burst Liquid Laundry Detergent,laundry,household,3.62,1.87,48.3,180,0,1,2024-01-01
+1123,Fruit Vegetable Mango Fruit Square,canned fruit applesauce,canned goods,4.59,2.19,52.3,730,0,1,2024-01-01
+31265,Chunky Turkey Feast Cat Food,cat food care,pets,8.06,3.73,53.7,180,0,1,2024-01-01
+46710,Graduates Waffle Wheels Banana Cream,baby food formula,babies,2.09,1.35,35.4,180,0,1,2024-01-01
+17412,Mini Lemon Bites,bakery desserts,bakery,2.16,1.11,48.6,5,1,1,2024-01-01
+33787,Total 2% Lowfat Greek Strained Yogurt with Peach,yogurt,dairy eggs,8.64,5.29,38.8,14,1,1,2024-01-01
+30377,Fat Free Chocolate Milk,milk,dairy eggs,2.05,1.03,49.8,14,1,1,2024-01-01
+9469,33 Gal with Flap Closure Black Extra Large Trash Bags,trash bags liners,household,3.61,2.12,41.3,180,0,1,2024-01-01
+24011,2nd Foods - Beef & Beef Gravy,baby food formula,babies,7.49,4.51,39.8,180,0,1,2024-01-01
+851,Chile Con Queso Potato Crisps,chips pretzels,snacks,7.69,4.38,43.0,120,0,1,2024-01-01
+12981,Strawberry Nonfat Yogurt,missing,missing,8.52,4.64,45.5,180,0,1,2024-01-01
+40770,Sweet Peas Valley Fresh Steamers,frozen produce,frozen,5.69,3.03,46.7,365,0,1,2024-01-01
+20413,Berry Pomegranate Chia Energy Bar,energy granola bars,snacks,7.84,4.08,48.0,120,0,1,2024-01-01
+23893,Original Perky's Crunchy Rice Cereal,cereal,breakfast,4.37,2.78,36.4,180,0,1,2024-01-01
+11633,Sweet & Tangy Glaze and Dipping Sauce,asian foods,international,5.25,3.23,38.5,180,0,1,2024-01-01
+10821,Reduced Fat Colby Jack Cheese Sticks,packaged cheese,dairy eggs,9.46,6.08,35.7,14,1,1,2024-01-01
+16733,"Polish, Silver, Bottle",cleaning products,household,8.5,4.04,52.5,180,0,1,2024-01-01
+36803,Macro Greens,frozen produce,frozen,13.19,7.86,40.4,365,0,1,2024-01-01
+10594,Christmas Crunch,cereal,breakfast,8.58,5.47,36.2,180,0,1,2024-01-01
+4614,Burrata alla Panna,packaged cheese,dairy eggs,7.68,3.73,51.4,14,1,1,2024-01-01
+23095,Flame Grilled Beef Patty,frozen meat seafood,frozen,4.12,1.91,53.6,365,0,1,2024-01-01
+40074,Quenching + Coconut Curls Shampoo,hair care,personal care,5.68,3.4,40.1,180,0,1,2024-01-01
+4316,Cheese Trio Quiche,frozen meals,frozen,6.18,3.49,43.5,365,0,1,2024-01-01
+6425,Everyone's Favorite Chocolate Chip Cookie Mix,doughs gelatins bake mixes,pantry,4.44,2.75,38.1,365,0,1,2024-01-01
+10744,Chicken Noodle R&W Condensed Soup Family Size,soup broth bouillon,canned goods,4.89,2.34,52.1,730,0,1,2024-01-01
+3264,"Muesli, Bircher (Unsweetened)",granola,breakfast,5.93,3.61,39.1,180,0,1,2024-01-01
+26780,Superfood Pesto Sauce,pasta sauce,dry goods pasta,10.92,5.35,51.0,365,0,1,2024-01-01
+45080,Body Bar Soap Milk & Honey Complexion,soap,personal care,8.31,4.01,51.7,180,0,1,2024-01-01
+29661,"Chardonnay, Premium Dealcoholized Wine, 2011",white wines,alcohol,9.95,4.8,51.8,180,0,1,2024-01-01
+30822,Thirst Quencher Lemon-Lime/Fruit Punch/Orange Variety Pack Sports Drink,energy sports drinks,beverages,8.29,5.08,38.7,180,0,1,2024-01-01
+23790,Total Moisture Aloe Fresh Hydrating Lotion,body lotions soap,personal care,7.77,4.53,41.7,180,0,1,2024-01-01
+19388,Mushroom Steak Sauce,missing,missing,6.93,3.84,44.6,180,0,1,2024-01-01
+28080,Sugar Free Italian Sweet Creme Coffee Creamer,cream,dairy eggs,3.95,2.06,47.8,14,1,1,2024-01-01
+28147,Farmer Cheese No Salt Added,packaged cheese,dairy eggs,9.22,5.77,37.4,14,1,1,2024-01-01
+20980,Spinach Mountain Bread,tortillas flat bread,bakery,3.33,1.76,47.1,5,1,1,2024-01-01
+12093,Rubber Bands,other,other,2.24,1.37,38.8,180,0,1,2024-01-01
+48100,Classic Caramel Flavoring Syrup,honeys syrups nectars,pantry,8.45,4.54,46.3,365,0,1,2024-01-01
+13915,Wet Skin Broad Spectrum SPF 30 Sunscreen Spray,body lotions soap,personal care,3.77,1.98,47.5,180,0,1,2024-01-01
+39127,Classic Crust Pepperoni Pizza,frozen pizza,frozen,14.29,7.75,45.8,365,0,1,2024-01-01
+47978,Sugar Cookie Dough,doughs gelatins bake mixes,pantry,11.54,5.89,49.0,365,0,1,2024-01-01
+40579,Whole Kosher Dills,pickled goods olives,pantry,11.15,6.68,40.1,365,0,1,2024-01-01
+36547,Aloe Vera Juice Whole Leaf,vitamins supplements,personal care,5.7,3.14,44.9,180,0,1,2024-01-01
+10908,Brown Sugar Cubes,baking ingredients,pantry,2.15,1.07,50.2,365,0,1,2024-01-01
+14937,Re-Fresh Body Spray Fiji with Palm Tree,deodorants,personal care,11.28,7.11,37.0,180,0,1,2024-01-01
+16512,Pressed Lime Lemonade,honeys syrups nectars,pantry,6.28,3.31,47.3,365,0,1,2024-01-01
+17923,Crinkle Cut Fries,frozen appetizers sides,frozen,14.6,8.16,44.1,365,0,1,2024-01-01
+38533,Creamy Deluxe Macaroni Dinner Elbows & Four Cheese Sauce,instant foods,dry goods pasta,11.64,7.35,36.9,365,0,1,2024-01-01
+35617,Disinfecting Wipes Citrus Scent,cleaning products,household,10.53,6.05,42.5,180,0,1,2024-01-01
+8791,Lundberg 9.5 Oz,chips pretzels,snacks,4.71,2.23,52.7,120,0,1,2024-01-01
+42761,"Sweet Dreams Magickal Mineral Bath Salt Jasmine,Sandalwood & Vanilla",soap,personal care,5.85,3.73,36.2,180,0,1,2024-01-01
+27698,Garlic Bread Pepperoni Pizza,frozen pizza,frozen,13.21,7.6,42.5,365,0,1,2024-01-01
+22724,Family Size Macaroni & Cheese,frozen meals,frozen,6.8,3.52,48.2,365,0,1,2024-01-01
+42150,"Pull-Ups Learning Designs Training Pantsfor Girls, Size 3T-4T",diapers wipes,babies,3.69,1.76,52.3,180,0,1,2024-01-01
+43003,Organic Lemon Agave Vinaigrette,salad dressing toppings,pantry,7.57,4.61,39.1,365,0,1,2024-01-01
+10566,Blue Plus Bleach,cleaning products,household,11.36,6.52,42.6,180,0,1,2024-01-01
+6809,Berry Bunnies Cereal Organic,cereal,breakfast,8.96,4.99,44.3,180,0,1,2024-01-01
+28788,Vermont Cheddar Mac & Cheese,missing,missing,7.7,4.84,37.1,180,0,1,2024-01-01
+22284,Sweet & Salty Popped Snack Mix,trail mix snack mix,snacks,3.23,1.96,39.3,120,0,1,2024-01-01
+9929,"6\"" Organic Chocolate Cake",bakery desserts,bakery,5.5,2.64,52.0,5,1,1,2024-01-01
+4806,Oat Milk Soap,soap,personal care,11.9,6.1,48.7,180,0,1,2024-01-01
+27818,Liquid Eggs Whites,eggs,dairy eggs,3.4,1.7,50.0,14,1,1,2024-01-01
+20832,"Potato Chips, Original Lightly Salted",chips pretzels,snacks,6.39,3.83,40.1,120,0,1,2024-01-01
+25653,Organic Plain Yogurt,yogurt,dairy eggs,10.77,4.92,54.3,14,1,1,2024-01-01
+36343,"9\"" Pie Shell",frozen breads doughs,frozen,11.89,6.71,43.6,365,0,1,2024-01-01
+33899,Red Wine Blend,red wines,alcohol,8.97,5.4,39.8,180,0,1,2024-01-01
+29131,Color Revitalize Protection for Color Treated Hair Conditioner,hair care,personal care,9.02,5.64,37.5,180,0,1,2024-01-01
+293,Prime Filets Chicken & Tuna Dinner in Gravy Cat Food,cat food care,pets,5.59,2.9,48.1,180,0,1,2024-01-01
+23821,Organic Chili Spicy,canned meals beans,canned goods,2.17,1.33,38.7,730,0,1,2024-01-01
+43747,Sport Anti Perspirant & Deodorant Gel,deodorants,personal care,10.09,4.76,52.8,180,0,1,2024-01-01
+5523,"Super C, 1000 mg, Tablets",vitamins supplements,personal care,10.1,6.25,38.1,180,0,1,2024-01-01
+43010,Tomato Juice From Concentrate,juice nectars,beverages,13.21,6.28,52.5,180,0,1,2024-01-01
+1600,Mediterranean Orzo Salad,prepared soups salads,deli,11.13,5.89,47.1,7,1,1,2024-01-01
+35130,French Chocolate Fat Free Ice Cream,ice cream ice,frozen,9.14,5.57,39.1,365,0,1,2024-01-01
+28660,Silhouette for Women S/M Briefs,other,other,7.02,3.37,52.0,180,0,1,2024-01-01
+3031,100% Colombian Medium Roast K-Cup Packs Arabica Coffee,coffee,beverages,12.28,6.09,50.4,180,0,1,2024-01-01
+32375,Tamarind Soda,soft drinks,beverages,10.27,6.11,40.5,180,0,1,2024-01-01
+12378,Organic Toilet Bowl Cleaner,cleaning products,household,9.02,5.36,40.6,180,0,1,2024-01-01
+17817,Pimiento Stuffed Spanish Green Olives,pickled goods olives,pantry,9.96,5.76,42.2,365,0,1,2024-01-01
+19461,Swanson Premium Chicken Breast Chunks,canned meat seafood,canned goods,4.56,2.68,41.2,730,0,1,2024-01-01
+6269,Brisling Sardines In Water,canned meat seafood,canned goods,2.35,1.31,44.3,730,0,1,2024-01-01
+20483,Cherry Flavored Allergy,cold flu allergy,personal care,5.76,2.88,50.0,180,0,1,2024-01-01
+47504,Blueberry Breakfast Biscuits,breakfast bars pastries,breakfast,2.94,1.53,48.0,180,0,1,2024-01-01
+18050,Gluten free Spaghetti,dry pasta,dry goods pasta,7.78,3.78,51.4,365,0,1,2024-01-01
+26132,Spreadable Light Butter & Canola Oil Blend,butter,dairy eggs,2.36,1.49,36.9,14,1,1,2024-01-01
+13506,Magic Shell Chocolate Fudge,ice cream toppings,snacks,5.99,3.39,43.4,120,0,1,2024-01-01
+46028,Korean Style Barbecue Bulgogl Sauce,marinades meat preparation,pantry,7.43,3.94,47.0,365,0,1,2024-01-01
+24987,Kettle Corn Seasoning,popcorn jerky,snacks,4.65,2.52,45.8,120,0,1,2024-01-01
+27771,Eggplant,fresh vegetables,produce,5.34,3.41,36.1,7,1,1,2024-01-01
+9502,Menthol Nasal Swab,cold flu allergy,personal care,2.31,1.11,51.9,180,0,1,2024-01-01
+28128,French Roast Dark Coffee,coffee,beverages,2.0,1.13,43.5,180,0,1,2024-01-01
+22133,Lindor Assorted Chocolate Truffles,candy chocolate,snacks,8.67,4.78,44.9,120,0,1,2024-01-01
+629,Probiotics Women 50 & Wiser Vegetarian Capsules,digestion,personal care,5.6,3.2,42.9,180,0,1,2024-01-01
+49625,Golden Wheat Deep Cleanse Shampoo,hair care,personal care,3.27,1.48,54.7,180,0,1,2024-01-01
+29672,Lactose Free Low Fat Vanilla Yogurt,yogurt,dairy eggs,7.22,4.51,37.5,14,1,1,2024-01-01
+12760,Organic Hojicha Green Tea,tea,beverages,11.89,7.57,36.3,180,0,1,2024-01-01
+45837,"Truffles, Organic, Coconut Karma",candy chocolate,snacks,4.12,2.32,43.7,120,0,1,2024-01-01
+31902,Urinary Health Extra Strength Liquid Cranberry,vitamins supplements,personal care,8.23,4.85,41.1,180,0,1,2024-01-01
+41844,Honey Nut Cheerios,cereal,breakfast,2.85,1.81,36.5,180,0,1,2024-01-01
+38008,Beyond Grain Free Chicken & Sweet Potato Recipe Pate Cat Food,cat food care,pets,2.52,1.49,40.9,180,0,1,2024-01-01
+12131,Non-lotion White Facial Tissue,paper goods,household,7.31,3.51,52.0,180,0,1,2024-01-01
+29210,Texas Toast,bread,bakery,5.01,2.83,43.5,5,1,1,2024-01-01
+24129,Natural Fresh Goat Cheese,packaged cheese,dairy eggs,8.37,4.78,42.9,14,1,1,2024-01-01
+3940,Nonfat Cottage Cheese,other creams cheeses,dairy eggs,9.26,4.95,46.5,14,1,1,2024-01-01
+35315,Premium Green Tea,tea,beverages,14.67,8.76,40.3,180,0,1,2024-01-01
+40172,Deli Shaved Honey Ham,lunch meat,deli,7.16,4.56,36.3,7,1,1,2024-01-01
+2214,Power & Free Multi-Purpose Cleaner,cleaning products,household,5.23,3.32,36.5,180,0,1,2024-01-01
+39861,Flax Plus Hot Oatmeal,hot cereal pancake mixes,breakfast,9.95,5.37,46.0,180,0,1,2024-01-01
+12576,Kiwi Sandia Sparkling Water,water seltzer sparkling water,beverages,5.16,2.44,52.7,180,0,1,2024-01-01
+11898,Foods Gourmet Dry Salami Black Pepper,lunch meat,deli,6.39,4.13,35.4,7,1,1,2024-01-01
+22956,Thin Crust Trio Bacon Pizza,frozen pizza,frozen,3.94,2.43,38.3,365,0,1,2024-01-01
+30913,Organic Green Tea,tea,beverages,1.84,0.87,52.7,180,0,1,2024-01-01
+30196,Red Cooking Wine,oils vinegars,pantry,11.63,7.38,36.5,365,0,1,2024-01-01
+673,Chicken Base,soup broth bouillon,canned goods,4.34,2.71,37.6,730,0,1,2024-01-01
+26616,French Lavender Clarifying Shampoo,hair care,personal care,8.96,4.96,44.6,180,0,1,2024-01-01
+4505,Espresso Chocolate Creamer,missing,missing,6.09,3.46,43.2,180,0,1,2024-01-01
+46545,82% Dark Chocolate Bar with Bourbon,candy chocolate,snacks,3.8,2.01,47.1,120,0,1,2024-01-01
+33328,Season and Cooked Pulled Beef,packaged meat,meat seafood,7.29,3.36,53.9,5,1,1,2024-01-01
+43228,Hemp Nourishing Shampoo,hair care,personal care,4.5,2.33,48.2,180,0,1,2024-01-01
+15869,Sweet Hot Dog Buns,buns rolls,bakery,5.07,3.1,38.9,5,1,1,2024-01-01
+39448,Cold Brew Coffee Mocha,soy lactosefree,dairy eggs,9.15,4.13,54.9,14,1,1,2024-01-01
+13427,Cranberry with Lime Juice Cocktail,juice nectars,beverages,10.41,5.38,48.3,180,0,1,2024-01-01
+42191,G Series Perform Frost Glacier Cherry Sports Drink,energy sports drinks,beverages,5.28,2.8,47.0,180,0,1,2024-01-01
+30568,Go Fresh Cool Essentials Anti-Perspirant Deodorant,deodorants,personal care,11.55,6.44,44.2,180,0,1,2024-01-01
+43459,Puffs Cheese Flavored Snacks,chips pretzels,snacks,8.03,5.09,36.6,120,0,1,2024-01-01
+26013,Organic Dried Papaya,fruit vegetable snacks,snacks,6.66,3.46,48.0,120,0,1,2024-01-01
+23474,"Couscous, Israeli, Traditional",grains rice dried goods,dry goods pasta,8.12,4.22,48.0,365,0,1,2024-01-01
+34355,Spearmint Sugar-Free Gum,mint gum,snacks,5.65,3.38,40.2,120,0,1,2024-01-01
+9977,Paws Xl,missing,missing,4.48,2.42,46.0,180,0,1,2024-01-01
+23150,Vegetable Classics 99% Fat Free Lentil Soup,soup broth bouillon,canned goods,2.42,1.2,50.4,730,0,1,2024-01-01
+10260,Zingz Queso Fundido Baked Snack Crackers,crackers,snacks,8.18,4.42,46.0,120,0,1,2024-01-01
+39175,Chunk White Albacore in Water,canned meat seafood,canned goods,1.06,0.51,51.9,730,0,1,2024-01-01
+44617,Propolis Eucalyptus Manuka Honey Lozenge,missing,missing,3.16,1.53,51.6,180,0,1,2024-01-01
+21229,"Brown, Red & Black Ready Rice",grains rice dried goods,dry goods pasta,2.46,1.35,45.1,365,0,1,2024-01-01
+32123,Whole Ground Golden Flaxseed Meal,baking ingredients,pantry,2.41,1.29,46.5,365,0,1,2024-01-01
+22168,Whole Maine Cherrystone Clams,canned meat seafood,canned goods,4.42,2.8,36.7,730,0,1,2024-01-01
+47510,Designer Paper Plates 7 In,plates bowls cups flatware,household,9.04,4.72,47.8,180,0,1,2024-01-01
+20497,Original Antibiotic Ointment,first aid,personal care,6.74,3.82,43.3,180,0,1,2024-01-01
+3883,Chicken Fingers,frozen meat seafood,frozen,4.17,2.4,42.4,365,0,1,2024-01-01
+21028,Calcium and Fiber Supplement,digestion,personal care,6.92,3.13,54.8,180,0,1,2024-01-01
+46891,Way Better Snacks Sweet Potato Corn Tortilla Chips,chips pretzels,snacks,6.05,3.53,41.7,120,0,1,2024-01-01
+726,Gluten-Free Boom Chicka Pop Sweet & Spicy Popcorn,popcorn jerky,snacks,3.8,1.85,51.3,120,0,1,2024-01-01
+48611,Milk Chocolate Candies Fun Size Bags,candy chocolate,snacks,5.75,3.69,35.8,120,0,1,2024-01-01
+27928,Cotton Balls,first aid,personal care,5.99,2.87,52.1,180,0,1,2024-01-01
+509,Starting Solids Carrots Organic Baby Food,baby food formula,babies,8.16,4.35,46.7,180,0,1,2024-01-01
+24514,Fig Newtons Fat Free Cookies,cookies cakes,snacks,7.26,3.39,53.3,120,0,1,2024-01-01
+32510,Steak Seasoning & Rub,spices seasonings,pantry,2.45,1.59,35.1,365,0,1,2024-01-01
+4879,"Milk, Fat Free",milk,dairy eggs,5.75,3.17,44.9,14,1,1,2024-01-01
+24613,Sweet Potato Puffs Cereal Snack,baby food formula,babies,8.26,4.7,43.1,180,0,1,2024-01-01
+14418,Ezekiel 4:9 Sprouted Grain Pasta Penne,dry pasta,dry goods pasta,7.03,3.26,53.6,365,0,1,2024-01-01
+40138,Chocolate Chip Heart Thrive,bakery desserts,bakery,7.07,4.24,40.0,5,1,1,2024-01-01
+36202,Organic Red Wagon Coffee K-Cups,coffee,beverages,10.39,5.11,50.8,180,0,1,2024-01-01
+14565,Roadhouse with Bean Chili,canned meat seafood,canned goods,1.65,1.04,37.0,730,0,1,2024-01-01
+39884,Calorie Free Pancake Syrup,honeys syrups nectars,pantry,2.71,1.33,50.9,365,0,1,2024-01-01
+43947,Sausage & Mushroom Thin Pizza,frozen pizza,frozen,10.71,5.23,51.2,365,0,1,2024-01-01
+23389,Original Ultra Concentrated Dish Soap,dish detergents,household,2.27,1.04,54.2,180,0,1,2024-01-01
+39367,Breakstones Cottage Doubles Strawberry,missing,missing,7.86,4.28,45.5,180,0,1,2024-01-01
+6393,Protein Plus Mango Protein Shake,refrigerated,beverages,14.19,7.99,43.7,180,0,1,2024-01-01
+23350,Chow Mein Seasoning Mix,asian foods,international,7.75,3.59,53.7,180,0,1,2024-01-01
+12053,Panama Peach Antioxidant Infusion,refrigerated,beverages,6.74,4.08,39.5,180,0,1,2024-01-01
+15128,Apricot from Concentrate Nectar,juice nectars,beverages,10.18,5.5,46.0,180,0,1,2024-01-01
+46439,Italian Sliced Bread,bread,bakery,4.48,2.49,44.4,5,1,1,2024-01-01
+44484,Grain Free Naturals Dry Dog Food Chicken & Garden Pea Recipe,dog food care,pets,7.46,4.01,46.2,180,0,1,2024-01-01
+9621,Cornbread & Muffin Mix,doughs gelatins bake mixes,pantry,11.41,6.05,47.0,365,0,1,2024-01-01
+32583,"Adhesive Bandages, Flexible Fabric, Assorted Sizes, Bonus",first aid,personal care,5.86,3.29,43.9,180,0,1,2024-01-01
+6516,Ham & Swiss On Rye,prepared meals,deli,11.61,5.58,51.9,7,1,1,2024-01-01
+26224,Sparkling Lime Water,water seltzer sparkling water,beverages,13.72,6.67,51.4,180,0,1,2024-01-01
+13421,Advanced Care Plaque Guard Frosted Mint Antiplaque Mouthwash,oral hygiene,personal care,3.96,2.46,37.9,180,0,1,2024-01-01
+27047,Bloody Mary Cocktail Mix,other,other,2.69,1.72,36.1,180,0,1,2024-01-01
+30701,Sweet & Salty Nut Chocolate Pretzel Nut Granola Bars,breakfast bars pastries,breakfast,3.01,1.58,47.5,180,0,1,2024-01-01
+34144,Whole Grain Buttermilk Pancake & Waffle Mix,hot cereal pancake mixes,breakfast,2.18,1.1,49.5,180,0,1,2024-01-01
+6068,"Black Pepper, Fine Grind",spices seasonings,pantry,2.94,1.7,42.2,365,0,1,2024-01-01
+1571,Trading Company All Natural Black Bean Spicy Dip,preserved dips spreads,pantry,8.83,4.7,46.8,365,0,1,2024-01-01
+38184,Poppy Bagels,frozen breakfast,frozen,3.85,1.75,54.5,365,0,1,2024-01-01
+39585,Chinese Fried Rice Seasoning Mix,asian foods,international,5.19,2.5,51.8,180,0,1,2024-01-01
+46040,Ear Relief Ear Drops,eye ear care,personal care,10.45,6.2,40.7,180,0,1,2024-01-01
+17966,Caffeine Free Diet Coke Mini Bottles,soft drinks,beverages,1.81,1.05,42.0,180,0,1,2024-01-01
+3017,Travel Unscented Wipes,diapers wipes,babies,10.14,4.62,54.4,180,0,1,2024-01-01
+26759,Solid Light Tuna In Olive Oil,canned meat seafood,canned goods,2.13,1.05,50.7,730,0,1,2024-01-01
+7917,Original Hazelnut Liqueur,spirits,alcohol,3.18,1.58,50.3,180,0,1,2024-01-01
+7206,Cilantro Avocado Yogurt Dressing,salad dressing toppings,pantry,8.97,5.24,41.6,365,0,1,2024-01-01
+22326,Indian Vegetable Korma Entrée,frozen meals,frozen,10.55,4.79,54.6,365,0,1,2024-01-01
+33992,Organic Curly Parsley,fresh herbs,produce,7.2,3.39,52.9,7,1,1,2024-01-01
+25783,Lemon Lime Thirst Quencher,energy sports drinks,beverages,11.42,6.97,39.0,180,0,1,2024-01-01
+6803,Rose Lemonade,juice nectars,beverages,12.35,6.0,51.4,180,0,1,2024-01-01
+40800,Gluten Free Rice Bread,frozen breads doughs,frozen,6.38,3.7,42.0,365,0,1,2024-01-01
+27099,"Peanuts, Caramel and Chewy Nougat Chocolate Candy Bar",candy chocolate,snacks,3.83,1.91,50.1,120,0,1,2024-01-01
+17382,Catnip Mice Skitter Critters,cat food care,pets,9.51,4.47,53.0,180,0,1,2024-01-01
+9958,Honey Smoked Turkey Breast,lunch meat,deli,10.07,5.02,50.1,7,1,1,2024-01-01
+25161,High Life Beer Cans,beers coolers,alcohol,11.91,7.08,40.6,180,0,1,2024-01-01
+23429,Baby Corn Vegetable Trio,packaged vegetables fruits,produce,4.18,2.6,37.8,7,1,1,2024-01-01
+7235,Stevia Plus Powder,baking ingredients,pantry,5.72,3.52,38.5,365,0,1,2024-01-01
+42009,Body Powder Original Strength,first aid,personal care,9.76,5.17,47.0,180,0,1,2024-01-01
+44123,Colby Jack Cheese Sticks,packaged cheese,dairy eggs,5.41,3.16,41.6,14,1,1,2024-01-01
+31878,Package Kiwi,packaged vegetables fruits,produce,7.55,3.71,50.9,7,1,1,2024-01-01
+11282,Indulgent Coconut Milk Body Wash,body lotions soap,personal care,10.58,5.38,49.1,180,0,1,2024-01-01
+26389,"Multi-Purpose 8\"" Scissors",more household,household,6.29,3.96,37.0,180,0,1,2024-01-01
+5349,Original Plus Vitamins & Minerals Cat Food,cat food care,pets,9.51,4.3,54.8,180,0,1,2024-01-01
+16841,Soap Saver 2 Pack,more household,household,9.55,4.46,53.3,180,0,1,2024-01-01
+11098,Organic Sencha Green Tea,asian foods,international,3.03,1.49,50.8,180,0,1,2024-01-01
+1391,Town House Light & Buttery Original Oven Baked Crackers,crackers,snacks,9.27,4.22,54.5,120,0,1,2024-01-01
+8544,Ground Pepper Cayenne,spices seasonings,pantry,7.05,3.43,51.3,365,0,1,2024-01-01
+37833,Soft Regular Pulsar Toothbrush,oral hygiene,personal care,10.26,5.81,43.4,180,0,1,2024-01-01
+41350,White Spearmint Sugar-Free Gum,mint gum,snacks,4.9,2.62,46.5,120,0,1,2024-01-01
+36984,Villa Toscana Wine,red wines,alcohol,10.96,6.89,37.1,180,0,1,2024-01-01
+29103,Zero Go-Go Mixed Berry Vitamin Water,energy sports drinks,beverages,6.75,4.14,38.7,180,0,1,2024-01-01
+28076,Fettucini Alfredo Savory Italian Recipes,frozen meals,frozen,3.13,1.62,48.2,365,0,1,2024-01-01
+20814,Sensitive with Iron Infant Formula,baby food formula,babies,11.05,5.55,49.8,180,0,1,2024-01-01
+17346,Acne Medication Rapid Treatment Face Wash Maximum Action,facial care,personal care,2.91,1.53,47.4,180,0,1,2024-01-01
+2111,Organic Cappuccino Protein Shake,energy sports drinks,beverages,5.81,3.3,43.2,180,0,1,2024-01-01
+37774,Artesian Sparkling Water,water seltzer sparkling water,beverages,14.33,7.22,49.6,180,0,1,2024-01-01
+32461,Spaghetti Cool Shapes Star Wars,canned meals beans,canned goods,4.8,2.76,42.5,730,0,1,2024-01-01
+27260,Cafe Latte Vanilla,juice nectars,beverages,9.24,4.91,46.9,180,0,1,2024-01-01
+8386,"4X Ultra Concentrated Natural Laundry Detergent, Geranium Blossoms & Vanilla",laundry,household,8.32,4.66,44.0,180,0,1,2024-01-01
+11437,Gluten Free Blueberry Oat Muffin Tops,frozen breakfast,frozen,8.38,4.5,46.3,365,0,1,2024-01-01
+7985,Gluten-Free Reduced Sodium Popcorn,popcorn jerky,snacks,4.7,2.39,49.1,120,0,1,2024-01-01
+10601,My First Fluoride-Free Infant & Toddler Toothpaste Mild Fruit,oral hygiene,personal care,5.29,3.38,36.1,180,0,1,2024-01-01
+14669,"Italian Pasta Sauce Basilico Tomato, Basil & Garlic",pasta sauce,dry goods pasta,8.73,5.26,39.7,365,0,1,2024-01-01
+43043,"Tropical Fruit Salad, Organic, in Organic Pineapple & Passionfruit Fruit Juices",canned fruit applesauce,canned goods,4.01,1.92,52.1,730,0,1,2024-01-01
+10709,Non Dairy Chunky Monkey,ice cream ice,frozen,12.5,7.8,37.6,365,0,1,2024-01-01
+32623,Natural Raspberry Soda,soft drinks,beverages,12.16,6.66,45.2,180,0,1,2024-01-01
+13587,Vermont Maple & Sea Salt Microwave Popcorn,popcorn jerky,snacks,3.18,2.0,37.1,120,0,1,2024-01-01
+27056,Beef Mini Bagel Dogs,hot dogs bacon sausage,meat seafood,14.38,8.77,39.0,5,1,1,2024-01-01
+45020,Arnica Oil,muscles joints pain relief,personal care,2.58,1.38,46.5,180,0,1,2024-01-01
+44838,Yucatan Sunshine Habanero Pepper Sauce,condiments,pantry,7.5,3.41,54.5,365,0,1,2024-01-01
+47550,Refreshing Breeze Mold & Mildew Remover,cleaning products,household,6.42,3.23,49.7,180,0,1,2024-01-01
+5,Green Chile Anytime Sauce,marinades meat preparation,pantry,10.88,6.07,44.2,365,0,1,2024-01-01
+12631,Discreet Incontinence Underwear Maximum Classic Cut Extra-Large,feminine care,personal care,5.51,3.18,42.3,180,0,1,2024-01-01
+27004,Cherry Menthol Cough Suppressant Drops,cold flu allergy,personal care,3.17,1.59,49.8,180,0,1,2024-01-01
+32588,Refillable Primordial Himalayan Sea Salt Grinder,spices seasonings,pantry,3.43,1.64,52.2,365,0,1,2024-01-01
+7516,Gluten Free Rosemary Herb Lentil Crackers,crackers,snacks,8.21,5.07,38.2,120,0,1,2024-01-01
+30926,Chocolate Fudge Stripe Layer Cake,frozen dessert,frozen,10.42,6.74,35.3,365,0,1,2024-01-01
+28625,Ultra Pasteurized Grade A Heavy Whipping Cream,cream,dairy eggs,3.01,1.67,44.5,14,1,1,2024-01-01
+5646,Organic Turkey Bacon,hot dogs bacon sausage,meat seafood,5.77,2.79,51.6,5,1,1,2024-01-01
+30229,Extra Clean Medium Toothbrush,oral hygiene,personal care,9.01,4.55,49.5,180,0,1,2024-01-01
+11445,Bite Size Candies Tropical,missing,missing,2.73,1.24,54.6,180,0,1,2024-01-01
+20022,Granulated White Cane Sugar,baking ingredients,pantry,10.22,6.47,36.7,365,0,1,2024-01-01
+19828,Red Delicious Apples,fresh fruits,produce,6.09,2.88,52.7,7,1,1,2024-01-01
+1567,FreshMatic Ultra Fresh Waters Automatic  Spray Refill,air fresheners candles,household,2.81,1.59,43.4,180,0,1,2024-01-01
+46930,Sea Salt Caramel Popcorn,popcorn jerky,snacks,3.14,1.59,49.4,120,0,1,2024-01-01
+28728,Organic Falafel,frozen appetizers sides,frozen,14.84,8.32,43.9,365,0,1,2024-01-01
+22534,Kashmiri Curry Mild Indian Simmer Sauce,indian foods,international,5.74,3.33,42.0,180,0,1,2024-01-01
+15976,Diced Peaches in 100% Fruit Juice,canned fruit applesauce,canned goods,2.48,1.53,38.3,730,0,1,2024-01-01
+41727,Gluten Free Breaded Chicken Breast Strips,frozen meat seafood,frozen,12.75,6.26,50.9,365,0,1,2024-01-01
+24729,Cabinet Makers Wax,cleaning products,household,11.47,5.19,54.8,180,0,1,2024-01-01
+45032,Bleu Cheese Salad Dressing And Dip,salad dressing toppings,pantry,11.86,5.66,52.3,365,0,1,2024-01-01
+4868,Caraway Seeds,spices seasonings,pantry,9.53,6.0,37.0,365,0,1,2024-01-01
+25115,Pizzeria Thin Crust Primo Pepperoni Pizza,frozen pizza,frozen,7.52,4.7,37.5,365,0,1,2024-01-01
+3169,Brown & Serve Original Breakfast Sausage Links,frozen breakfast,frozen,4.0,2.28,43.0,365,0,1,2024-01-01
+35323,Greek Yogurt Blueberry,yogurt,dairy eggs,9.77,5.57,43.0,14,1,1,2024-01-01
+23262,Unfrosted Strawberry Pop Tarts,breakfast bars pastries,breakfast,7.58,4.42,41.7,180,0,1,2024-01-01
+37032,Hawaiian Hazelnut Flavored Coffee,coffee,beverages,7.23,3.51,51.5,180,0,1,2024-01-01
+3376,Organic Whole Kernel Sweet Corn No Salt Added,canned jarred vegetables,canned goods,4.63,2.93,36.7,730,0,1,2024-01-01
+14884,Almond Sea Salt 72% Cocoa Square,candy chocolate,snacks,3.33,1.78,46.5,120,0,1,2024-01-01
+18399,Chicken & Cheese Burrito,frozen meat seafood,frozen,8.91,4.69,47.4,365,0,1,2024-01-01
+22270,Organic Classic Marinara Pasta Sauce,pasta sauce,dry goods pasta,2.11,1.17,44.5,365,0,1,2024-01-01
+33671,100% Pineapple Juice,juice nectars,beverages,7.83,3.6,54.0,180,0,1,2024-01-01
+33073,King Size Corn Tortillas,tortillas flat bread,bakery,1.87,0.9,51.9,5,1,1,2024-01-01
+3420,Raw Jack Style Cheese,packaged cheese,dairy eggs,3.19,1.91,40.1,14,1,1,2024-01-01
+24840,Chocolate Kale Krunch,fruit vegetable snacks,snacks,3.38,1.58,53.3,120,0,1,2024-01-01
+32412,Garbanzo Beans No Salt Added,latino foods,international,8.49,4.84,43.0,180,0,1,2024-01-01
+3738,Calendula Baby Diaper Care,baby bath body care,babies,9.46,4.72,50.1,180,0,1,2024-01-01
+47101,Greek Yogurt Black Cherry,yogurt,dairy eggs,7.83,4.13,47.3,14,1,1,2024-01-01
+26849,Age Defying Daily Facial Moisturizer,facial care,personal care,11.62,5.9,49.2,180,0,1,2024-01-01
+31396,French Vanilla Sugar Free Coffee Creamer,cream,dairy eggs,5.75,3.0,47.8,14,1,1,2024-01-01
+14846,Gluten Free Chocolate Almond Bar,energy granola bars,snacks,4.64,2.76,40.5,120,0,1,2024-01-01
+35704,Gluten Free Hamburger Buns,frozen breads doughs,frozen,13.42,6.84,49.0,365,0,1,2024-01-01
+41535,Rice Pecan Bread,bread,bakery,2.95,1.66,43.7,5,1,1,2024-01-01
+37187,Mangos Organic Baby Food,baby food formula,babies,11.63,6.34,45.5,180,0,1,2024-01-01
+41712,American Classic Creamy Peanut Butter,spreads,pantry,2.12,1.24,41.5,365,0,1,2024-01-01
+22648,Organic Power Grains,grains rice dried goods,dry goods pasta,11.7,7.46,36.2,365,0,1,2024-01-01
+12297,Harpers Bazaar,more household,household,2.43,1.45,40.3,180,0,1,2024-01-01
+17310,Chocolate Chip Love Cookies,cookies cakes,snacks,9.18,4.53,50.7,120,0,1,2024-01-01
+14367,Cloves,other,other,7.28,3.32,54.4,180,0,1,2024-01-01
+45312,Clear Tone Pink Rosa Antiperspirant Deodorant,deodorants,personal care,11.93,5.99,49.8,180,0,1,2024-01-01
+31094,Spicy Spinach Blend,packaged vegetables fruits,produce,1.98,1.13,42.9,7,1,1,2024-01-01
+11108,Nestle Coffeemate French Vanilla Flavored Instant Coffee,coffee,beverages,8.98,4.13,54.0,180,0,1,2024-01-01
+2976,High Protein Advanced Formula Cat Food,cat food care,pets,11.69,6.42,45.1,180,0,1,2024-01-01
+16324,Peppermint Flavored Ultra 1000 Maximum Strength Antacid & Calcium Supplement Chewable Tablets,digestion,personal care,7.23,4.12,43.0,180,0,1,2024-01-01
+34220,Honey Lavender Stress Relief Tea,tea,beverages,10.0,5.17,48.3,180,0,1,2024-01-01
+3759,Smoked Salt Caramels in Milk Chocolate,candy chocolate,snacks,7.72,4.66,39.6,120,0,1,2024-01-01
+31248,White Potato,fresh vegetables,produce,4.45,2.1,52.8,7,1,1,2024-01-01
+26210,Almond Gold Bar,candy chocolate,snacks,7.21,3.35,53.5,120,0,1,2024-01-01
+33879,Pore Refining Toner,facial care,personal care,7.84,4.67,40.4,180,0,1,2024-01-01
+13481,Extra Noodle Soup Mix,soup broth bouillon,canned goods,4.6,2.53,45.0,730,0,1,2024-01-01
+38746,1000 Roses Pearl Exfoliator for Sensitive Skin,soap,personal care,2.45,1.44,41.2,180,0,1,2024-01-01
+10428,Original Large Dog Biscuits,dog food care,pets,4.81,2.58,46.4,180,0,1,2024-01-01
+7169,Organic Yellow Potatoes,fresh vegetables,produce,7.68,3.83,50.1,7,1,1,2024-01-01
+43561,Exotic Thai Red Rice & Flaxseeds Rice Toast,crackers,snacks,9.18,5.63,38.7,120,0,1,2024-01-01
+9448,Original Liquid Fabric Softener,laundry,household,6.56,4.0,39.0,180,0,1,2024-01-01
+31931,Pure Fire Tonic Apple Cider Vinegar Drink,soft drinks,beverages,9.87,5.81,41.1,180,0,1,2024-01-01
+23658,Air Freshener Crisp Waters Spray,air fresheners candles,household,4.77,2.41,49.5,180,0,1,2024-01-01
+7135,"Cream Of Chicken, Family Size",soup broth bouillon,canned goods,1.75,0.99,43.4,730,0,1,2024-01-01
+43515,L-Lysine 500 mg Capsules,protein meal replacements,personal care,6.64,3.47,47.7,180,0,1,2024-01-01
+43780,Extra Cleansing Vinegar & Water Douche,feminine care,personal care,5.53,2.59,53.2,180,0,1,2024-01-01
+17281,White with 30% Cacao Content Organic Chocolate,candy chocolate,snacks,6.88,4.36,36.6,120,0,1,2024-01-01
+19430,Rye Flour,other,other,2.78,1.33,52.2,180,0,1,2024-01-01
+31444,Crystallized Ginger In Dark Chocolate  Bar,candy chocolate,snacks,9.81,6.28,36.0,120,0,1,2024-01-01
+16159,Free & Gentle Liquid Laundry Detergent,laundry,household,11.86,6.39,46.1,180,0,1,2024-01-01

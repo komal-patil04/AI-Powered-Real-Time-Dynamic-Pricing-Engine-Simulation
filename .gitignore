@@ -1,0 +1,17 @@
+# Ignore Python Virtual Environments
+.venv/
+.env
+__pycache__/
+*.pyc
+.vscode/
+
+# Ignore Python bytecode / cache
+__pycache__/
+*.pyc
+
+
+# Hadoop
+hadoop-3.3.6/
+
+# Spark generated output
+data/processed/master_dataset/

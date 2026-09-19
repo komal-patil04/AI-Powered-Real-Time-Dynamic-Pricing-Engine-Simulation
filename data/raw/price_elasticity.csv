@@ -1,0 +1,501 @@
+product_id,product_name,department,cost_price,current_base_price,avg_price_elasticity,price_sensitivity_category,recommended_optimal_price,avg_weekly_demand,predicted_demand_at_optimal,expected_weekly_profit_at_optimal,current_weekly_profit,profit_improvement_pct
+33627,Mix Popcorn,snacks,3.13,5.31,-4.04,High,4.16,299.0,801,825.03,628.73,31.2
+18193,Tangerine Lime Drink Tabs,missing,6.41,11.51,-5.0,High,8.01,87.5,536,857.6,429.6,99.6
+47100,Fire Roasted Diced Tomatoes With Seasonings,canned goods,2.01,3.93,-3.075,High,2.98,116.8,273,264.81,218.76,21.1
+48184,Soy Curls,snacks,4.28,6.99,0.0,Low,inf,329.5,0,,870.92,
+22198,"4X Ultra Concentrated Natural Laundry Detergent, Free & Clear",household,2.09,3.56,-2.43,High,3.55,274.4,276,402.96,386.88,4.2
+31574,Chocolate Deluxe Bars,snacks,1.77,3.67,-2.465,High,2.98,310.2,518,626.78,571.82,9.6
+45363,Stewed Mexican Recipe Sliced Tomatoes,canned goods,0.78,1.23,0.0,Low,inf,325.0,0,,140.0,
+14132,Chili Con Carne,frozen,8.23,13.39,0.0,Low,inf,187.9,0,,925.09,
+26904,Fruit Squish'ems Apple Strawberry,canned goods,2.18,3.4,-2.43,High,3.7,57.2,46,69.92,67.85,3.1
+39418,Sparkling Spruce Timeless Joy Holiday Candle,missing,5.4,9.08,0.0,Low,inf,309.2,0,,1098.86,
+28086,Pineapple Orange Strawberry 100% Juice,beverages,1.02,1.78,0.0,Low,inf,333.6,0,,246.37,
+200,Radiant Pantiliners Regular Wrapped Unscented,personal care,6.24,11.7,-1.105,Medium,65.67,254.8,37,2198.91,1343.61,63.7
+36124,Culture Club Cabernet Grape Kombucha,beverages,8.11,12.74,-1.085,Medium,103.52,42.4,4,381.64,189.19,101.7
+21936,Vegetarian Refried Beans,canned goods,1.15,1.85,0.0,Low,inf,289.0,0,,198.95,
+15135,"Wraps, Multi-Grain",bakery,1.23,2.68,0.0,Low,inf,330.4,0,,468.61,
+44563,Pumpkin Corn Tortilla Chips,snacks,1.77,3.88,-0.515,Low,1.8585,315.0,460,40.71,642.56,-93.7
+38122,24oz Heat & Eat Container,household,2.65,5.04,-1.65,High,6.73,296.3,183,746.64,678.7,10.0
+28397,Blueberry Cobbler,breakfast,4.44,7.25,-0.54,Low,4.662000000000001,319.4,405,89.91,857.48,-89.5
+34375,Salt Free Garam Masala Blend,pantry,4.09,6.32,-3.97,High,5.47,65.4,116,160.08,141.08,13.5
+32359,Water Softening Pellets,household,2.36,4.91,-1.33,Medium,9.51,253.8,105,750.75,626.48,19.8
+18238,Condensed Cream Of Onion Soup,canned goods,1.96,3.45,-3.485,High,2.75,244.7,539,425.81,349.63,21.8
+29286,Vegetarian DHA Softgels,personal care,1.78,3.39,-0.31,Low,1.8690000000000002,220.1,264,23.5,338.05,-93.0
+38841,"Slow Cooker Sauces, Apple Bourbon Pulled Pork",pantry,3.17,4.92,0.0,Low,inf,318.8,0,,527.63,
+24179,"Real Vegetable Chips, Sweets & Beets",snacks,3.25,5.25,0.0,Low,inf,312.4,0,,609.58,
+34572,Forest Body Wash,personal care,4.05,6.56,-3.92,High,5.44,193.9,404,561.56,460.78,21.9
+26966,Chocolate Covered Ring Jells,international,5.36,9.85,0.0,Low,inf,299.4,0,,1320.99,
+148,Nectarines,produce,1.49,2.8,0.0,Low,inf,320.8,0,,412.01,
+44666,Original Nooks & Crannies Cinnamon Raisin English Muffins,bakery,2.44,4.84,-1.97,High,4.96,311.1,296,745.92,719.6,3.7
+8640,Invisible Solid Spring Breeze Antiperspirant/Deodorant 2.6 oz AP/DO & Body Spray,personal care,3.65,7.92,0.0,Low,inf,326.2,0,,1363.56,
+32056,Organic Super Tampons Wth Applicator,personal care,1.53,2.46,0.0,Low,inf,339.4,0,,306.24,
+43237,Freeze Off Wart Removal System,personal care,4.95,8.08,-2.09,High,9.49,165.6,118,535.72,496.51,7.9
+41511,Plastic 16 oz. Cups,household,2.41,3.71,0.0,Low,inf,275.3,0,,345.72,
+37343,"Kefir, Nonfat, with FOS, Organic, Vanilla",dairy eggs,1.72,2.65,0.0,Low,inf,345.3,0,,311.33,
+35594,Organic Hemp Plus Granola Cereal,breakfast,6.45,11.49,-0.185,Low,6.772500000000001,238.0,262,84.5,1161.99,-92.7
+19923,Blueberry B Monster,beverages,8.78,14.54,-0.23,Low,9.219,332.4,369,161.99,1858.53,-91.3
+2211,Triple Enzyme Formula Spray Laundry Stain Remover,household,6.44,10.08,-0.735,Low,6.7620000000000005,235.2,315,101.43,820.79,-87.6
+31493,Soft Toothbrush Powered By Yogurt Cups,personal care,3.13,5.05,0.0,Low,inf,312.4,0,,585.31,
+3932,Wasabi,international,1.49,2.98,-3.35,High,2.12,154.5,483,304.29,224.54,35.5
+37161,Blueberry Acai Yogurt,dairy eggs,4.77,8.84,-3.3,High,6.84,108.4,252,521.64,427.34,22.1
+7095,Vanilla Bean Tea Bags,beverages,3.54,7.44,-1.225,Medium,19.27,160.7,50,786.5,605.79,29.8
+3594,Milk Whole,dairy eggs,2.06,3.22,-3.66,High,2.83,337.5,541,416.57,377.23,10.4
+41233,Riced Cauliflower,missing,3.97,6.95,0.0,Low,inf,280.5,0,,813.99,
+16913,"Licorice, Soft",snacks,1.37,2.76,-1.08,Medium,18.49,341.6,43,736.16,462.78,59.1
+39365,French Vanilla Syrup,pantry,6.48,11.09,0.0,Low,inf,318.2,0,,1415.56,
+10982,Organic Nectarine & Plum Conserve,produce,1.82,3.18,-0.51,Low,1.9110000000000003,255.6,331,30.12,330.72,-90.9
+35976,Sweet Cream Whipped Butter Salted,dairy eggs,4.5,8.63,-2.15,High,8.41,277.0,292,1141.72,1105.53,3.3
+39370,Honey Peanut Butter Hot Oatmeal Bowl,breakfast,2.42,5.12,0.0,Low,inf,57.4,0,,149.54,
+31235,Velveeta Reduced Fat 2% Milk Shells Cheese,dry goods pasta,4.21,7.2,-4.13,High,5.56,325.2,945,1275.75,937.99,36.0
+27873,Gourmet Spicy Barbecue Sauce,pantry,4.14,7.47,-0.295,Low,4.3469999999999995,323.0,378,78.25,1055.14,-92.6
+32901,Organic Half & Half Guayusa Lemonade Tea,beverages,2.42,4.0,-2.74,High,3.81,275.2,314,436.46,423.84,3.0
+29869,New Zealand Artesian Water,beverages,8.08,14.59,0.0,Low,inf,164.5,0,,1039.87,
+5046,Vanilla Chocolate Peanut Butter Ice Cream Bars Multi-Pack,frozen,7.63,12.3,-2.99,High,11.46,184.6,228,873.24,817.79,6.8
+2323,Rich Chocolate Flavored Milk Mix,beverages,7.95,14.18,0.0,Low,inf,139.6,0,,838.77,
+42970,Lite Honey Mustard Dressing Topping & Spread,pantry,6.16,10.95,0.0,Low,inf,340.5,0,,1587.52,
+2768,Lip Care Stick,personal care,4.99,7.98,0.0,Low,inf,193.6,0,,568.76,
+48727,Garlic & Herb Pasta Sauce,dry goods pasta,5.95,11.22,0.0,Low,inf,196.4,0,,1013.71,
+20443,"Pita Bites, Original Sea Salt",snacks,1.51,3.16,-1.21,Medium,8.7,330.2,96,690.24,528.22,30.7
+45355,Deep Clean Cream Cleanser,personal care,1.8,3.96,-1.47,Medium,5.63,195.6,116,444.28,410.0,8.4
+31966,Angel Hair Pasta With Herbs,dry goods pasta,1.47,2.45,0.0,Low,inf,152.6,0,,144.54,
+41380,Country Style Pork Ribs,meat seafood,6.22,10.83,-2.31,High,10.97,325.3,315,1496.25,1441.77,3.8
+43281,Organic Lemon Perfume Oil,household,3.48,5.89,-2.35,High,6.06,167.4,156,402.48,392.42,2.6
+15171,Reclosable Sandwich Extra Large Bags,household,2.32,4.71,-1.215,Medium,13.11,188.9,54,582.66,442.89,31.6
+9721,Steamfresh Protein Italian Style,frozen,6.18,12.94,0.0,Low,inf,307.9,0,,2029.32,
+28158,Farmer Cheese,dairy eggs,2.52,5.57,-0.605,Low,2.6460000000000004,301.9,473,59.6,902.16,-93.4
+21927,Organic Boneless Skinless Chicken Breast,meat seafood,5.15,9.9,-0.2,Low,5.407500000000001,313.2,353,90.9,1454.2,-93.7
+16064,"Bread Crumbs, Panko, Seasoned Italian Style",pantry,4.22,7.43,-2.29,High,7.49,97.4,95,310.65,301.22,3.1
+34864,Pet Waste Bags,pets,1.8,3.41,-0.21,Low,1.8900000000000001,82.0,92,8.28,127.11,-93.5
+48383,Whole Wheat Flour,pantry,5.39,10.02,0.0,Low,inf,328.4,0,,1491.52,
+20636,Pure Sport Body Wash,personal care,1.73,2.75,0.0,Low,inf,275.4,0,,270.16,
+6180,Fit Popcorn Extra Virgin Olive Oil,snacks,5.14,9.9,0.0,Low,inf,346.5,0,,1606.21,
+42636,Organic Microwave Popcorn No Salt or Oil,snacks,4.58,8.29,-5.0,High,5.72,88.8,567,646.38,319.17,102.5
+45816,Fresh Collection Fiji Antiperpirant & Deodorant,personal care,2.42,3.99,0.0,Low,inf,65.8,0,,100.35,
+31873,Unscented Regular Pantiliners,personal care,1.09,2.06,0.0,Low,inf,342.2,0,,325.24,
+7991,Smoth & Creamy Low Fat Vanilla Frozen Yogurt,frozen,7.35,12.79,-3.09,High,10.87,198.2,327,1151.04,1043.86,10.3
+38531,Organic Sweet Potato Multigrain Tortilla Chips,snacks,4.86,7.8,-5.0,High,6.08,217.3,755,921.1,612.63,50.4
+6577,Sense & Spray Str Clean Linen Scent Air Freshener,household,5.94,9.29,-2.335,High,10.39,69.3,53,235.85,225.56,4.6
+31250,Apples Honeycrisp,missing,4.66,9.71,0.0,Low,inf,306.4,0,,1518.86,
+10521,Carb Balance Small Fajita Whole Wheat Tortillas,bakery,1.26,1.98,0.0,Low,inf,73.6,0,,49.92,
+44203,Crystal Pacifier,babies,3.06,5.58,-1.82,High,6.79,315.9,221,824.33,773.71,6.5
+6949,Creamy Broth with Mackerel & Vegetables Cat Food,pets,1.59,3.16,-2.035,High,3.13,265.8,270,415.8,409.75,1.5
+4829,Life Wheat + Protein Bread,missing,5.76,10.63,0.0,Low,inf,301.8,0,,1442.72,
+36362,"Baked Crackers, Cheddar Cheese",breakfast,5.32,8.23,0.0,Low,inf,322.9,0,,907.73,
+4470,Cherry Liquid Drink Mix,beverages,3.27,5.97,-0.9,Medium,3.4335,224.5,369,60.33,591.94,-89.8
+11800,Italian Castelvetrano Whole Green Olives,pantry,1.36,2.64,-3.84,High,1.84,34.7,138,66.24,43.48,52.3
+315,Creamy Italian Dressing Marinade,pantry,2.95,5.11,-3.05,High,4.39,43.4,68,97.92,89.16,9.8
+20677,Homestyle Creamy Chicken & Herb Dumplings Soup,canned goods,1.15,2.3,0.0,Low,inf,319.5,0,,359.37,
+18393,Mango Baby Breakfast Stage 2,babies,4.33,9.3,0.0,Low,inf,315.5,0,,1532.47,
+31317,Mandarin Oranges in Light Syrup Fruit Cups,canned goods,1.69,3.55,0.0,Low,inf,195.3,0,,354.26,
+19892,Classic Basil Pesto Sauce,dry goods pasta,5.17,10.87,0.0,Low,inf,323.4,0,,1801.18,
+18628,Organic Volcano Rice Ready To Eat Bowl,dry goods pasta,3.23,6.72,0.0,Low,inf,341.6,0,,1168.57,
+5583,Kentucky Whisky,alcohol,1.53,3.2,0.0,Low,inf,310.1,0,,505.55,
+34747,The Hulk Banana Coconut Spirulina Paleo Muffins,bakery,3.55,6.14,0.0,Low,inf,289.3,0,,728.06,
+35087,Blemish Clearing Serum,personal care,4.67,9.61,-3.48,High,6.55,322.5,1224,2301.12,1558.23,47.7
+18766,Canola Vegetable Oil Blend,pantry,3.95,7.61,-4.075,High,5.23,318.6,1469,1880.32,1140.23,64.9
+32343,Bianco D'oro Italian Dry Salame,deli,6.11,9.71,-3.59,High,8.47,296.8,484,1142.24,1032.78,10.6
+38625,Tomato Sauce With Basil,dry goods pasta,3.78,6.94,-0.09,Low,inf,265.6,0,,815.97,
+7599,Sensor 2 Plus Disposable Razors,personal care,4.22,7.23,0.0,Low,inf,262.8,0,,755.12,
+4730,Original Toothbrush Soft Right,personal care,3.04,6.28,0.0,Low,inf,171.2,0,,535.96,
+29960,"Acini di Pepe, No. 78",dry goods pasta,1.1,2.25,0.0,Low,inf,348.1,0,,391.76,
+7515,Spinach And Ricotta Ravioli,dairy eggs,1.41,3.08,0.0,Low,inf,230.4,0,,371.68,
+42849,Ice Cream Cones,snacks,1.33,2.74,-0.55,Low,1.3965,202.5,293,19.48,276.88,-93.0
+15556,Original Sliced Grand Cru Cheese,dairy eggs,4.23,8.36,0.0,Low,inf,309.9,0,,1241.53,
+38094,Sriracha Ketchup,pantry,2.49,5.14,0.0,Low,inf,210.8,0,,546.59,
+21957,Bittersweet Sea Salt Chocolate Bar,snacks,2.95,6.31,-5.0,High,3.69,263.1,3847,2846.78,864.57,229.3
+42796,Broccoli Pot Pie With Cheddar Cheese Sauce,frozen,6.59,13.89,0.0,Low,inf,315.5,0,,2237.77,
+42805,Sliced Jalapenos,pantry,2.43,4.49,0.0,Low,inf,195.1,0,,393.56,
+20571,Cashew Butter + Bourbon Vanilla Chocolate Bar,snacks,2.74,5.58,0.0,Low,inf,261.1,0,,716.73,
+1591,Redness Relief Cooling Eye Drops,personal care,5.0,9.56,-5.0,High,6.25,64.8,542,677.5,284.73,137.9
+22272,Gluten Free Matzo Ball & Soup Mix,international,2.36,4.29,-1.435,Medium,7.79,304.8,129,700.47,572.09,22.4
+1031,Cold Remedy Orange Cream Ultra RapidMelt,personal care,1.63,2.77,-3.67,High,2.24,284.1,619,377.59,313.32,20.5
+24466,Moroccan Red Clay and Argan Stem Cell Pore Minimizing Facial Scrub,personal care,2.24,4.9,0.0,Low,inf,283.4,0,,735.99,
+20076,RRRuffles Have Ridges Reduced Fat Potato Chips,snacks,2.26,3.71,-5.0,High,2.82,318.8,1256,703.36,443.66,58.5
+9593,Grilled Salmon Feast in Gravy Cat Food,pets,6.5,11.3,-0.88,Medium,6.825,309.4,482,156.65,1444.54,-89.2
+39051,Organic Tropical Fruit Blend,frozen,5.92,12.7,-1.87,High,12.72,310.5,309,2101.2,2052.58,2.4
+41006,Organic Onion Powder,pantry,5.2,8.33,-5.0,High,6.5,307.0,1061,1379.3,927.62,48.7
+36552,Gourmet Popping Corn Original,snacks,5.73,9.04,0.0,Low,inf,331.0,0,,1065.86,
+19792,L-Glutamine Dietary Supplement,personal care,4.64,10.04,0.0,Low,inf,343.8,0,,1812.05,
+33055,Organic Golden Delicious Apple,produce,1.37,2.71,-0.845,Medium,1.4385000000000001,317.9,542,37.13,409.44,-90.9
+1705,Disney Frozen Fruit Flavored Snacks,snacks,5.62,9.19,-4.57,High,7.19,309.4,949,1489.93,1066.71,39.7
+6751,"Drink Tabs, Strawberry Lemonade",beverages,5.26,8.78,0.0,Low,inf,259.1,0,,882.34,
+13657,Coleslaw Dressing Calorie Free,pantry,4.9,10.07,-1.42,Medium,16.57,89.7,44,513.48,451.44,13.7
+9268,Organic Fruit Spread Wild Blueberry,pantry,5.39,10.96,0.0,Low,inf,300.6,0,,1625.26,
+14204,Organic White Meat Chicken Pie,frozen,3.57,6.82,0.0,Low,inf,277.9,0,,884.36,
+35006,Glycerin Hand Soap Rosemary,personal care,1.7,3.1,-1.08,Medium,22.95,238.4,27,573.75,325.08,76.5
+34830,Tini Twists Pretzels,snacks,2.42,4.21,-4.39,High,3.13,205.1,753,534.63,357.22,49.7
+16228,Pad Thai Noodle Bowl,international,3.28,6.27,-0.9,Medium,3.444,341.6,585,95.94,987.63,-90.3
+8995,"Oatmeal, Instant, Banana Maple with Flax",breakfast,5.52,10.18,-5.0,High,6.9,317.7,2220,3063.6,1425.28,114.9
+22782,Original Key Lime Pie Yogurt,dairy eggs,6.36,10.61,-2.49,High,10.63,245.1,243,1037.61,1010.34,2.7
+3919,Hearty Grains 100% Whole Wheat English Muffins,bakery,0.71,1.55,-1.11,Medium,7.16,340.3,62,399.9,280.59,42.5
+11221,Rotini Pasta With Three Cheese Sauce,dry goods pasta,3.56,7.11,0.0,Low,inf,300.1,0,,1035.02,
+22412,HE Turbo Clean Ultra Stain Release Liquid Laundry Detergent,household,3.66,6.17,-0.405,Low,3.8430000000000004,159.6,193,35.32,386.29,-90.9
+16704,Bag Pink Lady Apples,produce,1.85,2.94,-1.4,Medium,6.48,58.5,19,87.97,61.5,43.0
+13390,Deli Deluxe 2% Milk American Cheese Slices,dairy eggs,1.77,3.2,-0.43,Low,1.8585,324.6,409,36.2,450.83,-92.0
+9027,Drink Original Unsweetened,dairy eggs,2.99,5.38,-0.92,Medium,3.1395000000000004,317.2,520,77.74,729.07,-89.3
+3212,"Vinegar, Red Wine",pantry,5.39,11.43,-0.54,Low,5.6594999999999995,131.5,192,51.74,765.0,-93.2
+6677,Organic Whole Mushrooms,produce,1.94,3.6,0.0,Low,inf,336.2,0,,544.83,
+8649,Variety Snaps With Real Beef/Chicken/Liver & Lamb Flavors,pets,4.0,7.19,-0.83,Medium,4.2,340.6,532,106.4,1058.18,-89.9
+34457,100% Organic Unbleached White Whole Wheat Flour,pantry,4.5,9.03,-0.04,Low,inf,329.4,0,,1453.94,
+42355,ProActive Health MiniChunks Adult Dog Food,pets,2.84,5.64,0.0,Low,inf,330.9,0,,897.85,
+16356,Turkey & Brown Rice Dog Food,pets,6.16,11.72,0.0,Low,inf,244.5,0,,1306.76,
+33819,Original French Vanilla Yogurt,dairy eggs,5.28,11.62,-1.46,Medium,16.76,252.5,147,1687.56,1559.78,8.2
+46381,Tricolor Pearl Couscous,dry goods pasta,2.33,4.52,0.0,Low,inf,117.9,0,,251.66,
+13905,Shabbos Candles,international,3.43,6.97,0.0,Low,inf,326.7,0,,1129.8,
+30801,Classic Original Mint Mouthwash,personal care,2.58,5.01,0.0,Low,inf,284.9,0,,676.01,
+21623,ZzzQuil Nighttime Liquid Sleep-Aid Twin Pack,personal care,2.3,4.85,-5.0,High,2.87,342.6,4721,2690.97,859.01,213.3
+7290,Peas Baby 2nd Foods,babies,1.49,2.37,-1.66,High,3.75,119.7,55,124.3,100.91,23.2
+40396,Guacamole,deli,4.61,8.1,-2.49,High,7.7,203.4,230,710.7,679.49,4.6
+48126,Braunschweiger Lunchmeat,meat seafood,8.53,14.56,0.0,Low,inf,327.4,0,,1928.11,
+18674,Spaghetti Tangy Italian Dinner,dry goods pasta,1.53,2.51,-1.365,Medium,5.72,333.7,108,452.52,313.79,44.2
+18811,Organic Apple Juice,beverages,2.89,5.26,0.0,Low,inf,241.3,0,,557.95,
+3503,Gentle Glide 360° Fresh Scent Regular/Super Absorbency Multi-Pack Tampons,personal care,5.18,11.08,0.0,Low,inf,115.8,0,,665.33,
+25357,Homestyle Harvest Tomato with Basil Soup,canned goods,1.09,1.96,-0.285,Low,1.1445,223.0,260,14.17,187.19,-92.4
+11025,Mighty Pacs,household,1.96,3.45,-2.925,High,2.98,214.8,329,335.58,308.52,8.8
+15036,Allergy 24 Hour 10mg Tablets,personal care,4.13,6.89,0.0,Low,inf,328.4,0,,875.62,
+4244,MSM Sulfur Capsules,personal care,6.36,11.86,0.0,Low,inf,172.1,0,,916.91,
+46110,Triple Zero Cherry Greek Yogurt,missing,2.1,4.42,-1.3,Medium,9.1,159.2,62,434.0,358.88,20.9
+41763,Turkey Gravy Mix,pantry,4.42,8.72,0.0,Low,inf,223.8,0,,928.53,
+40125,"Face Scrub, Original",personal care,5.03,9.62,-3.37,High,7.15,318.6,866,1835.92,1408.9,30.3
+20439,All Natural Almond Slices,snacks,2.48,4.28,-2.0,High,4.96,309.6,230,570.4,539.37,5.8
+41383,Family Size Hearts of Romaine,produce,3.51,6.23,-4.48,High,4.52,331.3,1394,1407.94,874.56,61.0
+4029,"Organic Corn Thins, Original",snacks,2.74,5.26,-3.67,High,3.77,336.2,1141,1175.23,823.35,42.7
+47593,Tots Yogurt Mish Mash Berry Banana Beet,babies,5.39,8.32,0.0,Low,inf,283.4,0,,817.1,
+3781,Sheer Moisture Lip Tint - Adorn,personal care,4.76,8.34,-1.82,High,10.56,310.2,201,1165.8,1084.92,7.5
+17228,Sriracha Chicken Breast,meat seafood,7.59,15.25,-0.23,Low,7.9695,274.7,318,120.68,2039.37,-94.1
+48716,Meyer Lemon Miracle Tart,bakery,0.98,2.09,-5.0,High,1.22,314.1,4633,1111.92,341.58,225.5
+31192,Free & Clear  Natural Dish Liquid,household,4.97,10.35,0.0,Low,inf,292.8,0,,1533.5,
+4460,Non Gmo Snickerdoodle Protein Bar,snacks,2.45,4.91,0.0,Low,inf,306.1,0,,738.5,
+42698,Hot Pork Sausage,frozen,2.53,5.24,-2.595,High,4.12,241.6,450,715.5,633.27,13.0
+28093,Pork Potsticker,frozen,1.7,3.49,-1.21,Medium,9.8,84.8,24,194.4,146.67,32.5
+30856,Whole Grain White Hamburger Buns,bakery,2.71,5.34,-0.26,Low,2.8455,329.1,387,52.44,847.05,-93.8
+20377,"Water Chestnuts, Sliced, No Salt Added",international,4.26,8.78,-1.215,Medium,24.07,73.0,21,416.01,319.4,30.2
+18330,Click Gel Automatic Citrus Scent Toilet Bowl Cleaner,household,1.37,2.17,-0.74,Low,1.4385000000000001,286.9,388,26.58,221.21,-88.0
+27457,100 Grand Fun Size Bars,snacks,2.95,6.34,-1.81,High,6.59,302.6,282,1026.48,1014.47,1.2
+16471,Chocolate Decorating Decors,pantry,2.36,4.26,0.0,Low,inf,298.3,0,,544.98,
+11709,Milk Chocolate Coconut & Almonds Bar,snacks,3.91,7.34,-0.47,Low,4.1055,35.3,46,8.99,117.87,-92.4
+10531,Easy Quinoa Mushroom & Vegetable Medley,dry goods pasta,2.42,3.74,-5.0,High,3.02,329.0,958,574.8,422.11,36.2
+49193,SmartBlend Chicken & Rice Formula Adult Dry Dog Food,pets,4.21,8.91,0.0,Low,inf,356.8,0,,1626.63,
+1793,"Citrus Beverage, Sparkling, with Natural Pulp",beverages,3.56,6.72,0.0,Low,inf,198.0,0,,612.89,
+42459,Sinus-Max Pressure & Pain Relief,personal care,7.32,11.37,0.0,Low,inf,339.7,0,,1324.26,
+9061,Italian Sausage & Rigatoni Pasta,frozen,2.9,4.65,0.0,Low,inf,326.7,0,,548.83,
+16099,Heart Healthy Italian Style White Bean & Chicken Sausage,canned goods,1.45,2.36,0.0,Low,inf,321.0,0,,282.9,
+46744,Organic ZFruit Rope Fruit Punch Flavor,snacks,1.68,3.35,-0.815,Medium,1.764,156.2,263,22.09,252.53,-91.3
+36131,Elderberry Syrup,personal care,5.45,11.25,-0.585,Low,5.7225,120.4,178,48.5,678.07,-92.8
+32947,Organic Pita,bakery,4.2,7.2,-3.66,High,5.78,277.5,620,979.6,806.58,21.5
+263,Red Food Color,pantry,2.91,4.58,-0.48,Low,3.0555000000000003,262.0,318,46.27,418.71,-88.9
+37228,Mango Lowfat Kefir,dairy eggs,4.83,8.6,-1.665,High,12.09,50.3,28,203.28,182.55,11.4
+39702,Low Fat Milk,dairy eggs,5.74,10.17,-1.49,Medium,17.45,127.4,56,655.76,545.32,20.3
+13357,Pomegranate Berry Sparkling Water with Juice,beverages,4.55,9.0,0.0,Low,inf,334.8,0,,1462.49,
+26089,Broccoli Squash Carrots Onion Red Pepper Steamables,frozen,5.65,9.36,-3.865,High,7.62,145.9,323,636.31,521.43,22.0
+44490,Organic BBQ Sauce Original,pantry,2.15,4.42,-1.87,High,4.62,123.5,113,279.11,271.22,2.9
+14304,Maxi Super Pads,personal care,1.51,2.93,0.0,Low,inf,152.7,0,,209.98,
+3155,Foaming Scrub Pink Grapefruit Oil-Free Acne Wash,personal care,5.87,10.97,-5.0,High,7.34,295.9,2206,3242.82,1482.51,118.7
+42711,Jumbo Crinkle Cut French Fries,frozen,7.62,13.81,-1.26,Medium,36.93,321.7,93,2725.83,1940.06,40.5
+24464,Crunchy Apple Chips Cinnamon,snacks,3.61,7.25,-5.0,High,4.51,333.6,3581,3222.9,1187.78,171.3
+20816,"Lasagna, Whole Wheat/Whole Grain",dry goods pasta,2.55,5.39,-4.8,High,3.22,300.8,3566,2389.22,828.63,188.3
+28439,Grape Fruit Ice Bars,frozen,4.11,7.19,-0.365,Low,4.3155,180.4,217,44.59,535.84,-91.7
+42516,Organic Grass Fed Ghee,pantry,4.7,9.26,-2.19,High,8.65,65.6,76,300.2,288.47,4.1
+33318,Sea Salt Soiree Intense Dark Chocolate Squares,snacks,5.23,9.23,0.0,Low,inf,82.9,0,,324.06,
+15421,Double Bergamot Earl Grey,beverages,6.48,13.48,0.0,Low,inf,337.8,0,,2292.49,
+29963,Moroccan Argan Oil Renewing Shampoo,personal care,5.35,9.8,-0.595,Low,5.6175,328.0,456,121.98,1399.92,-91.3
+26352,Chicken Caesar Salad,deli,4.69,8.42,-1.165,Medium,33.11,122.1,24,682.08,441.89,54.4
+35628,Organic Strawberry Smoothie,dairy eggs,1.31,2.84,0.0,Low,inf,291.2,0,,435.94,
+16948,Clean Burst Liquid Laundry Detergent,household,1.87,3.62,-4.13,High,2.47,326.8,1584,950.4,559.57,69.8
+1123,Fruit Vegetable Mango Fruit Square,canned goods,2.19,4.59,-1.19,Medium,13.72,123.4,33,380.49,287.92,32.2
+31265,Chunky Turkey Feast Cat Food,pets,3.73,8.06,-1.91,High,7.83,336.2,355,1455.5,1412.47,3.0
+46710,Graduates Waffle Wheels Banana Cream,babies,1.35,2.09,0.0,Low,inf,316.4,0,,225.18,
+17412,Mini Lemon Bites,bakery,1.11,2.16,-3.87,High,1.5,173.2,710,276.9,176.11,57.2
+33787,Total 2% Lowfat Greek Strained Yogurt with Peach,dairy eggs,5.29,8.64,-0.475,Low,5.5545,289.0,356,94.16,937.56,-90.0
+30377,Fat Free Chocolate Milk,dairy eggs,1.03,2.05,0.0,Low,inf,345.2,0,,343.16,
+9469,33 Gal with Flap Closure Black Extra Large Trash Bags,household,2.12,3.61,-4.825,High,2.67,155.7,667,366.85,222.45,64.9
+24011,2nd Foods - Beef & Beef Gravy,babies,4.51,7.49,-1.525,High,13.1,301.5,128,1099.52,858.22,28.1
+851,Chile Con Queso Potato Crisps,snacks,4.38,7.69,-5.0,High,5.48,324.0,1763,1939.3,1047.67,85.1
+12981,Strawberry Nonfat Yogurt,missing,4.64,8.52,-1.42,Medium,15.69,139.7,58,640.9,522.56,22.6
+40770,Sweet Peas Valley Fresh Steamers,frozen,3.03,5.69,-1.69,High,7.42,240.4,153,671.67,619.07,8.5
+20413,Berry Pomegranate Chia Energy Bar,snacks,4.08,7.84,-3.52,High,5.7,167.8,515,834.3,610.83,36.6
+23893,Original Perky's Crunchy Rice Cereal,breakfast,2.78,4.37,-4.845,High,3.5,269.6,790,568.8,413.43,37.6
+11633,Sweet & Tangy Glaze and Dipping Sauce,international,3.23,5.25,-0.32,Low,3.3915,282.2,324,52.33,548.45,-90.5
+10821,Reduced Fat Colby Jack Cheese Sticks,dairy eggs,6.08,9.46,0.0,Low,inf,207.2,0,,670.74,
+16733,"Polish, Silver, Bottle",household,4.04,8.5,0.0,Low,inf,105.8,0,,460.74,
+36803,Macro Greens,frozen,7.86,13.19,0.0,Low,inf,89.4,0,,453.71,
+10594,Christmas Crunch,breakfast,5.47,8.58,-3.61,High,7.57,92.7,145,304.5,273.63,11.3
+4614,Burrata alla Panna,dairy eggs,3.73,7.68,-1.275,Medium,17.29,321.8,114,1545.84,1219.82,26.7
+23095,Flame Grilled Beef Patty,frozen,1.91,4.12,0.0,Low,inf,285.2,0,,615.76,
+40074,Quenching + Coconut Curls Shampoo,personal care,3.4,5.68,0.0,Low,inf,340.7,0,,751.66,
+4316,Cheese Trio Quiche,frozen,3.49,6.18,-5.0,High,4.36,96.3,550,478.5,251.15,90.5
+6425,Everyone's Favorite Chocolate Chip Cookie Mix,pantry,2.75,4.44,0.0,Low,inf,232.1,0,,380.91,
+10744,Chicken Noodle R&W Condensed Soup Family Size,canned goods,2.34,4.89,-1.16,Medium,16.97,237.8,56,819.28,584.29,40.2
+3264,"Muesli, Bircher (Unsweetened)",breakfast,3.61,5.93,0.0,Low,inf,292.7,0,,648.84,
+26780,Superfood Pesto Sauce,dry goods pasta,5.35,10.92,0.0,Low,inf,329.3,0,,1791.12,
+45080,Body Bar Soap Milk & Honey Complexion,personal care,4.01,8.31,-2.73,High,6.33,327.3,688,1596.16,1363.36,17.1
+29661,"Chardonnay, Premium Dealcoholized Wine, 2011",alcohol,4.8,9.95,-1.36,Medium,18.13,236.0,104,1386.32,1175.78,17.9
+30822,Thirst Quencher Lemon-Lime/Fruit Punch/Orange Variety Pack Sports Drink,beverages,5.08,8.29,-4.79,High,6.42,188.0,639,856.26,581.16,47.3
+23790,Total Moisture Aloe Fresh Hydrating Lotion,personal care,4.53,7.77,-2.91,High,6.9,178.5,252,597.24,556.9,7.2
+19388,Mushroom Steak Sauce,missing,3.84,6.93,-4.8,High,4.85,190.5,1056,1066.56,562.01,89.8
+28080,Sugar Free Italian Sweet Creme Coffee Creamer,dairy eggs,2.06,3.95,-3.825,High,2.79,192.1,726,529.98,348.56,52.0
+28147,Farmer Cheese No Salt Added,dairy eggs,5.77,9.22,-2.28,High,10.28,123.6,96,432.96,400.95,8.0
+20980,Spinach Mountain Bread,bakery,1.76,3.33,-1.96,High,3.59,332.5,286,523.38,506.81,3.3
+12093,Rubber Bands,other,1.37,2.24,-3.6,High,1.9,284.4,514,272.42,238.94,14.0
+48100,Classic Caramel Flavoring Syrup,pantry,4.54,8.45,-1.96,High,9.27,51.0,42,198.66,192.34,3.3
+13915,Wet Skin Broad Spectrum SPF 30 Sunscreen Spray,personal care,1.98,3.77,-1.295,Medium,8.69,108.4,36,241.56,187.99,28.5
+39127,Classic Crust Pepperoni Pizza,frozen,7.75,14.29,0.0,Low,inf,113.5,0,,720.8,
+47978,Sugar Cookie Dough,pantry,5.89,11.54,0.0,Low,inf,261.7,0,,1446.37,
+40579,Whole Kosher Dills,pantry,6.68,11.15,0.0,Low,inf,302.6,0,,1298.25,
+36547,Aloe Vera Juice Whole Leaf,personal care,3.14,5.7,-2.54,High,5.18,96.0,122,248.88,237.77,4.7
+10908,Brown Sugar Cubes,pantry,1.07,2.15,0.0,Low,inf,328.9,0,,346.37,
+14937,Re-Fresh Body Spray Fiji with Palm Tree,personal care,7.11,11.28,0.0,Low,inf,319.2,0,,1259.13,
+16512,Pressed Lime Lemonade,pantry,3.31,6.28,-0.46,Low,3.4755000000000003,329.4,432,71.5,942.77,-92.4
+17923,Crinkle Cut Fries,frozen,8.16,14.6,-2.325,High,14.32,334.9,350,2156.0,2111.97,2.1
+38533,Creamy Deluxe Macaroni Dinner Elbows & Four Cheese Sauce,dry goods pasta,7.35,11.64,0.0,Low,inf,288.0,0,,1184.6,
+35617,Disinfecting Wipes Citrus Scent,household,6.05,10.53,-3.545,High,8.43,313.7,690,1642.2,1361.71,20.6
+8791,Lundberg 9.5 Oz,snacks,2.23,4.71,0.0,Low,inf,336.4,0,,824.95,
+42761,"Sweet Dreams Magickal Mineral Bath Salt Jasmine,Sandalwood & Vanilla",personal care,3.73,5.85,-1.33,Medium,15.03,347.8,99,1118.7,712.01,57.1
+27698,Garlic Bread Pepperoni Pizza,frozen,7.6,13.21,0.0,Low,inf,164.1,0,,896.28,
+22724,Family Size Macaroni & Cheese,frozen,3.52,6.8,0.0,Low,inf,89.0,0,,277.66,
+42150,"Pull-Ups Learning Designs Training Pantsfor Girls, Size 3T-4T",babies,1.76,3.69,-0.125,Low,1.848,343.3,374,32.91,635.8,-94.8
+43003,Organic Lemon Agave Vinaigrette,pantry,4.61,7.57,-5.0,High,5.76,359.3,1408,1619.2,1030.63,57.1
+10566,Blue Plus Bleach,household,6.52,11.36,-1.74,High,15.33,212.6,126,1110.06,1000.35,11.0
+6809,Berry Bunnies Cereal Organic,breakfast,4.99,8.96,0.0,Low,inf,163.2,0,,620.63,
+28788,Vermont Cheddar Mac & Cheese,missing,4.84,7.7,-0.4,Low,5.082,205.4,242,58.56,567.11,-89.7
+22284,Sweet & Salty Popped Snack Mix,snacks,1.96,3.23,-3.21,High,2.85,306.2,457,406.73,376.29,8.1
+9929,"6\"" Organic Chocolate Cake",bakery,2.64,5.5,0.0,Low,inf,328.8,0,,925.71,
+4806,Oat Milk Soap,personal care,6.1,11.9,0.0,Low,inf,291.2,0,,1636.92,
+27818,Liquid Eggs Whites,dairy eggs,1.7,3.4,-0.08,Low,inf,292.1,0,,481.9,
+20832,"Potato Chips, Original Lightly Salted",snacks,3.83,6.39,0.0,Low,inf,113.1,0,,283.33,
+25653,Organic Plain Yogurt,dairy eggs,4.92,10.77,-5.0,High,6.15,110.9,1827,2247.21,639.35,251.5
+36343,"9\"" Pie Shell",frozen,6.71,11.89,0.0,Low,inf,162.5,0,,810.79,
+33899,Red Wine Blend,alcohol,5.4,8.97,0.0,Low,inf,316.5,0,,1083.24,
+29131,Color Revitalize Protection for Color Treated Hair Conditioner,personal care,5.64,9.02,-1.48,Medium,17.39,295.5,111,1304.25,964.38,35.2
+293,Prime Filets Chicken & Tuna Dinner in Gravy Cat Food,pets,2.9,5.59,0.0,Low,inf,114.6,0,,300.68,
+23821,Organic Chili Spicy,canned goods,1.33,2.17,-4.18,High,1.75,294.1,722,303.24,236.13,28.4
+43747,Sport Anti Perspirant & Deodorant Gel,personal care,4.76,10.09,-2.03,High,9.38,122.3,141,651.42,631.17,3.2
+5523,"Super C, 1000 mg, Tablets",personal care,6.25,10.1,0.0,Low,inf,309.2,0,,1150.34,
+43010,Tomato Juice From Concentrate,beverages,6.28,13.21,0.0,Low,inf,328.2,0,,2244.6,
+1600,Mediterranean Orzo Salad,deli,5.89,11.13,0.0,Low,inf,342.2,0,,1752.43,
+35130,French Chocolate Fat Free Ice Cream,frozen,5.57,9.14,-0.53,Low,5.8485000000000005,276.6,350,97.48,955.41,-89.8
+28660,Silhouette for Women S/M Briefs,other,3.37,7.02,0.0,Low,inf,311.7,0,,1104.17,
+3031,100% Colombian Medium Roast K-Cup Packs Arabica Coffee,beverages,6.09,12.28,-1.66,High,15.32,331.5,229,2113.67,1977.77,6.9
+32375,Tamarind Soda,beverages,6.11,10.27,-4.985,High,7.64,325.0,1420,2172.6,1305.68,66.4
+12378,Organic Toilet Bowl Cleaner,household,5.36,9.02,0.0,Low,inf,204.0,0,,717.73,
+17817,Pimiento Stuffed Spanish Green Olives,pantry,5.76,9.96,0.0,Low,inf,288.5,0,,1174.31,
+19461,Swanson Premium Chicken Breast Chunks,canned goods,2.68,4.56,-1.74,High,6.3,82.9,47,170.14,150.84,12.8
+6269,Brisling Sardines In Water,canned goods,1.31,2.35,-3.59,High,1.82,332.5,832,424.32,333.47,27.2
+20483,Cherry Flavored Allergy,personal care,2.88,5.76,-2.385,High,4.96,286.3,409,850.72,801.57,6.1
+47504,Blueberry Breakfast Biscuits,breakfast,1.53,2.94,-0.78,Low,1.6065,161.7,259,19.81,220.63,-91.0
+18050,Gluten free Spaghetti,dry goods pasta,3.78,7.78,-4.05,High,5.02,178.7,1053,1305.72,690.94,89.0
+26132,Spreadable Light Butter & Canola Oil Blend,dairy eggs,1.49,2.36,-3.81,High,2.02,304.6,550,291.5,259.62,12.3
+13506,Magic Shell Chocolate Fudge,snacks,3.39,5.99,-2.03,High,6.68,173.6,139,457.31,436.13,4.9
+46028,Korean Style Barbecue Bulgogl Sauce,pantry,3.94,7.43,-5.0,High,4.92,277.4,2178,2134.44,933.82,128.6
+24987,Kettle Corn Seasoning,snacks,2.52,4.65,0.0,Low,inf,109.7,0,,227.7,
+27771,Eggplant,produce,3.41,5.34,-2.4,High,5.85,230.0,184,448.96,424.79,5.7
+9502,Menthol Nasal Swab,personal care,1.11,2.31,-2.29,High,1.97,292.7,421,362.06,342.28,5.8
+28128,French Roast Dark Coffee,beverages,1.13,2.0,0.0,Low,inf,328.5,0,,276.37,
+22133,Lindor Assorted Chocolate Truffles,snacks,4.78,8.67,-2.15,High,8.94,98.5,92,382.72,370.76,3.2
+629,Probiotics Women 50 & Wiser Vegetarian Capsules,personal care,3.2,5.6,-5.0,High,4.0,322.2,1732,1385.6,735.31,88.4
+49625,Golden Wheat Deep Cleanse Shampoo,personal care,1.48,3.27,0.0,Low,inf,337.7,0,,592.58,
+29672,Lactose Free Low Fat Vanilla Yogurt,dairy eggs,4.51,7.22,-5.0,High,5.64,293.2,1007,1137.91,774.59,46.9
+12760,Organic Hojicha Green Tea,beverages,7.57,11.89,-2.01,High,15.07,161.7,100,750.0,670.72,11.8
+45837,"Truffles, Organic, Coconut Karma",snacks,2.32,4.12,0.0,Low,inf,305.5,0,,531.52,
+31902,Urinary Health Extra Strength Liquid Cranberry,personal care,4.85,8.23,-5.0,High,6.06,346.6,1601,1937.21,1142.01,69.6
+41844,Honey Nut Cheerios,breakfast,1.81,2.85,0.0,Low,inf,327.2,0,,324.99,
+38008,Beyond Grain Free Chicken & Sweet Potato Recipe Pate Cat Food,pets,1.49,2.52,-2.65,High,2.39,116.3,133,119.7,115.5,3.6
+12131,Non-lotion White Facial Tissue,household,3.51,7.31,0.0,Low,inf,226.0,0,,838.08,
+29210,Texas Toast,bakery,2.83,5.01,-2.8,High,4.4,74.7,107,167.99,156.74,7.2
+24129,Natural Fresh Goat Cheese,dairy eggs,4.78,8.37,-3.48,High,6.71,220.8,476,918.68,758.71,21.1
+3940,Nonfat Cottage Cheese,dairy eggs,4.95,9.26,-3.4,High,7.01,338.4,871,1794.26,1401.82,28.0
+35315,Premium Green Tea,beverages,8.76,14.67,0.0,Low,inf,248.6,0,,1418.6,
+40172,Deli Shaved Honey Ham,deli,4.56,7.16,-0.84,Medium,4.787999999999999,123.8,173,39.44,304.43,-87.0
+2214,Power & Free Multi-Purpose Cleaner,household,3.32,5.23,0.0,Low,inf,306.1,0,,551.79,
+39861,Flax Plus Hot Oatmeal,breakfast,5.37,9.95,-0.265,Low,5.6385000000000005,123.8,143,38.4,547.31,-93.0
+12576,Kiwi Sandia Sparkling Water,beverages,2.44,5.16,-3.135,High,3.58,326.6,1027,1170.78,868.12,34.9
+11898,Foods Gourmet Dry Salami Black Pepper,deli,4.13,6.39,0.0,Low,inf,311.7,0,,682.31,
+22956,Thin Crust Trio Bacon Pizza,frozen,2.43,3.94,-2.85,High,3.74,87.5,101,132.31,125.67,5.3
+30913,Organic Green Tea,beverages,0.87,1.84,-0.975,Medium,0.9135,134.6,266,11.57,125.34,-90.8
+30196,Red Cooking Wine,pantry,7.38,11.63,-3.83,High,9.99,266.8,477,1244.97,1110.75,12.1
+673,Chicken Base,canned goods,2.71,4.34,-3.86,High,3.66,222.4,429,407.55,349.27,16.7
+26616,French Lavender Clarifying Shampoo,personal care,4.96,8.96,-0.09,Low,inf,192.8,0,,737.56,
+4505,Espresso Chocolate Creamer,missing,3.46,6.09,-3.67,High,4.76,207.1,511,664.3,524.14,26.7
+46545,82% Dark Chocolate Bar with Bourbon,snacks,2.01,3.8,-2.055,High,3.92,113.7,106,202.46,197.74,2.4
+33328,Season and Cooked Pulled Beef,meat seafood,3.36,7.29,0.0,Low,inf,311.3,0,,1194.92,
+43228,Hemp Nourishing Shampoo,personal care,2.33,4.5,0.0,Low,inf,317.9,0,,667.37,
+15869,Sweet Hot Dog Buns,bakery,3.1,5.07,-1.335,Medium,12.35,51.2,15,138.75,96.51,43.8
+39448,Cold Brew Coffee Mocha,dairy eggs,4.13,9.15,-0.53,Low,4.3365,81.4,120,24.78,397.32,-93.8
+13427,Cranberry with Lime Juice Cocktail,beverages,5.38,10.41,0.0,Low,inf,274.4,0,,1334.0,
+42191,G Series Perform Frost Glacier Cherry Sports Drink,beverages,2.8,5.28,-2.17,High,5.19,51.1,52,124.28,122.77,1.2
+30568,Go Fresh Cool Essentials Anti-Perspirant Deodorant,personal care,6.44,11.55,-5.0,High,8.05,188.1,1143,1840.23,922.75,99.4
+43459,Puffs Cheese Flavored Snacks,snacks,5.09,8.03,0.0,Low,inf,314.8,0,,899.73,
+26013,Organic Dried Papaya,snacks,3.46,6.66,0.0,Low,inf,338.7,0,,1054.28,
+23474,"Couscous, Israeli, Traditional",dry goods pasta,4.22,8.12,-0.52,Low,4.431,95.5,130,27.43,360.95,-92.4
+34355,Spearmint Sugar-Free Gum,snacks,3.38,5.65,0.0,Low,inf,282.7,0,,613.26,
+9977,Paws Xl,missing,2.42,4.48,0.0,Low,inf,43.4,0,,85.95,
+23150,Vegetable Classics 99% Fat Free Lentil Soup,canned goods,1.2,2.42,-2.45,High,2.03,78.2,120,99.6,92.64,7.5
+10260,Zingz Queso Fundido Baked Snack Crackers,snacks,4.42,8.18,0.0,Low,inf,293.3,0,,1060.51,
+39175,Chunk White Albacore in Water,canned goods,0.51,1.06,0.0,Low,inf,286.1,0,,151.62,
+44617,Propolis Eucalyptus Manuka Honey Lozenge,missing,1.53,3.16,-2.65,High,2.46,288.2,559,519.87,459.66,13.1
+21229,"Brown, Red & Black Ready Rice",dry goods pasta,1.35,2.46,-1.84,High,2.96,278.7,198,318.78,301.91,5.6
+32123,Whole Ground Golden Flaxseed Meal,pantry,1.29,2.41,0.0,Low,inf,194.9,0,,212.93,
+22168,Whole Maine Cherrystone Clams,canned goods,2.8,4.42,-2.27,High,5.0,245.0,185,407.0,382.28,6.5
+47510,Designer Paper Plates 7 In,household,4.72,9.04,-0.28,Low,4.9559999999999995,230.8,273,64.43,970.55,-93.4
+20497,Original Antibiotic Ointment,personal care,3.82,6.74,0.0,Low,inf,278.1,0,,793.8,
+3883,Chicken Fingers,frozen,2.4,4.17,0.0,Low,inf,316.8,0,,545.9,
+21028,Calcium and Fiber Supplement,personal care,3.13,6.92,0.0,Low,inf,253.2,0,,938.66,
+46891,Way Better Snacks Sweet Potato Corn Tortilla Chips,snacks,3.53,6.05,-0.18,Low,3.7065,169.6,185,32.65,417.7,-92.2
+726,Gluten-Free Boom Chicka Pop Sweet & Spicy Popcorn,snacks,1.85,3.8,-0.73,Low,1.9425000000000001,265.5,433,40.05,501.86,-92.0
+48611,Milk Chocolate Candies Fun Size Bags,snacks,3.69,5.75,-5.0,High,4.61,185.0,558,513.36,366.44,40.1
+27928,Cotton Balls,personal care,2.87,5.99,0.0,Low,inf,339.6,0,,1030.47,
+509,Starting Solids Carrots Organic Baby Food,babies,4.35,8.16,0.0,Low,inf,121.8,0,,453.34,
+24514,Fig Newtons Fat Free Cookies,snacks,3.39,7.26,-0.915,Medium,3.5595000000000003,149.2,286,48.48,554.03,-91.2
+32510,Steak Seasoning & Rub,pantry,1.59,2.45,0.0,Low,inf,331.8,0,,280.32,
+4879,"Milk, Fat Free",dairy eggs,3.17,5.75,0.0,Low,inf,136.4,0,,338.64,
+24613,Sweet Potato Puffs Cereal Snack,babies,4.7,8.26,-3.78,High,6.39,103.8,274,463.06,356.58,29.9
+14418,Ezekiel 4:9 Sprouted Grain Pasta Penne,dry goods pasta,3.26,7.03,-2.575,High,5.33,353.8,721,1492.47,1302.43,14.6
+40138,Chocolate Chip Heart Thrive,bakery,4.24,7.07,-3.06,High,6.3,43.6,62,127.72,118.71,7.6
+36202,Organic Red Wagon Coffee K-Cups,beverages,5.11,10.39,0.0,Low,inf,330.6,0,,1693.59,
+14565,Roadhouse with Bean Chili,canned goods,1.04,1.65,-2.875,High,1.59,308.2,342,188.1,179.57,4.8
+39884,Calorie Free Pancake Syrup,pantry,1.33,2.71,-3.45,High,1.87,315.0,1132,611.28,422.65,44.6
+43947,Sausage & Mushroom Thin Pizza,frozen,5.23,10.71,0.0,Low,inf,333.5,0,,1773.6,
+23389,Original Ultra Concentrated Dish Soap,household,1.04,2.27,0.0,Low,inf,190.7,0,,229.27,
+39367,Breakstones Cottage Doubles Strawberry,missing,4.28,7.86,-3.13,High,6.29,41.9,84,168.84,146.0,15.6
+6393,Protein Plus Mango Protein Shake,beverages,7.99,14.19,-0.405,Low,8.3895,120.0,148,59.13,707.35,-91.6
+23350,Chow Mein Seasoning Mix,international,3.59,7.75,0.0,Low,inf,330.5,0,,1345.69,
+12053,Panama Peach Antioxidant Infusion,beverages,4.08,6.74,-2.565,High,6.69,342.0,348,908.28,870.24,4.4
+15128,Apricot from Concentrate Nectar,beverages,5.5,10.18,-0.57,Low,5.775,126.1,174,47.85,574.82,-91.7
+46439,Italian Sliced Bread,bakery,2.49,4.48,-4.495,High,3.2,188.7,856,607.76,360.61,68.5
+44484,Grain Free Naturals Dry Dog Food Chicken & Garden Pea Recipe,pets,4.01,7.46,-4.45,High,5.17,312.2,1596,1851.36,1050.25,76.3
+9621,Cornbread & Muffin Mix,pantry,6.05,11.41,-0.86,Medium,6.3525,326.5,540,163.35,1717.17,-90.5
+32583,"Adhesive Bandages, Flexible Fabric, Assorted Sizes, Bonus",personal care,3.29,5.86,-5.0,High,4.11,176.6,1040,852.8,440.32,93.7
+6516,Ham & Swiss On Rye,deli,5.58,11.61,-2.77,High,8.73,178.6,393,1237.95,1036.08,19.5
+26224,Sparkling Lime Water,beverages,6.67,13.72,-2.395,High,11.45,310.8,479,2289.62,2135.22,7.2
+13421,Advanced Care Plaque Guard Frosted Mint Antiplaque Mouthwash,personal care,2.46,3.96,0.0,Low,inf,347.1,0,,498.56,
+27047,Bloody Mary Cocktail Mix,other,1.72,2.69,-3.165,High,2.51,135.5,168,132.72,124.52,6.6
+30701,Sweet & Salty Nut Chocolate Pretzel Nut Granola Bars,breakfast,1.58,3.01,-0.71,Low,1.6590000000000003,249.1,380,30.02,348.44,-91.4
+34144,Whole Grain Buttermilk Pancake & Waffle Mix,breakfast,1.1,2.18,0.0,Low,inf,100.9,0,,106.44,
+6068,"Black Pepper, Fine Grind",pantry,1.7,2.94,-0.365,Low,1.785,82.0,98,8.33,97.01,-91.4
+1571,Trading Company All Natural Black Bean Spicy Dip,pantry,4.7,8.83,0.0,Low,inf,260.4,0,,1033.14,
+38184,Poppy Bagels,frozen,1.75,3.85,-2.4,High,3.0,51.3,93,116.25,104.66,11.1
+39585,Chinese Fried Rice Seasoning Mix,international,2.5,5.19,0.0,Low,inf,317.8,0,,829.12,
+46040,Ear Relief Ear Drops,personal care,6.2,10.45,-0.69,Low,6.510000000000001,292.3,405,125.55,1202.91,-89.6
+17966,Caffeine Free Diet Coke Mini Bottles,beverages,1.05,1.81,-2.67,High,1.68,273.8,334,210.42,202.7,3.8
+3017,Travel Unscented Wipes,babies,4.62,10.14,0.0,Low,inf,318.4,0,,1726.11,
+26759,Solid Light Tuna In Olive Oil,canned goods,1.05,2.13,-1.955,High,2.15,245.8,241,265.1,256.51,3.3
+7917,Original Hazelnut Liqueur,alcohol,1.58,3.18,0.0,Low,inf,203.1,0,,320.18,
+7206,Cilantro Avocado Yogurt Dressing,pantry,5.24,8.97,-3.055,High,7.79,323.3,497,1267.35,1183.57,7.1
+22326,Indian Vegetable Korma Entrée,frozen,4.79,10.55,-1.23,Medium,25.62,73.5,24,499.92,412.02,21.3
+33992,Organic Curly Parsley,produce,3.39,7.2,-4.96,High,4.25,308.9,4221,3630.06,1137.06,219.2
+25783,Lemon Lime Thirst Quencher,beverages,6.97,11.42,-1.91,High,14.63,283.8,176,1348.16,1209.29,11.5
+6803,Rose Lemonade,beverages,6.0,12.35,-3.99,High,8.01,313.2,1762,3541.62,1934.75,83.1
+40800,Gluten Free Rice Bread,frozen,3.7,6.38,-0.67,Low,3.8850000000000002,149.3,208,38.48,389.01,-90.1
+27099,"Peanuts, Caramel and Chewy Nougat Chocolate Candy Bar",snacks,1.91,3.83,-0.88,Medium,2.0055,43.4,76,7.26,80.88,-91.0
+17382,Catnip Mice Skitter Critters,pets,4.47,9.51,-1.03,Medium,153.47,42.6,2,298.0,209.86,42.0
+9958,Honey Smoked Turkey Breast,deli,5.02,10.07,-0.89,Medium,5.271,179.1,318,79.82,877.04,-90.9
+25161,High Life Beer Cans,alcohol,7.08,11.91,-1.91,High,14.86,232.9,152,1182.56,1079.81,9.5
+23429,Baby Corn Vegetable Trio,produce,2.6,4.18,0.0,Low,inf,80.0,0,,122.28,
+7235,Stevia Plus Powder,pantry,3.52,5.72,0.0,Low,inf,339.2,0,,731.8,
+42009,Body Powder Original Strength,personal care,5.17,9.76,-1.23,Medium,27.65,98.6,27,606.96,434.39,39.7
+44123,Colby Jack Cheese Sticks,dairy eggs,3.16,5.41,-4.17,High,4.16,332.4,994,994.0,716.97,38.6
+31878,Package Kiwi,produce,3.71,7.55,-0.41,Low,3.8955,312.8,410,76.06,1158.66,-93.4
+11282,Indulgent Coconut Milk Body Wash,personal care,5.38,10.58,0.0,Low,inf,205.0,0,,1028.93,
+26389,"Multi-Purpose 8\"" Scissors",household,3.96,6.29,-2.865,High,6.08,309.7,341,722.92,697.01,3.7
+5349,Original Plus Vitamins & Minerals Cat Food,pets,4.3,9.51,-0.88,Medium,4.515,176.5,339,72.88,898.24,-91.9
+16841,Soap Saver 2 Pack,household,4.46,9.55,0.0,Low,inf,231.7,0,,1154.55,
+11098,Organic Sencha Green Tea,international,1.49,3.03,-0.285,Low,1.5645,119.6,144,10.73,178.02,-94.0
+1391,Town House Light & Buttery Original Oven Baked Crackers,snacks,4.22,9.27,-1.9,High,8.91,298.5,321,1505.49,1461.0,3.0
+8544,Ground Pepper Cayenne,pantry,3.43,7.05,0.0,Low,inf,360.9,0,,1289.54,
+37833,Soft Regular Pulsar Toothbrush,personal care,5.81,10.26,-2.31,High,10.25,338.6,339,1505.16,1473.52,2.1
+41350,White Spearmint Sugar-Free Gum,snacks,2.62,4.9,-0.7,Low,2.7510000000000003,286.5,429,56.2,639.5,-91.2
+36984,Villa Toscana Wine,alcohol,6.89,10.96,-2.39,High,11.85,255.6,212,1051.52,995.15,5.7
+29103,Zero Go-Go Mixed Berry Vitamin Water,beverages,4.14,6.75,-1.955,High,8.48,171.6,109,473.06,425.76,11.1
+28076,Fettucini Alfredo Savory Italian Recipes,frozen,1.62,3.13,0.0,Low,inf,248.4,0,,364.47,
+20814,Sensitive with Iron Infant Formula,babies,5.55,11.05,-2.46,High,9.35,59.1,89,338.2,315.39,7.2
+17346,Acne Medication Rapid Treatment Face Wash Maximum Action,personal care,1.53,2.91,0.0,Low,inf,265.7,0,,352.98,
+2111,Organic Cappuccino Protein Shake,beverages,3.3,5.81,0.0,Low,inf,250.6,0,,605.89,
+37774,Artesian Sparkling Water,beverages,7.22,14.33,-5.0,High,9.02,326.2,3301,5941.8,2253.87,163.6
+32461,Spaghetti Cool Shapes Star Wars,canned goods,2.76,4.8,-0.845,Medium,2.8979999999999997,234.7,359,49.54,458.75,-89.2
+27260,Cafe Latte Vanilla,beverages,4.91,9.24,-1.95,High,10.08,111.6,94,485.98,471.57,3.1
+8386,"4X Ultra Concentrated Natural Laundry Detergent, Geranium Blossoms & Vanilla",household,4.66,8.32,-0.305,Low,4.893000000000001,275.8,324,75.49,983.53,-92.3
+11437,Gluten Free Blueberry Oat Muffin Tops,frozen,4.5,8.38,-1.36,Medium,17.0,170.5,65,812.5,637.76,27.4
+7985,Gluten-Free Reduced Sodium Popcorn,snacks,2.39,4.7,0.0,Low,inf,278.9,0,,627.96,
+10601,My First Fluoride-Free Infant & Toddler Toothpaste Mild Fruit,personal care,3.38,5.29,0.0,Low,inf,179.1,0,,331.34,
+14669,"Italian Pasta Sauce Basilico Tomato, Basil & Garlic",dry goods pasta,5.26,8.73,-0.6,Low,5.523,324.7,427,112.3,1079.91,-89.6
+43043,"Tropical Fruit Salad, Organic, in Organic Pineapple & Passionfruit Fruit Juices",canned goods,1.92,4.01,0.0,Low,inf,264.9,0,,526.35,
+10709,Non Dairy Chunky Monkey,frozen,7.8,12.5,-1.72,High,18.63,342.8,172,1862.76,1554.13,19.9
+32623,Natural Raspberry Soda,beverages,6.66,12.16,0.0,Low,inf,275.6,0,,1473.49,
+13587,Vermont Maple & Sea Salt Microwave Popcorn,snacks,2.0,3.18,0.0,Low,inf,319.7,0,,365.13,
+27056,Beef Mini Bagel Dogs,meat seafood,8.77,14.38,0.0,Low,inf,332.1,0,,1797.18,
+45020,Arnica Oil,personal care,1.38,2.58,-5.0,High,1.72,303.4,2304,783.36,353.3,121.7
+44838,Yucatan Sunshine Habanero Pepper Sauce,pantry,3.41,7.5,0.0,Low,inf,318.6,0,,1261.92,
+47550,Refreshing Breeze Mold & Mildew Remover,household,3.23,6.42,-0.355,Low,3.3915,319.0,400,64.6,990.73,-93.5
+5,Green Chile Anytime Sauce,pantry,6.07,10.88,-3.63,High,8.38,121.6,313,723.03,568.79,27.1
+12631,Discreet Incontinence Underwear Maximum Classic Cut Extra-Large,personal care,3.18,5.51,0.0,Low,inf,236.1,0,,539.2,
+27004,Cherry Menthol Cough Suppressant Drops,personal care,1.59,3.17,0.0,Low,inf,314.6,0,,483.65,
+32588,Refillable Primordial Himalayan Sea Salt Grinder,pantry,1.64,3.43,0.0,Low,inf,123.1,0,,212.53,
+7516,Gluten Free Rosemary Herb Lentil Crackers,snacks,5.07,8.21,0.0,Low,inf,240.2,0,,719.5,
+30926,Chocolate Fudge Stripe Layer Cake,frozen,6.74,10.42,-2.46,High,11.36,125.4,101,466.62,445.89,4.6
+28625,Ultra Pasteurized Grade A Heavy Whipping Cream,dairy eggs,1.67,3.01,-2.17,High,3.1,66.9,62,88.66,86.91,2.0
+5646,Organic Turkey Bacon,meat seafood,2.79,5.77,-2.655,High,4.48,236.2,462,780.78,678.49,15.1
+30229,Extra Clean Medium Toothbrush,personal care,4.55,9.01,-1.745,High,10.66,165.9,123,751.53,717.44,4.8
+11445,Bite Size Candies Tropical,missing,1.24,2.73,-2.49,High,2.07,352.9,702,582.66,510.21,14.2
+20022,Granulated White Cane Sugar,pantry,6.47,10.22,-0.73,Low,6.7935,160.4,216,69.88,577.62,-87.9
+19828,Red Delicious Apples,produce,2.88,6.09,-0.255,Low,3.024,143.1,171,24.62,446.51,-94.5
+1567,FreshMatic Ultra Fresh Waters Automatic  Spray Refill,household,1.59,2.81,-1.84,High,3.48,112.4,75,141.75,131.71,7.6
+46930,Sea Salt Caramel Popcorn,snacks,1.59,3.14,0.0,Low,inf,286.5,0,,430.07,
+28728,Organic Falafel,frozen,8.32,14.84,-0.86,Medium,8.736,271.7,428,178.05,1734.23,-89.7
+22534,Kashmiri Curry Mild Indian Simmer Sauce,international,3.33,5.74,0.0,Low,inf,271.6,0,,635.8,
+15976,Diced Peaches in 100% Fruit Juice,canned goods,1.53,2.48,0.0,Low,inf,314.3,0,,284.09,
+41727,Gluten Free Breaded Chicken Breast Strips,frozen,6.26,12.75,-1.15,Medium,47.99,195.9,42,1752.66,1229.36,42.6
+24729,Cabinet Makers Wax,household,5.19,11.47,0.0,Low,inf,80.1,0,,490.23,
+45032,Bleu Cheese Salad Dressing And Dip,pantry,5.66,11.86,0.0,Low,inf,315.6,0,,1916.68,
+4868,Caraway Seeds,pantry,6.0,9.53,0.0,Low,inf,285.4,0,,969.78,
+25115,Pizzeria Thin Crust Primo Pepperoni Pizza,frozen,4.7,7.52,-2.57,High,7.69,99.6,94,281.06,268.92,4.5
+3169,Brown & Serve Original Breakfast Sausage Links,frozen,2.28,4.0,-4.11,High,3.01,259.3,834,608.82,430.6,41.4
+35323,Greek Yogurt Blueberry,dairy eggs,5.57,9.77,0.0,Low,inf,326.7,0,,1338.37,
+23262,Unfrosted Strawberry Pop Tarts,breakfast,4.42,7.58,0.0,Low,inf,357.3,0,,1095.55,
+37032,Hawaiian Hazelnut Flavored Coffee,beverages,3.51,7.23,0.0,Low,inf,323.5,0,,1180.34,
+3376,Organic Whole Kernel Sweet Corn No Salt Added,canned goods,2.93,4.63,0.0,Low,inf,135.5,0,,218.91,
+14884,Almond Sea Salt 72% Cocoa Square,snacks,1.78,3.33,-1.935,High,3.68,214.2,176,334.4,323.28,3.4
+18399,Chicken & Cheese Burrito,frozen,4.69,8.91,0.0,Low,inf,150.8,0,,616.14,
+22270,Organic Classic Marinara Pasta Sauce,dry goods pasta,1.17,2.11,0.0,Low,inf,331.5,0,,301.25,
+33671,100% Pineapple Juice,beverages,3.6,7.83,-0.435,Low,3.7800000000000002,274.9,377,67.86,1129.33,-94.0
+33073,King Size Corn Tortillas,bakery,0.9,1.87,-0.895,Medium,0.9450000000000001,185.2,341,15.35,175.91,-91.3
+3420,Raw Jack Style Cheese,dairy eggs,1.91,3.19,-5.0,High,2.39,227.2,962,461.76,280.14,64.8
+24840,Chocolate Kale Krunch,snacks,1.58,3.38,-3.64,High,2.18,315.6,1557,934.2,553.69,68.7
+32412,Garbanzo Beans No Salt Added,international,4.84,8.49,-2.305,High,8.55,349.0,343,1272.53,1213.71,4.8
+3738,Calendula Baby Diaper Care,babies,4.72,9.46,0.0,Low,inf,264.4,0,,1221.78,
+47101,Greek Yogurt Black Cherry,dairy eggs,4.13,7.83,-1.59,High,11.13,233.9,133,931.0,838.14,11.1
+26849,Age Defying Daily Facial Moisturizer,personal care,5.9,11.62,0.0,Low,inf,270.6,0,,1506.03,
+31396,French Vanilla Sugar Free Coffee Creamer,dairy eggs,3.0,5.75,-2.455,High,5.06,109.6,150,309.0,293.53,5.3
+14846,Gluten Free Chocolate Almond Bar,snacks,2.76,4.64,-0.58,Low,2.8979999999999997,323.9,425,58.65,591.03,-90.1
+35704,Gluten Free Hamburger Buns,frozen,6.84,13.42,0.0,Low,inf,276.8,0,,1776.77,
+41535,Rice Pecan Bread,bakery,1.66,2.95,-3.975,High,2.22,237.9,736,412.16,295.52,39.5
+37187,Mangos Organic Baby Food,babies,6.34,11.63,-0.33,Low,6.657,186.2,223,70.69,953.52,-92.6
+41712,American Classic Creamy Peanut Butter,pantry,1.24,2.12,-1.955,High,2.54,296.1,207,269.1,250.4,7.5
+22648,Organic Power Grains,dry goods pasta,7.46,11.7,-0.915,Medium,7.833,64.0,92,34.32,259.95,-86.8
+12297,Harpers Bazaar,household,1.45,2.43,0.0,Low,inf,240.4,0,,230.17,
+17310,Chocolate Chip Love Cookies,snacks,4.53,9.18,-3.45,High,6.38,166.0,582,1076.7,748.14,43.9
+14367,Cloves,other,3.32,7.28,-3.03,High,4.96,35.6,113,185.32,135.79,36.5
+45312,Clear Tone Pink Rosa Antiperspirant Deodorant,personal care,5.99,11.93,-4.42,High,7.74,222.2,1503,2630.25,1284.09,104.8
+31094,Spicy Spinach Blend,produce,1.13,1.98,0.0,Low,inf,321.7,0,,261.87,
+11108,Nestle Coffeemate French Vanilla Flavored Instant Coffee,beverages,4.13,8.98,-1.88,High,8.82,88.2,91,426.79,415.12,2.8
+2976,High Protein Advanced Formula Cat Food,pets,6.42,11.69,-2.74,High,10.11,321.2,478,1763.82,1648.0,7.0
+16324,Peppermint Flavored Ultra 1000 Maximum Strength Antacid & Calcium Supplement Chewable Tablets,personal care,4.12,7.23,0.0,Low,inf,156.6,0,,473.74,
+34220,Honey Lavender Stress Relief Tea,beverages,5.17,10.0,0.0,Low,inf,293.5,0,,1381.45,
+3759,Smoked Salt Caramels in Milk Chocolate,snacks,4.66,7.72,-1.255,Medium,22.93,328.3,83,1516.41,966.47,56.9
+31248,White Potato,produce,2.1,4.45,-1.635,High,5.41,243.0,176,582.56,555.5,4.9
+26210,Almond Gold Bar,snacks,3.35,7.21,-0.915,Medium,3.5175,259.4,500,83.75,978.7,-91.4
+33879,Pore Refining Toner,personal care,4.67,7.84,-0.48,Low,4.9035,325.9,408,95.27,991.16,-90.4
+13481,Extra Noodle Soup Mix,canned goods,2.53,4.6,-1.41,Medium,8.7,196.0,79,487.43,393.3,23.9
+38746,1000 Roses Pearl Exfoliator for Sensitive Skin,personal care,1.44,2.45,-0.225,Low,1.512,272.2,303,21.82,264.08,-91.7
+10428,Original Large Dog Biscuits,pets,2.58,4.81,-0.61,Low,2.709,106.1,150,19.35,226.54,-91.5
+7169,Organic Yellow Potatoes,produce,3.83,7.68,-4.26,High,5.0,142.2,885,1035.45,533.53,94.1
+43561,Exotic Thai Red Rice & Flaxseeds Rice Toast,snacks,5.63,9.18,-1.125,Medium,50.67,103.4,15,675.6,351.23,92.4
+9448,Original Liquid Fabric Softener,household,4.0,6.56,-1.48,Medium,12.33,96.9,38,316.54,239.2,32.3
+31931,Pure Fire Tonic Apple Cider Vinegar Drink,beverages,5.81,9.87,0.0,Low,inf,292.8,0,,1139.88,
+23658,Air Freshener Crisp Waters Spray,household,2.41,4.77,-2.58,High,3.94,261.2,427,653.31,600.48,8.8
+7135,"Cream Of Chicken, Family Size",canned goods,0.99,1.75,-5.0,High,1.24,307.5,1721,430.25,222.33,93.5
+43515,L-Lysine 500 mg Capsules,personal care,3.47,6.64,-1.18,Medium,22.75,309.5,72,1388.16,953.79,45.5
+43780,Extra Cleansing Vinegar & Water Douche,personal care,2.59,5.53,-3.055,High,3.85,339.1,1025,1291.5,958.31,34.8
+17281,White with 30% Cacao Content Organic Chocolate,snacks,4.36,6.88,-2.76,High,6.84,50.0,50,124.0,121.71,1.9
+19430,Rye Flour,other,1.33,2.78,0.0,Low,inf,342.3,0,,483.26,
+31444,Crystallized Ginger In Dark Chocolate  Bar,snacks,6.28,9.81,0.0,Low,inf,347.7,0,,1185.47,
+16159,Free & Gentle Liquid Laundry Detergent,household,6.39,11.86,-4.45,High,8.24,241.0,1218,2253.3,1292.05,74.4
