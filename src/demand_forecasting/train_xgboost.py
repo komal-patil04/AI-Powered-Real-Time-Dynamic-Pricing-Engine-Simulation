@@ -6,8 +6,6 @@ import os
 from xgboost import XGBRegressor
 from sklearn.model_selection import \
 train_test_split
-from sklearn.preprocessing import \
-StandardScaler
 from sklearn.metrics import \
 mean_absolute_error
 
@@ -54,17 +52,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 )
 
 # -----------------------------
-# 4. SCALE FEATURES
-# -----------------------------
-
-scaler = StandardScaler()
-
-X_train = scaler.fit_transform(X_train)
-
-X_test = scaler.transform(X_test)
-
-# -----------------------------
-# 5. TRAIN XGBOOST
+# 4. TRAIN XGBOOST
 # -----------------------------
 
 model = XGBRegressor(

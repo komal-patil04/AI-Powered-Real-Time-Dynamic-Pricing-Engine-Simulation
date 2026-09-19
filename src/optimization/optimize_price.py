@@ -72,9 +72,6 @@ if __name__ == "__main__":
     # --------------------------------------------------
     # 4. PREDICT DEMAND
     # --------------------------------------------------
-    # No scaling needed - XGBoost's tree splits are invariant to a
-    # per-feature linear rescaling like StandardScaler, so predicting
-    # on the raw features gives the same result.
 
     df["predicted_demand"] = model.predict(X)
 
